@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="resources/html.svg"></img>
+<img src="https://github.com/leonardokr/leonardokr/resources/html.svg"></img>
