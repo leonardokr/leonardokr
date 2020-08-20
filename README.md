@@ -61,6 +61,6 @@ Here are some ideas to get you started:
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/bash.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/eclipse.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/azure.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google-cloud-platform.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google_cloud_platform.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/vmware.svg">
 </p>
