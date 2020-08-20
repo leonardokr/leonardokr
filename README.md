@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   ## Leonardo Klein Rezende
   Olá, nos repositórios poderá encontrar projetos em eletrônica, bibliotecas para o software Eagle da Autodesk, softwares de estudo e afins.
   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleonardokr%2F&count_bg=%2379C83D&title_bg=%23555555&title=Visitantes&edge_flat=true)](https://hits.seeyoufarm.com)
+  
   ###### Um pouco sobre mim:
   Sou especialista em cloud computing, atualmente me especializando também em projetos em cloud computing, sou formado em análise e desenvolvimento de sistemas e estou me formando em gestão de tecnologia da informação. Trabalho na área de tecnologia e sou entusiasta de eletrônica, principalmente na construção de ferramentaria para uso cotidiano e projetos para música, como amplificadores (valvulados e transistorizados) e pedais de efeito para guitarras.
   Meus gostos pessoais são música e leitura, mas também pratico trilha com moto e gosto de jogos de estratégia em tempo real, por turnos e MMORPG.
