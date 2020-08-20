@@ -1,6 +1,6 @@
 <!--
 **leonardokr/leonardokr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+### Olá 👋
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,17 +12,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+  ## Leonardo Klein Rezende
+  Olá, nos repositórios poderá encontrar projetos em eletrônica, bibliotecas para o software Eagle da Autodesk, softwares de estudo e afins.
+  
+  ###### Um pouco sobre mim:
+  Sou especialista em cloud computing, atualmente me especializando também em projetos em cloud computing, sou formado em análise e desenvolvimento de sistemas e estou me formando em gestão de tecnologia da informação. Trabalho na área de tecnologia e sou entusiasta de eletrônica, principalmente na construção de ferramentaria para uso cotidiano e projetos para música, como amplificadores (valvulados e transistorizados) e pedais de efeito para guitarras.
+  Meus gostos pessoais são música e leitura, mas também pratico trilha com moto e gosto de jogos de estratégia em tempo real, por turnos e MMORPG.
+  
+  ###### Curiosidades:
+  - O primeiro jogo que joguei no PC foi Age of Empires II
+  - Animes preferidos são Beck Mongolian Chop Squad e Naruto
+  - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
+  - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
+ 
+  ###### Projetos pessoais futuros:
+ - Montagem de uma CNC Router (projeto do Marlon Nardi <img height="14px" href="https://www.youtube.com/channel/UCKvdIGj5KqFUKS8_yj6nIuA" src="https://github.com/leonardokr/leonardokr/blob/master/resources/youtube.svg">)
+ - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <img height="14px" href="http://www.dem.inpe.br/~val/" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg">)
+ 
+ ###### Como entrar em contato:
+  <p align="left">
+  <img href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/" src="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg">
+  <img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/skype.svg">
+  <img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/twitch.svg">
+
+###### Atualmente estudando:
+<p align="left">
+  <img height="20px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/flutter.svg">
+  <img height="20px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/c-sharp.svg">
+
+
+<hr>
 <p align="center">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/html.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/css3.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/js.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/php.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/desktop.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/cloud.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/iot.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/gamedev.svg">
 </p>
 <p align="center">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/pc.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/bash.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/iot.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/raspberrypi.svg">
-<img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/php.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/html.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/css3.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/js.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/php.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/java.svg">
+</p>
+<p align="center">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/pc.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/raspberrypi.svg">
+</p>
+<p align="center">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/bash.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/eclipse.svg">
+</p>
+<p align="center">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/azure.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google-cloud.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/vmware.svg">
 </p>
