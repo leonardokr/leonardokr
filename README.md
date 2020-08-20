@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
  
   ###### Projetos pessoais futuros:
- - Montagem de uma CNC Router (projeto do Marlon Nardi <a href="https://www.youtube.com/channel/UCKvdIGj5KqFUKS8_yj6nIuA"><img height="14px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/youtube.svg"></a>)
- - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="14px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
+ - Montagem de uma CNC Router (projeto do Marlon Nardi <a href="https://www.youtube.com/channel/UCKvdIGj5KqFUKS8_yj6nIuA"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/youtube.svg"></a>)
+ - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
  
  ###### Como entrar em contato:
   <p align="left">
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ###### Atualmente estudando:
 <p align="left">
-  <img height="20px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/flutter.svg">
-  <img height="20px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/c-sharp.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/flutter.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/csharp.svg">
 
 
 <hr>
@@ -61,6 +61,6 @@ Here are some ideas to get you started:
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/bash.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/eclipse.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/azure.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google-cloud.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google-cloud-platform.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/vmware.svg">
 </p>
