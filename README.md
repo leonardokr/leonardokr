@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
  ###### Como entrar em contato:
   <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"><imgsrc="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg"></a>
   <a href="#"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/skype.svg"></a>
   <a href="#"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/twitch.svg"></a>
 
