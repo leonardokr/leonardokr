@@ -23,19 +23,20 @@ Here are some ideas to get you started:
   
   ###### Curiosidades:
   - O primeiro jogo que joguei no PC foi Age of Empires II
+  - Minhas primeiras experiências com programação foram fazendo traduções para jogos e mods
   - Animes preferidos são Beck Mongolian Chop Squad e Naruto
   - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
   - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
  
   ###### Projetos pessoais futuros:
- - Montagem de uma CNC Router (projeto do Marlon Nardi <img height="14px" href="https://www.youtube.com/channel/UCKvdIGj5KqFUKS8_yj6nIuA" src="https://github.com/leonardokr/leonardokr/blob/master/resources/youtube.svg">)
- - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <img height="14px" href="http://www.dem.inpe.br/~val/" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg">)
+ - Montagem de uma CNC Router (projeto do Marlon Nardi <a href="https://www.youtube.com/channel/UCKvdIGj5KqFUKS8_yj6nIuA"><img height="14px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/youtube.svg"></a>)
+ - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="14px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
  
  ###### Como entrar em contato:
   <p align="left">
-  <img href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/" src="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg">
-  <img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/skype.svg">
-  <img href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/twitch.svg">
+  <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"><imgsrc="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg"></a>
+  <a href="#"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/skype.svg"></a>
+  <a href="#"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/twitch.svg"></a>
 
 ###### Atualmente estudando:
 <p align="left">
@@ -50,23 +51,15 @@ Here are some ideas to get you started:
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/cloud.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/iot.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/gamedev.svg">
-</p>
-<p align="center">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/html.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/css3.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/js.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/php.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/java.svg">
-</p>
-<p align="center">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/pc.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/raspberrypi.svg">
-</p>
-<p align="center">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/bash.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/eclipse.svg">
-</p>
-<p align="center">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/azure.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google-cloud.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/vmware.svg">
