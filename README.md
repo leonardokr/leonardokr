@@ -36,9 +36,9 @@ Here are some ideas to get you started:
  
  ###### Como entrar em contato:
   <p align="left">
+  <a href="mailto:leo@ziondev.us"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/email_me.svg"></a>
   <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg"></a>
   <a href="https://join.skype.com/invite/qTpQ1zeKC8gE"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/skype.svg"></a>
-  <a href="#"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/twitch.svg"></a>
 
 ###### Atualmente estudando:
 <p align="left">
