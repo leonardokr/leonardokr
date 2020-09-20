@@ -30,8 +30,9 @@ Here are some ideas to get you started:
   - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
   - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
  
-  ###### Projetos pessoais futuros:
- - Montagem de uma CNC Router (projeto do Marlon Nardi <a href="https://www.youtube.com/channel/UCKvdIGj5KqFUKS8_yj6nIuA"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/youtube.svg"></a>)
+  ###### Projetos pessoais disponíveis futuramente no meu GitHub:
+ - Montagem de uma CNC Router (em andamento)
+ - Montagem de uma impressora 3D (em andamento)
  - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
  
  ###### Como entrar em contato:
