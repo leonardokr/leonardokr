@@ -31,9 +31,13 @@ Here are some ideas to get you started:
   - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
  
   ###### Projetos pessoais disponíveis futuramente no meu GitHub:
- - Montagem de uma CNC Router (em andamento)
+ - Montagem de uma CNC Router standalone com leitura de cartão SD e LCD 128x64 (em andamento)
  - Montagem de uma impressora 3D (em andamento)
  - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
+ - Projeto da fonte de bancada 40V e 4A
+ - Testador de circuitos com tela OLED 0.96"
+ - Protetor de circuitos com desarme em caso de curto-circuito
+ - Gravador PicKit Clone
  
  ###### Como entrar em contato:
   <p align="left">
