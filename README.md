@@ -38,6 +38,14 @@ Here are some ideas to get you started:
  - Testador de componentes com tela OLED 0.96"
  - Protetor de circuitos com desarme em caso de curto-circuito
  - Gravador PicKit Clone
+ - Medidor cardíaco e de oxigenação com Arduino
+ - Sistema de monitoramento de qualidade da água e nível de água em reservatório
+ - Sistema de acesso RFID
+ - Central de alarme e automação residencial (em andamento, ainda vai levar um tempo)
+ - Drone com piloto automático definido por rotas, pistas de pouso e pistas emergenciais (em andamento, mas vai demorar)
+ - Rádio FM simples com Arduino
+ - Câmara de exposição UV controlada e com LCD para fabricação de PCI com tinta fotossensível
+ - Carregador e testador de baterias com LCD
  
  ###### Como entrar em contato:
   <p align="left">
