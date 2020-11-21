@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
   - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
  
+ ###### Projetos pessoais já disponíveis no meu GitHub (pré-release ou não):
+ - Protetor de circuitos com desarme em caso de curto-circuito
+ 
   ###### Projetos pessoais disponíveis futuramente no meu GitHub:
  - Montagem de uma CNC Router standalone com leitura de cartão SD e LCD 128x64 (em andamento)
  - Montagem de uma impressora 3D (em andamento)
