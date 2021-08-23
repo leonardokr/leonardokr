@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 
   ## Leonardo Klein Rezende
-  Olá, nos repositórios poderá encontrar projetos em eletrônica, bibliotecas para o software Eagle da Autodesk, softwares de estudo e afins.
+  Olá, nos repositórios poderá encontrar projetos em eletrônica, bibliotecas para o software Eagle da Autodesk e KiCAD, softwares de estudo e afins.
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleonardokr%2F&count_bg=%2379C83D&title_bg=%23555555&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
-  
+
+<!--
   ###### Um pouco sobre mim:
   Sou especialista em cloud computing, atualmente me especializando também em projetos em cloud computing, sou formado em análise e desenvolvimento de sistemas e estou me formando em gestão de tecnologia da informação. Trabalho na área de tecnologia e sou entusiasta de eletrônica, principalmente na construção de ferramentaria para uso cotidiano e projetos para música, como amplificadores (valvulados e transistorizados) e pedais de efeito para guitarras.
   Meus gostos pessoais são música e leitura, mas também pratico trilha com moto e gosto de jogos de estratégia em tempo real, por turnos e MMORPG.
@@ -29,7 +30,8 @@ Here are some ideas to get you started:
   - Animes preferidos são Beck Mongolian Chop Squad e Naruto
   - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
   - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
- 
+--> 
+
  ###### Projetos pessoais já disponíveis no meu GitHub (pré-release ou não):
  - Protetor de circuitos com desarme em caso de curto-circuito
  
@@ -39,8 +41,6 @@ Here are some ideas to get you started:
  - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
  - Projeto da fonte de bancada 40V e 4A
  - Testador de componentes com tela OLED 0.96"
- - Protetor de circuitos com desarme em caso de curto-circuito
- - Gravador PicKit Clone
  - Medidor cardíaco e de oxigenação com Arduino
  - Sistema de monitoramento de qualidade da água e nível de água em reservatório
  - Sistema de acesso RFID
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
  - Rádio FM simples com Arduino
  - Câmara de exposição UV controlada e com LCD para fabricação de PCI com tinta fotossensível
  - Carregador e testador de baterias com LCD
+ - Limpador Ultrassônico para PCI e outros materiais
  
  ###### Como entrar em contato:
   <p align="left">
@@ -63,6 +64,7 @@ Here are some ideas to get you started:
 
 
 <hr>
+###### Conhecimentos em:
 <p align="center">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/desktop.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg">
