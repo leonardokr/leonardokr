@@ -61,10 +61,9 @@ Here are some ideas to get you started:
 <p align="left">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/flutter.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/csharp.svg">
-
-
+  
 <hr>
-###### Conhecimentos em:
+
 <p align="center">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/desktop.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg">
