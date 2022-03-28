@@ -40,15 +40,17 @@ Here are some ideas to get you started:
  - Montagem de uma impressora 3D (em andamento)
  - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
  - Projeto da fonte de bancada 40V e 4A
+ <!--
  - Testador de componentes com tela OLED 0.96"
  - Medidor cardíaco e de oxigenação com Arduino
+ - Rádio FM simples com Arduino
+ - Câmara de exposição UV controlada e com LCD para fabricação de PCI com tinta fotossensível
+ - Carregador e testador de baterias com LCD
+ -->
  - Sistema de monitoramento de qualidade da água e nível de água em reservatório
  - Sistema de acesso RFID
  - Central de alarme e automação residencial (em andamento, ainda vai levar um tempo)
  - Drone com piloto automático definido por rotas, pistas de pouso e pistas emergenciais (em andamento, mas vai demorar)
- - Rádio FM simples com Arduino
- - Câmara de exposição UV controlada e com LCD para fabricação de PCI com tinta fotossensível
- - Carregador e testador de baterias com LCD
  - Limpador Ultrassônico para PCI e outros materiais
  
  ###### Como entrar em contato:
