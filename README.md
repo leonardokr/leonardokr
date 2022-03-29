@@ -19,18 +19,23 @@ Here are some ideas to get you started:
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleonardokr%2F&count_bg=%2379C83D&title_bg=%23555555&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<!--
-  ###### Um pouco sobre mim:
-  Sou especialista em cloud computing, atualmente me especializando também em projetos em cloud computing, sou formado em análise e desenvolvimento de sistemas e estou me formando em gestão de tecnologia da informação. Trabalho na área de tecnologia e sou entusiasta de eletrônica, principalmente na construção de ferramentaria para uso cotidiano e projetos para música, como amplificadores (valvulados e transistorizados) e pedais de efeito para guitarras.
-  Meus gostos pessoais são música e leitura, mas também pratico trilha com moto e gosto de jogos de estratégia em tempo real, por turnos e MMORPG.
-  
-  ###### Curiosidades:
-  - O primeiro jogo que joguei no PC foi Age of Empires II
-  - Minhas primeiras experiências com programação foram fazendo traduções para jogos e mods
-  - Animes preferidos são Beck Mongolian Chop Squad e Naruto
-  - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
-  - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
---> 
+
+  <a href="https://github.com/leonardokr/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardokr&layout=compact&theme=react&hide_border=true"/>
+  </a>
+
+  <!--
+    ###### Um pouco sobre mim:
+    Sou especialista em cloud computing, atualmente me especializando também em projetos em cloud computing, sou formado em análise e desenvolvimento de sistemas e estou me formando em gestão de tecnologia da informação. Trabalho na área de tecnologia e sou entusiasta de eletrônica, principalmente na construção de ferramentaria para uso cotidiano e projetos para música, como amplificadores (valvulados e transistorizados) e pedais de efeito para guitarras.
+    Meus gostos pessoais são música e leitura, mas também pratico trilha com moto e gosto de jogos de estratégia em tempo real, por turnos e MMORPG.
+
+    ###### Curiosidades:
+    - O primeiro jogo que joguei no PC foi Age of Empires II
+    - Minhas primeiras experiências com programação foram fazendo traduções para jogos e mods
+    - Animes preferidos são Beck Mongolian Chop Squad e Naruto
+    - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
+    - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
+  --> 
 
  ###### Projetos pessoais já disponíveis no meu GitHub (pré-release ou não):
  - Protetor de circuitos com desarme em caso de curto-circuito
@@ -61,31 +66,25 @@ Here are some ideas to get you started:
 
 ###### Atualmente estudando:
 <p align="left">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/flutter.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/csharp.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/php.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/java.svg">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/js.svg">
   
 <hr>
 
 <p align="center">
+  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/pc.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/desktop.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/cloud.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/iot.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/gamedev.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/html.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/css3.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/js.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/php.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/java.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/pc.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/raspberrypi.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/bash.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/eclipse.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/azure.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google_cloud_platform.svg">
-  <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/vmware.svg">
 </p>
+<br/>
 <p align="center">
   <a href="https://github.com/leonardokr/github-readme-streak-stats">
     <img align=center" src="http://github-readme-streak-stats.herokuapp.com?user=leonardokr&theme=react&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 </p>
