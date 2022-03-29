@@ -85,3 +85,7 @@ Here are some ideas to get you started:
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/google_cloud_platform.svg">
   <img height="26px" href="#" src="https://github.com/leonardokr/leonardokr/blob/master/resources/vmware.svg">
 </p>
+<p align="center">
+  <a href="https://github.com/leonardokr/github-readme-streak-stats">
+    <img align=center" src="http://github-readme-streak-stats.herokuapp.com?user=leonardokr&theme=react&date_format=j%20M%5B%20Y%5D"/>
+</p>
