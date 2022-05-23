@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
   ## Leonardo Klein Rezende
-  Olá, nos repositórios poderá encontrar projetos em eletrônica, bibliotecas para o software Eagle da Autodesk e KiCAD, softwares de estudo e afins.
+  Olá, nos repositórios (com o tempo) poderá encontrar projetos em eletrônica, bibliotecas para o software Eagle da Autodesk e KiCAD, softwares, projetos WEB e afins.
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleonardokr%2F&count_bg=%2379C83D&title_bg=%23555555&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
 
