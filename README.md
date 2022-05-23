@@ -1,19 +1,3 @@
-<!--
-**leonardokr/leonardokr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Olá 👋
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
   ## Leonardo Klein Rezende
   Olá, nos repositórios (com o tempo) poderá encontrar projetos em eletrônica, bibliotecas para o software Eagle da Autodesk e KiCAD, softwares, projetos WEB e afins.
   
@@ -24,39 +8,18 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardokr&layout=compact&theme=react&hide_border=true"/>
   </a>
 
-  <!--
-    ###### Um pouco sobre mim:
-    Sou especialista em cloud computing, atualmente me especializando também em projetos em cloud computing, sou formado em análise e desenvolvimento de sistemas e estou me formando em gestão de tecnologia da informação. Trabalho na área de tecnologia e sou entusiasta de eletrônica, principalmente na construção de ferramentaria para uso cotidiano e projetos para música, como amplificadores (valvulados e transistorizados) e pedais de efeito para guitarras.
-    Meus gostos pessoais são música e leitura, mas também pratico trilha com moto e gosto de jogos de estratégia em tempo real, por turnos e MMORPG.
-
-    ###### Curiosidades:
-    - O primeiro jogo que joguei no PC foi Age of Empires II
-    - Minhas primeiras experiências com programação foram fazendo traduções para jogos e mods
-    - Animes preferidos são Beck Mongolian Chop Squad e Naruto
-    - Meu primeiro projeto de eletrônica foi ao 12 anos e consistia de um transmissor/receptor RF
-    - Meu objetivo é além de fazer meus próprios amplificadores e pedais, terminar de construir minhas próprias guitarras
-  --> 
+ ###### Sobre mim:
+- Sou especialista em cloud computing, formado em análise e desenvolvimento de sistemas e em gestão de tecnologia da informação. Minhas primeiras experiências com programação foram fazendo traduções para jogos e mods. Trabalho na área de tecnologia e sou entusiasta de eletrônica. 
 
  ###### Projetos pessoais já disponíveis no meu GitHub (pré-release ou não):
  - Protetor de circuitos com desarme em caso de curto-circuito
  
-  ###### Projetos pessoais disponíveis futuramente no meu GitHub:
+ ###### Projetos pessoais disponíveis futuramente no meu GitHub:
  - Montagem de uma CNC Router standalone com leitura de cartão SD e LCD 128x64 (em andamento)
  - Montagem de uma impressora 3D (em andamento)
  - Montagem da réplica do amplificador valvulado Fender 6G3 (base no projeto do Valdemir Carrara <a href="http://www.dem.inpe.br/~val/"><img height="16px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/web.svg"></a>)
- - Projeto da fonte de bancada 40V e 4A
- - Sistema de monitoramento de qualidade da água e nível de água em reservatório
- - Sistema de acesso RFID
- - Central de alarme e automação residencial (em andamento, ainda vai levar um tempo)
+ - Central de alarme e automação residencial, com monitoramento de qualidade e nível de água em reservatório, acesso RFID, monitoramento e afins (em andamento, ainda vai levar um tempo)
  - Drone com piloto automático definido por rotas, pistas de pouso e pistas emergenciais (em andamento, mas vai demorar)
- - Limpador Ultrassônico para PCI e outros materiais
- <!--
- - Testador de componentes com tela OLED 0.96"
- - Medidor cardíaco e de oxigenação com Arduino
- - Rádio FM simples com Arduino
- - Câmara de exposição UV controlada e com LCD para fabricação de PCI com tinta fotossensível
- - Carregador e testador de baterias com LCD
- -->
  
  ###### Como entrar em contato:
   <p align="left">
