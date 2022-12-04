@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://github.com/leonardokr/leonardokr/blob/master/resources/greetings_cutted.gif" style="width: 100%" />
 </div>
+ 
+  ## Leonardo Klein Rezende [![Linkedin Badge](https://img.shields.io/badge/-leonardo--klein--rezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/)](https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/)[![Linkedin Badge](https://img.shields.io/badge/-leonardo--klein--rezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/)](https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/) <a href="mailto:leo@ziondev.us"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/email_me.svg"/></a> <a href=""><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg"/></a> <a href="https://join.skype.com/invite/qTpQ1zeKC8gE"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/skype.svg"/></a>
+https://img.shields.io/badge/-leonardokr-blue
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleonardokr%2F&count_bg=%2379C83D&title_bg=%23555555&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
 
-  ## Leonardo Klein Rezende
-  Desenvolvedor Full Stack PHP
+   #### Desenvolvedor Full Stack PHP
 
 <div align="center">  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -22,10 +25,6 @@
   <a href="https://mariadb.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleonardokr%2F&count_bg=%2379C83D&title_bg=%23555555&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
 
  ###### Sobre mim
 - Especialista em cloud computing, formado em análise e desenvolvimento de sistemas e em gestão de tecnologia da informação. Minhas primeiras experiências com programação foram fazendo traduções para jogos e mods. Trabalho na área de tecnologia e sou entusiasta de eletrônica. 
@@ -36,17 +35,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardokr&layout=compact&theme=react&hide_border=true"/>
   </a>
   </div>
- 
- 
- 
- ###### Contato
-  <p align="left">
-  <a href="mailto:leo@ziondev.us"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/email_me.svg"></a>
-  <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/linkedin.svg"></a>
-  <a href="https://join.skype.com/invite/qTpQ1zeKC8gE"><img src="https://github.com/leonardokr/leonardokr/blob/master/resources/skype.svg"></a>
 
 ###### Estudando
-<div align="center">  
+<div align="left">  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
