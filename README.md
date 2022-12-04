@@ -50,4 +50,9 @@
   <a href="https://github.com/leonardokr/github-readme-streak-stats">
     <img align=center" src="http://github-readme-streak-stats.herokuapp.com?user=leonardokr&theme=react&date_format=j%20M%5B%20Y%5D"/>
   </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=metalion_ofc&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=38d7ff&bar_color_cover=true"/>
+  </a>
 </p>
