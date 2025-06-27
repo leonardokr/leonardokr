@@ -3,8 +3,6 @@
 </div>
 
 ## Leonardo Klein Rezende
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleonardokr%2F&count_bg=%232FBFE9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors+Today+/+Total&edge_flat=true)](https://hits.seeyoufarm.com)
-
 #### SysAdmin | WEB Developer
 
 <div align="center">  
