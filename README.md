@@ -44,9 +44,11 @@
 
 ###### About me
 
-- Cloud computing specialist, graduated in systems analysis and development and information technology management. My first experiences with programming were doing translations for games and mods. I work in the technology field and am an electronics enthusiast.
-- Experience with virtualized environments in XCP-ng and Hyper-V, with containers using Docker and writing Bash scripts, as well as managing Linux On-Premise servers.
-- Systems development in PHP and Visual DataFlex.
+- Graduated in Systems Analysis and Development and in IT Management, with a specialization in Cloud Computing. My first experiences with programming involved creating translations and mods for games. I work in the tech industry and am an electronics enthusiast.
+- Experience with on-premises and virtualized environments using XCP-ng, Hyper-V, and AWS, as well as containerization with Docker.
+- Scripting with PowerShell, Python, PHP, and Bash.
+- Systems development using Python, PHP, and Java.
+- Previous experience also with JavaScript and Visual DataFlex.
 
 ###### Portfolio
 
@@ -57,12 +59,6 @@
 </p>
 
 ###### Activity
-
-<p align="center">
-  <a href="https://github.com/leonardokr/github-readme-streak-stats">
-    <img align=center" src="http://github-readme-streak-stats.herokuapp.com?user=leonardokr&theme=sea-dark&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/">
