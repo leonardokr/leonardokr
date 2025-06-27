@@ -65,10 +65,7 @@
     <img align=center" src="https://img.shields.io/badge/-leonardo--klein--rezende-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"/>
   </a>
   <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/">
-    <img align=center" src="https://img.shields.io/badge/-leonardokr-00aff0?style=flat-square&logo=Skype&logoColor=white&link=https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/">
-    <img align=center" src="https://img.shields.io/badge/-leo%40ziondev.us-c71610?style=flat-square&logo=GMail&logoColor=white&link=https://www.linkedin.com/in/leonardo-klein-rezende-0b707b165/"/>
+    <img align=center" src="https://img.shields.io/badge/-leo%40ziondev.us-c71610?style=flat-square&logo=GMail&logoColor=white&link=mailto:leo@ziondev.us/"/>
   </a>
 </p>
 
