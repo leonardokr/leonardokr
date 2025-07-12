@@ -137,6 +137,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leonardokr&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=leonardokr&theme=alduin&row=4&column=8" alt="trophy" />
+  </a>
+</div>
+  
 ---
 
 ## Connect With Me
