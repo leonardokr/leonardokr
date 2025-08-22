@@ -10,15 +10,11 @@
 
 ## About Me
 
-🎓 **Academic Background**: Graduated in Systems Analysis and Development and IT Management, with specialization in Cloud Computing
-
-💻 **Current Role**: Systems Administrator with 15+ years of experience in technology, working remotely since 2023
-
-🔧 **Development Journey**: Python, Java, and PHP developer since 2013, with multiple projects developed and delivered throughout my career
-
-🎮 **Origin Story**: Started programming through game translations and modding, which sparked my passion for software development
-
-🏢 **Industry Focus**: Extensive experience in enterprise IT environments, working directly with both infrastructure management and software development projects
+🎓 **Academic Background**: Graduated in Systems Analysis and Development and IT Management, with specialization in Cloud Computing  
+💻 **Current Role**: Systems Administrator with 15+ years of experience in technology, working remotely since 2023  
+🔧 **Development Journey**: Python, Java, and PHP developer since 2013, with multiple projects developed and delivered throughout my career  
+🎮 **Origin Story**: Started programming through game translations and modding, which sparked my passion for software development  
+🏢 **Industry Focus**: Extensive experience in enterprise IT environments, working directly with both infrastructure management and software development projects  
 
 ---
 
@@ -101,24 +97,24 @@
 
 ## Professional Highlights
 
-- 🏢 **15+ Years in Technology**: Extensive experience in enterprise environments
-- 💻 **Systems Administration**: Specialized in on-premises and virtualized environments
-- ☁️ **Cloud Architecture**: AWS infrastructure design and implementation
-- 🐍 **Python Development**: Modern applications with clean architecture patterns
-- ☕ **Java Development**: Enterprise applications and backend systems
-- 🐘 **PHP Development**: Web applications and API development
-- 🔄 **DevOps Practices**: CI/CD pipelines, infrastructure automation
-- 📊 **Monitoring Solutions**: Elasticsearch, centralized logging systems
-- 🔧 **Automation Expert**: PowerShell and Bash scripting for operational efficiency
+🏢 **15+ Years in Technology**: Extensive experience in enterprise environments  
+💻 **Systems Administration**: Specialized in on-premises and virtualized environments  
+☁️ **Cloud Architecture**: AWS infrastructure design and implementation  
+🐍 **Python Development**: Modern applications with clean architecture patterns  
+☕ **Java Development**: Enterprise applications and backend systems  
+🐘 **PHP Development**: Web applications and API development  
+🔄 **DevOps Practices**: CI/CD pipelines, infrastructure automation  
+📊 **Monitoring Solutions**: Elasticsearch, centralized logging systems  
+🔧 **Automation Expert**: PowerShell and Bash scripting for operational efficiency  
 
 ---
 
 ## Career Transition Focus
 
-- 🎯 **Objective**: Transitioning from Systems Administration to Full-Stack Development
-- 🚀 **Development Experience**: 10+ years of sporadic development work with multiple delivered projects
-- 💡 **Unique Value**: Combining deep infrastructure knowledge with software development skills
-- 🛠️ **Recent Focus**: Modern Python applications, clean architecture, and user-centered design
+🎯 **Objective**: Transitioning from Systems Administration to Full-Stack Development  
+🚀 **Development Experience**: 10+ years of sporadic development work with multiple delivered projects  
+💡 **Unique Value**: Combining deep infrastructure knowledge with software development skills  
+🛠️ **Recent Focus**: Modern Python applications, clean architecture, and user-centered design  
 
 ---
 
