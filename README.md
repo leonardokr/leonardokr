@@ -121,13 +121,13 @@
 ## GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardokr&hide_border=true&layout=compact&theme=dark" align="center" />
+<img src="https://github-readme-stats-leonardokr.vercel.app/api/top-langs/?username=leonardokr&hide_border=true&layout=compact&theme=dark" align="center" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leonardokr&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
+  <img src="https://github-readme-stats-leonardokr.vercel.app/api?username=leonardokr&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
 </div>
 
 <br/>
