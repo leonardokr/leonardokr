@@ -109,15 +109,6 @@
 
 ---
 
-## Career Transition Focus
-
-🎯 **Objective**: Transitioning from Systems Administration to Full-Stack Development  
-🚀 **Development Experience**: 10+ years of sporadic development work with multiple delivered projects  
-💡 **Unique Value**: Combining deep infrastructure knowledge with software development skills  
-🛠️ **Recent Focus**: Modern Python applications, clean architecture, and user-centered design  
-
----
-
 ## GitHub Statistics
 
 <div align="center">
