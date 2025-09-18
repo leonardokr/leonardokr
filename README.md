@@ -125,7 +125,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/?username=leonardokr&row=4&column=8&theme=alduin" alt="trophy" />
+    <img src="https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/?username=leonardokr&row=4&column=8&theme=alduin" />
   </a>
 </div>
   
