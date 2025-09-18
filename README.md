@@ -112,7 +112,7 @@
 ## GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-leonardokr.vercel.app/api/top-langs/?username=leonardokr&layout=compact&hide_border=true&theme=dark" align="center" />
+<img src="https://github-readme-stats-leonardokr.vercel.app/api/top-langs/?username=leonardokr&hide_border=true&theme=dark" align="center" />
 </div>
 
 <br/>
