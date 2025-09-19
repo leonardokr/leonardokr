@@ -112,20 +112,20 @@
 ## GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-leonardokr.vercel.app/api/top-langs/?username=leonardokr&layout=compact&hide_border=true&theme=dark" align="center" />
+<img src="https://github-readme-stats-leonardokr.vercel.app/api/top-langs/?username=leonardokr&layout=compact&langs_count=20&hide_border=true&theme=dark" align="center" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-leonardokr.vercel.app/api?username=leonardokr&count_private=true&show_icons=true&hide_border=true&theme=dark" align="center" />
+  <img src="https://github-readme-stats-leonardokr.vercel.app/api?username=leonardokr&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark" align="center" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/?username=leonardokr&row=4&column=8&theme=alduin" />
+    <img src="https://github-profile-trophy.vercel.app/?username=leonardokr&theme=alduin" />
   </a>
 </div>
   
