@@ -45,15 +45,6 @@ jobs:
           hide_border: true
           output_path: profile/streak.svg
 
-      - name: Generate activity graph
-        uses: Ashutosh00710/github-readme-activity-graph@main
-        with:
-          username: leonardokr
-          theme: github-dark
-          hide_border: true
-          output: profile/activity-graph.svg
-          token: ${{ secrets.GH_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

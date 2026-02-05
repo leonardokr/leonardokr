@@ -81,7 +81,7 @@
 <br/>
 
 <div align="center">
-<img src="./profile/activity-graph.svg" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardokr&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
