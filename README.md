@@ -6,6 +6,12 @@
 
 ### <div align="center">Systems Administrator & Developer | 15 Years in Tech | Remote Work Since 2023 👨‍💻</div>
 
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=leonardokr&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
 ---
 
 ## About Me
@@ -18,44 +24,6 @@
 
 ---
 
-## Technical Expertise
-
-### 🖥️ Infrastructure & Cloud
-- **Virtualization**: XCP-ng, Hyper-V, VMware
-- **Cloud Platforms**: Amazon Web Services (AWS)
-- **Containerization**: Docker, Kubernetes
-- **Infrastructure as Code**: Terraform, Ansible
-
-### ⚡ Automation & Scripting
-- **Windows**: PowerShell scripting and automation
-- **Linux**: Bash scripting and system administration
-- **Configuration Management**: Ansible playbooks
-- **CI/CD**: Git workflows and deployment automation
-
-### 💻 Software Development
-- **Backend**: Python (Flask, FastAPI), Java, PHP
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Material-UI
-- **Desktop Applications**: PySide6/Qt6, Electron
-- **Databases**: MariaDB, MySQL, SQLite, PostgreSQL
-
-### 🔍 Monitoring & Analytics
-- **Search & Analytics**: Elasticsearch, Kibana
-- **Logging**: Centralized logging solutions
-- **Performance Monitoring**: System and application metrics
-
----
-<!--
-## Portfolio
-
-### 🐙 Manganizer - Personal Collection Manager
-**Technologies**: Python, PySide6, SQLite, Repository-Service-Controller Pattern
-- Modern desktop application for books collection management
-- Features dark/light themes, multi-language support, and ISBN search
-- Implements clean architecture with comprehensive error handling
-- [View Repository](https://github.com/leonardokr/manganizer)
-
----
--->
 ## My Skill Set
 
 <div align="center">
@@ -95,38 +63,31 @@
 
 ---
 
-## Professional Highlights
-
-🏢 **15+ Years in Technology**: Extensive experience in enterprise environments  
-💻 **Systems Administration**: Specialized in on-premises and virtualized environments  
-☁️ **Cloud Architecture**: AWS infrastructure design and implementation  
-🐍 **Python Development**: Modern applications with clean architecture patterns  
-☕ **Java Development**: Enterprise applications and backend systems  
-🐘 **PHP Development**: Web applications and API development  
-🔄 **DevOps Practices**: CI/CD pipelines, infrastructure automation  
-📊 **Monitoring Solutions**: Elasticsearch, centralized logging systems  
-🔧 **Automation Expert**: PowerShell and Bash scripting for operational efficiency  
-
----
-
 ## GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-leonardokr.vercel.app/api/top-langs/?username=leonardokr&layout=compact&langs_count=20&hide_border=true&theme=dark" align="center" />
+<table>
+<tr>
+<td><img src="./profile/stats.svg" alt="GitHub Stats" /></td>
+<td><img src="./profile/top-langs.svg" alt="Top Languages" /></td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-leonardokr.vercel.app/api?username=leonardokr&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark" align="center" />
+<img src="./profile/activity-graph.svg" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=leonardokr&theme=alduin" />
-  </a>
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
   
 ---
