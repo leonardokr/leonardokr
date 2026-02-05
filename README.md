@@ -75,7 +75,7 @@
 </div>
 
 <div align="center">
-<img src="./profile/streak.svg" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=leonardokr&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
