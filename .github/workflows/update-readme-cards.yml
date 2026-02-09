@@ -44,6 +44,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: leonardokr
 
+      - name: Move 3D output into profile
+        run: |
+          rm -rf profile/profile-3d-contrib
+          mkdir -p profile
+          mv profile-3d-contrib profile/profile-3d-contrib
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
