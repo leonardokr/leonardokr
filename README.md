@@ -1,18 +1,11 @@
 # Leonardo Klein Rezende
-
-<div align="center">
-<img src="https://github.com/leonardokr/leonardokr/blob/master/resources/greetings_cutted.gif" align="center" style="width: 100%" />
-</div>
-
-### <div align="center">Systems Administrator & Developer | 15 Years in Tech | Remote Work Since 2023 👨‍💻</div>
-
-<div align="center">
-
+Systems Administrator | Developer | 15 Years in Tech | Remote Work Since 2023  
 ![Visitors](https://komarev.com/ghpvc/?username=leonardokr&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardokr&theme=github-dark&hide_border=true" alt="Activity Graph" />
+<img src="./resources/greetings_cutted.gif" alt="Greetings" style="width: 100%" />
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardokr&theme=github-dark&hide_border=true" alt="Activity Graph" />
+<!--<img src="https://streak-stats.demolab.com?user=leonardokr&theme=dark&hide_border=true" alt="GitHub Streak" />-->
 
 ---
 
@@ -30,39 +23,39 @@
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,flask,bootstrap,materialui&theme=dark" alt="Languages & Frameworks" />
+<b>Languages & Frameworks</b><br>
+<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,flask,bootstrap,materialui&theme=dark" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,elasticsearch&theme=dark" alt="Databases" />
+<b>Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,elasticsearch&theme=dark" />
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,docker,kubernetes,aws,terraform,ansible&theme=dark" alt="DevOps & Cloud" />
+<b>DevOps & Cloud</b><br>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,docker,kubernetes,aws,terraform,ansible&theme=dark" />
 
 </div>
+
 
 ---
 
 ## GitHub Statistics
-
 <div align="center">
-<img src="./profile/stats.svg" alt="GitHub Stats" />
-<img src="./profile/top-langs.svg" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=leonardokr&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./profile/trophy.svg" alt="GitHub Trophies" />
+<img src="./profile/profile-3d-contrib/profile-night-view.svg" alt="Profile 3D Contrib" />
 </div>
   
----
+<!--
+<div align="center">
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
+</div>
+-->
 
-## Connect With Me
+<br/>
 
 <div align="center">
 <a href="https://github.com/leonardokr" target="_blank">
@@ -79,5 +72,5 @@
 ---
 
 <div align="center">
-<i>Bridging infrastructure expertise with modern software development</i>
+<p>"The science of today is the technology of tomorrow" - Edward Teller</p>
 </div>
