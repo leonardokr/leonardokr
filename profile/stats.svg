@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Leonardo Klein Rezende's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 14, Total Commits  : 732, Total PRs: 17, Total Issues: 2, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 14, Total Commits  : 730, Total PRs: 17, Total Issues: 2, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 190.5871146969524;
+        stroke-dashoffset: 190.62210044578504;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >732</text>
+      >730</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
