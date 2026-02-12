@@ -46,6 +46,7 @@ Systems Administrator | Developer | 15 Years in Tech | Remote Work Since 2023
 
 <div align="center">
 <img src="./profile/profile-3d-contrib/profile-night-view.svg" alt="Profile 3D Contrib" />
+<img src="https://github.com/leonardokr/leo-git-statistics/blob/eab1a3e8b87f344bf9e02e6d8b64a61eb7364397/generated_images/commit_calendardark.svg" alt="Commit Calendar" width="100%"/>
 </div>
   
 <!--
