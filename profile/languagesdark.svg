@@ -1,0 +1,95 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="lang-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#a371f7;stop-opacity:1" />
+  </linearGradient>
+  <clipPath id="lang-rounded">
+    <rect x="0" y="0" width="495" height="195" rx="6" ry="6"/>
+  </clipPath>
+  <clipPath id="progress-clip">
+    <rect x="0" y="0" width="455" height="8" rx="4" ry="4"/>
+  </clipPath>
+</defs>
+
+<style>
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes slideRight {
+    from { opacity: 0; transform: translateX(-20px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes expandWidth {
+    from { transform: scaleX(0); }
+    to { transform: scaleX(1); }
+  }
+  .animate-fade { animation: fadeInUp 0.6s ease forwards; opacity: 0; }
+  .animate-slide { animation: slideRight 0.5s ease forwards; opacity: 0; }
+  .progress-animate { animation: expandWidth 1s ease-out forwards; transform-origin: left; }
+  .delay-1 { animation-delay: 0.1s; }
+  .delay-2 { animation-delay: 0.2s; }
+  .delay-3 { animation-delay: 0.4s; }
+</style>
+
+<rect clip-path="url(#lang-rounded)" width="100%" height="100%" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+<rect x="0" y="0" width="6" height="195" fill="url(#lang-gradient)" clip-path="url(#lang-rounded)"/>
+
+<g transform="translate(25, 28)">
+  <g class="animate-fade delay-1">
+    <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-weight="600" font-size="18" fill="#58a6ff">Most Used Languages</text>
+  </g>
+</g>
+
+<g transform="translate(20, 50)">
+  <g class="animate-fade delay-2">
+    <rect x="0" y="0" width="455" height="8" rx="4" ry="4" fill="#30363d" opacity="0.3"/>
+    <g clip-path="url(#progress-clip)" class="progress-animate">
+      <rect x="0.00" y="0" width="235.61" height="8" fill="None"/><rect x="235.61" y="0" width="168.89" height="8" fill="#3572A5"/><rect x="404.50" y="0" width="37.14" height="8" fill="#EB8CEB"/><rect x="441.64" y="0" width="4.75" height="8" fill="#012456"/><rect x="446.39" y="0" width="2.94" height="8" fill="#f1e05a"/><rect x="449.33" y="0" width="2.29" height="8" fill="#A97BFF"/><rect x="451.62" y="0" width="1.30" height="8" fill="#3178c6"/><rect x="452.92" y="0" width="1.14" height="8" fill="#e34c26"/><rect x="454.07" y="0" width="0.39" height="8" fill="#f34b7d"/><rect x="454.46" y="0" width="0.23" height="8" fill="#ecdebe"/><rect x="454.69" y="0" width="0.12" height="8" fill="#3D6117"/><rect x="454.81" y="0" width="0.12" height="8" fill="#663399"/><rect x="454.93" y="0" width="0.04" height="8" fill="#89e051"/><rect x="454.97" y="0" width="0.03" height="8" fill="#C1F12E"/>
+    </g>
+  </g>
+</g>
+
+<foreignObject x="20" y="75" width="455" height="105" class="animate-slide delay-3">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 12px;">
+    <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px 16px;">
+      <li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: None; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">Rich Text Format</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">51.8%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3572A5; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">Python</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">37.1%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #EB8CEB; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">XSLT</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">8.2%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #012456; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">PowerShell</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">1.0%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #f1e05a; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">JavaScript</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.6%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #A97BFF; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">Kotlin</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.5%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3178c6; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">TypeScript</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.3%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #e34c26; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">HTML</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.3%</span>
+            </li>
+    </ul>
+  </div>
+</foreignObject>
+
+</svg>

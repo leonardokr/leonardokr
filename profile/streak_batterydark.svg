@@ -1,0 +1,146 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="battery-gradient" x1="0%" y1="100%" x2="0%" y2="0%">
+    <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#a371f7;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="glow-gradient" x1="0%" y1="100%" x2="0%" y2="0%">
+    <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0.8" />
+    <stop offset="100%" style="stop-color:#a371f7;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="bar-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#a371f7;stop-opacity:1" />
+  </linearGradient>
+  <clipPath id="card-rounded">
+    <rect x="0" y="0" width="495" height="195" rx="6" ry="6"/>
+  </clipPath>
+  <filter id="glow-filter" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<style>
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+  @keyframes countUp {
+    from { opacity: 0; transform: scale(0.5); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  @keyframes fillUp {
+    from { transform: scaleY(0); }
+    to { transform: scaleY(1); }
+  }
+  @keyframes glowPulse {
+    0%, 100% { filter: url(#glow-filter); opacity: 1; }
+    50% { filter: url(#glow-filter) brightness(1.3); opacity: 0.9; }
+  }
+  @keyframes shimmer {
+    0% { opacity: 0.3; }
+    50% { opacity: 0.6; }
+    100% { opacity: 0.3; }
+  }
+  .animate-fade { animation: fadeInUp 0.6s ease forwards; opacity: 0; }
+  .animate-count { animation: countUp 0.8s ease forwards; opacity: 0; }
+  .animate-pulse { animation: pulse 2s ease-in-out infinite; }
+  .animate-fill { animation: fillUp 1s ease-out forwards; transform-origin: bottom; }
+  .animate-glow { animation: glowPulse 2s ease-in-out infinite; }
+  .animate-shimmer { animation: shimmer 2s ease-in-out infinite; }
+  .delay-1 { animation-delay: 0.1s; }
+  .delay-2 { animation-delay: 0.2s; }
+  .delay-3 { animation-delay: 0.3s; }
+  .delay-4 { animation-delay: 0.4s; }
+  .delay-5 { animation-delay: 0.5s; }
+  .delay-6 { animation-delay: 0.6s; }
+  .delay-7 { animation-delay: 0.7s; }
+  .delay-8 { animation-delay: 0.8s; }
+  .delay-9 { animation-delay: 0.9s; }
+  .delay-10 { animation-delay: 1.0s; }
+</style>
+
+<rect clip-path="url(#card-rounded)" width="100%" height="100%" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+<rect x="0" y="189" width="495" height="6" fill="url(#bar-gradient)" clip-path="url(#card-rounded)"/>
+
+<g transform="translate(25, 30)">
+  <g class="animate-fade delay-1">
+    <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-weight="600" font-size="18" fill="#58a6ff">Streak Battery</text>
+  </g>
+</g>
+
+<g transform="translate(40, 60)">
+  <g class="animate-fade delay-2">
+    <rect x="15" y="-5" width="20" height="8" rx="2" ry="2" fill="#30363d"/>
+    <rect x="0" y="0" width="50" height="95" rx="5" ry="5" fill="none" stroke="#30363d" stroke-width="2"/>
+    <rect x="4" y="4" width="42" height="87" rx="3" ry="3" fill="#0d1117" opacity="0.5"/>
+
+    <g opacity="0.15" fill="#c9d1d9">
+      <rect x="7" y="8" width="36" height="80" rx="2"/>
+    </g>
+
+    <g class="">
+      <rect x="4" y="59" width="42" height="32" rx="3" ry="3"
+            fill="url(#battery-gradient)"
+            class="animate-fill delay-3"/>
+    </g>
+  </g>
+</g>
+
+<g transform="translate(40, 170)">
+  <g class="animate-fade delay-4">
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="600" font-size="11" fill="#8b949e" text-anchor="middle" x="25">37%</text>
+  </g>
+</g>
+
+<g transform="translate(160, 70)">
+  <g class="animate-fill delay-1" style="transform-origin: 7px bottom;"><rect x="0" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
+  <g class="animate-fill delay-2" style="transform-origin: 25px bottom;"><rect x="18" y="89" width="14" height="11" rx="2" fill="#58a6ff"/></g>
+  <text x="25" y="84" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-2">14</text>
+  <g class="animate-fill delay-3" style="transform-origin: 43px bottom;"><rect x="36" y="27" width="14" height="73" rx="2" fill="#58a6ff"/></g>
+  <text x="43" y="22" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-3">87</text>
+  <g class="animate-fill delay-4" style="transform-origin: 61px bottom;"><rect x="54" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
+  <g class="animate-fill delay-5" style="transform-origin: 79px bottom;"><rect x="72" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
+  <text x="79" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-5">1</text>
+  <g class="animate-fill delay-6" style="transform-origin: 97px bottom;"><rect x="90" y="0" width="14" height="100" rx="2" fill="#58a6ff"/></g>
+  <text x="97" y="-5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-6">119</text>
+  <g class="animate-fill delay-7" style="transform-origin: 115px bottom;"><rect x="108" y="27" width="14" height="73" rx="2" fill="#58a6ff"/></g>
+  <text x="115" y="22" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-7">88</text>
+  <g class="animate-fill delay-8" style="transform-origin: 133px bottom;"><rect x="126" y="50" width="14" height="50" rx="2" fill="#58a6ff"/></g>
+  <text x="133" y="45" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-8">60</text>
+  <g class="animate-fill delay-9" style="transform-origin: 151px bottom;"><rect x="144" y="70" width="14" height="30" rx="2" fill="#58a6ff"/></g>
+  <text x="151" y="65" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-9">36</text>
+  <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="90" width="14" height="10" rx="2" fill="#58a6ff"/></g>
+  <text x="169" y="85" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-10">12</text>
+</g>
+
+<g transform="translate(380, 55)">
+  <g class="animate-count delay-5">
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">6</text>
+    <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Current Streak</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Feb 08 - Feb 13, 2026</text>
+  </g>
+</g>
+
+<g transform="translate(380, 140)">
+  <g class="animate-count delay-6">
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">16</text>
+    <svg class="" x="60" y="-20" width="18" height="18" viewBox="0 0 16 16" fill="#58a6ff">
+      <path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+    </svg>
+    <text y="18" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Longest Streak</text>
+    <text y="32" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Sep 04 - Sep 19, 2025</text>
+  </g>
+</g>
+
+</svg>

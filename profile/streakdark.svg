@@ -1,0 +1,75 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="streak-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#a371f7;stop-opacity:1" />
+  </linearGradient>
+  <clipPath id="streak-rounded">
+    <rect x="0" y="0" width="495" height="195" rx="6" ry="6"/>
+  </clipPath>
+</defs>
+
+<style>
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+  @keyframes countUp {
+    from { opacity: 0; transform: scale(0.5); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  .animate-fade { animation: fadeInUp 0.6s ease forwards; opacity: 0; }
+  .animate-count { animation: countUp 0.8s ease forwards; opacity: 0; }
+  .animate-pulse { animation: pulse 2s ease-in-out infinite; }
+  .delay-1 { animation-delay: 0.1s; }
+  .delay-2 { animation-delay: 0.3s; }
+  .delay-3 { animation-delay: 0.5s; }
+  .delay-4 { animation-delay: 0.7s; }
+</style>
+
+<rect clip-path="url(#streak-rounded)" width="100%" height="100%" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+<rect x="0" y="189" width="495" height="6" fill="url(#streak-gradient)" clip-path="url(#streak-rounded)"/>
+
+<g transform="translate(25, 30)">
+  <g class="animate-fade delay-1">
+    <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-weight="600" font-size="18" fill="#58a6ff">Contribution Activity</text>
+  </g>
+</g>
+
+<g transform="translate(85, 105)">
+  <g class="animate-count delay-2">
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">6</text>
+    <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Current Streak</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">Feb 08 - Feb 13, 2026</text>
+  </g>
+</g>
+
+<line x1="165" y1="60" x2="165" y2="160" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+
+<g transform="translate(247, 105)">
+  <g class="animate-count delay-3">
+    <svg class="animate-pulse" x="-12" y="-70" width="24" height="24" viewBox="0 0 16 16" fill="#58a6ff">
+      <path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+    </svg>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">16</text>
+    <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Longest Streak</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">Sep 04 - Sep 19, 2025</text>
+  </g>
+</g>
+
+<line x1="330" y1="60" x2="330" y2="160" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+
+<g transform="translate(412, 105)">
+  <g class="animate-count delay-4">
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">1,034</text>
+    <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Total Contributions</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">All time</text>
+  </g>
+</g>
+
+</svg>
