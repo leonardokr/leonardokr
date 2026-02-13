@@ -15,33 +15,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate commit calendar
+        uses: leonardokr/leo-git-statistics@v1
         with:
-          card: stats
-          options: username=leonardokr&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark
-          path: profile/stats.svg
-          token: ${{ secrets.GH_TOKEN }}
-
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=leonardokr&layout=compact&langs_count=20&hide_border=true&theme=dark
-          path: profile/top-langs.svg
-          token: ${{ secrets.GH_TOKEN }}
+          github-token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          github-username: leonardokr
+          output-dir: profile
+          themes: dark
 
       - name: Generate trophy card
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: leonardokr
           output_path: profile/trophy.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate 3D contribution card
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           USERNAME: leonardokr
 
       - name: Move 3D output into profile
@@ -58,3 +50,4 @@ jobs:
           git add profile/profile-3d-contrib
           git commit -m "Update README cards" || exit 0
           git push
+
