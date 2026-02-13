@@ -1,6 +1,6 @@
 # Leonardo Klein Rezende
 Systems Administrator | Developer | 15 Years in Tech | Remote Work Since 2023  
-![Visitors](https://komarev.com/ghpvc/?username=leonardokr&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=leonardokr&color=blueviolet&style=flat-square&label=Profile+Views) <!-- [![committers.top badge](https://user-badge.committers.top/brazil/leonardokr.svg)](https://user-badge.committers.top/brazil/leonardokr) -->
 
 <img src="./resources/greetings_cutted.gif" alt="Greetings" style="width: 100%" />
 
