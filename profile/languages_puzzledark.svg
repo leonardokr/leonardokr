@@ -64,24 +64,24 @@
 <g transform="translate(20, 50)">
     <g class="animate-fade delay-2">
     <g clip-path="url(#treemap-clip)">
-      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="186.76" height="104.57" rx="4.0" fill="#16cece"/>
-<text class="puzzle-text" x="94.38" y="51.29" text-anchor="middle" dominant-baseline="middle">Rich Text Format</text>
-<text class="puzzle-percent" x="94.38" y="63.29" text-anchor="middle" dominant-baseline="middle">50.6%</text>
-<rect class="puzzle-rect delay-2" x="189.76" y="1.00" width="232.75" height="70.55" rx="4.0" fill="#5ba2eb"/>
-<text class="puzzle-text" x="306.13" y="34.27" text-anchor="middle" dominant-baseline="middle">Python</text>
-<text class="puzzle-percent" x="306.13" y="46.27" text-anchor="middle" dominant-baseline="middle">36.2%</text>
-<rect class="puzzle-rect delay-3" x="189.76" y="73.55" width="232.75" height="32.02" rx="4.0" fill="#1d1ad6"/>
-<text class="puzzle-text" x="306.13" y="87.56" text-anchor="middle" dominant-baseline="middle">XSLT</text>
-<text class="puzzle-percent" x="306.13" y="99.56" text-anchor="middle" dominant-baseline="middle">8.0%</text>
-<rect class="puzzle-rect delay-4" x="1.00" y="107.57" width="253.12" height="13.18" rx="3.8" fill="#56cce9"/>
-<rect class="puzzle-rect delay-5" x="1.00" y="122.75" width="253.12" height="11.25" rx="3.3" fill="#1d56dd"/>
-<rect class="puzzle-rect delay-6" x="256.12" y="107.57" width="166.39" height="14.65" rx="4.0" fill="#7151e6"/>
-<rect class="puzzle-rect delay-7" x="256.12" y="124.22" width="166.39" height="9.78" rx="2.9" fill="#2797df"/>
-<rect class="puzzle-rect delay-8" x="424.51" y="1.00" width="13.45" height="88.67" rx="3.9" fill="#4c5be3"/>
-<rect class="puzzle-rect delay-8" x="439.96" y="1.00" width="14.04" height="49.32" rx="4.0" fill="#33d1de"/>
-<rect class="puzzle-rect delay-8" x="439.96" y="52.32" width="14.04" height="37.35" rx="4.0" fill="#4787e0"/>
-<rect class="puzzle-rect delay-8" x="424.51" y="91.67" width="18.34" height="20.46" rx="4.0" fill="#4d3edd"/>
-<rect class="puzzle-rect delay-8" x="424.51" y="114.13" width="18.34" height="19.87" rx="4.0" fill="#43b3dd"/>
+      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="186.76" height="104.52" rx="4.0" fill="#16cece"/>
+<text class="puzzle-text" x="94.38" y="51.26" text-anchor="middle" dominant-baseline="middle">Rich Text Format</text>
+<text class="puzzle-percent" x="94.38" y="63.26" text-anchor="middle" dominant-baseline="middle">50.6%</text>
+<rect class="puzzle-rect delay-2" x="189.76" y="1.00" width="232.76" height="70.51" rx="4.0" fill="#5ba2eb"/>
+<text class="puzzle-text" x="306.14" y="34.26" text-anchor="middle" dominant-baseline="middle">Python</text>
+<text class="puzzle-percent" x="306.14" y="46.26" text-anchor="middle" dominant-baseline="middle">36.2%</text>
+<rect class="puzzle-rect delay-3" x="189.76" y="73.51" width="232.76" height="32.01" rx="4.0" fill="#1d1ad6"/>
+<text class="puzzle-text" x="306.14" y="87.52" text-anchor="middle" dominant-baseline="middle">XSLT</text>
+<text class="puzzle-percent" x="306.14" y="99.52" text-anchor="middle" dominant-baseline="middle">8.0%</text>
+<rect class="puzzle-rect delay-4" x="1.00" y="107.52" width="253.02" height="13.20" rx="3.8" fill="#56cce9"/>
+<rect class="puzzle-rect delay-5" x="1.00" y="122.72" width="253.02" height="11.28" rx="3.3" fill="#1d56dd"/>
+<rect class="puzzle-rect delay-6" x="256.02" y="107.52" width="166.51" height="14.71" rx="4.0" fill="#7151e6"/>
+<rect class="puzzle-rect delay-7" x="256.02" y="124.23" width="166.51" height="9.77" rx="2.9" fill="#2797df"/>
+<rect class="puzzle-rect delay-8" x="424.52" y="1.00" width="13.44" height="88.67" rx="3.9" fill="#4c5be3"/>
+<rect class="puzzle-rect delay-8" x="439.97" y="1.00" width="14.03" height="49.32" rx="4.0" fill="#33d1de"/>
+<rect class="puzzle-rect delay-8" x="439.97" y="52.32" width="14.03" height="37.35" rx="4.0" fill="#4787e0"/>
+<rect class="puzzle-rect delay-8" x="424.52" y="91.67" width="18.33" height="20.46" rx="4.0" fill="#4d3edd"/>
+<rect class="puzzle-rect delay-8" x="424.52" y="114.13" width="18.33" height="19.87" rx="4.0" fill="#43b3dd"/>
 <rect class="puzzle-rect delay-8" x="444.85" y="91.67" width="9.15" height="21.15" rx="2.8" fill="#4a6add"/>
 <rect class="puzzle-rect delay-8" x="444.85" y="114.82" width="9.15" height="19.18" rx="2.8" fill="#6b3ed9"/>
 
