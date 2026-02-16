@@ -78,7 +78,7 @@
         <path fill-rule="evenodd" d="M8.75 1.75a.75.75 0 00-1.5 0V5H4a.75.75 0 000 1.5h3.25v3.25a.75.75 0 001.5 0V6.5H12A.75.75 0 0012 5H8.75V1.75zM4 13a.75.75 0 000 1.5h8a.75.75 0 100-1.5H4z"/>
       </svg>
       <text x="22" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">Lines of Code:</text>
-      <text x="116" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">3,702,114</text>
+      <text x="116" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">4,175,000</text>
     </g>
   </g>
 
@@ -109,7 +109,7 @@
       <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/>
     </svg>
     <text x="22" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">Avg. Contribution:</text>
-    <text x="138" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">63.41%</text>
+    <text x="138" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">75.11%</text>
   </g>
 
   <g transform="translate(0, 26)">
@@ -118,7 +118,7 @@
         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
       </svg>
       <text x="22" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">Collaborators:</text>
-      <text x="108" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">9</text>
+      <text x="108" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">11</text>
     </g>
   </g>
 
