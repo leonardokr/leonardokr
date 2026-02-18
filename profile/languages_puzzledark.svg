@@ -67,14 +67,14 @@
       <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="186.04" height="104.57" rx="4.0" fill="#16cece"/>
 <text class="puzzle-text" x="94.02" y="51.29" text-anchor="middle" dominant-baseline="middle">Rich Text Format</text>
 <text class="puzzle-percent" x="94.02" y="63.29" text-anchor="middle" dominant-baseline="middle">50.3%</text>
-<rect class="puzzle-rect delay-2" x="189.04" y="1.00" width="232.81" height="70.68" rx="4.0" fill="#5ba2eb"/>
+<rect class="puzzle-rect delay-2" x="189.04" y="1.00" width="232.82" height="70.69" rx="4.0" fill="#5ba2eb"/>
 <text class="puzzle-text" x="305.45" y="34.34" text-anchor="middle" dominant-baseline="middle">Python</text>
 <text class="puzzle-percent" x="305.45" y="46.34" text-anchor="middle" dominant-baseline="middle">36.5%</text>
-<rect class="puzzle-rect delay-3" x="189.04" y="73.68" width="232.81" height="31.89" rx="4.0" fill="#1d1ad5"/>
+<rect class="puzzle-rect delay-3" x="189.04" y="73.69" width="232.82" height="31.88" rx="4.0" fill="#1d1ad5"/>
 <text class="puzzle-text" x="305.45" y="87.63" text-anchor="middle" dominant-baseline="middle">XSLT</text>
 <text class="puzzle-percent" x="305.45" y="99.63" text-anchor="middle" dominant-baseline="middle">7.9%</text>
 <rect class="puzzle-rect delay-4" x="1.00" y="107.57" width="252.62" height="13.17" rx="3.8" fill="#57cde9"/>
-<rect class="puzzle-rect delay-5" x="1.00" y="122.74" width="252.62" height="11.26" rx="3.3" fill="#1d56dc"/>
+<rect class="puzzle-rect delay-5" x="1.00" y="122.75" width="252.62" height="11.25" rx="3.3" fill="#1d56dc"/>
 <rect class="puzzle-rect delay-6" x="255.62" y="107.57" width="166.24" height="14.68" rx="4.0" fill="#7252e6"/>
 <rect class="puzzle-rect delay-7" x="255.62" y="124.25" width="166.24" height="9.75" rx="2.9" fill="#2496df"/>
 <rect class="puzzle-rect delay-8" x="423.86" y="1.00" width="19.59" height="62.66" rx="4.0" fill="#4d5de4"/>
