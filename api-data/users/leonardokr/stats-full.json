@@ -2,21 +2,21 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 1439,
+    "total_contributions": 1441,
     "repositories_count": 14,
     "total_stars": 24,
     "total_forks": 0,
-    "total_followers": 62,
+    "total_followers": 63,
     "total_following": 114,
     "total_views": 772,
-    "views_from_date": "2026-02-06",
+    "views_from_date": "2026-02-03",
     "total_clones": 1792,
-    "clones_from_date": "2026-02-06",
-    "total_pull_requests": 45,
-    "total_issues": 126,
-    "lines_added": 838911,
-    "lines_deleted": 412261,
-    "avg_contribution_percent": "93.21%",
+    "clones_from_date": "2026-02-03",
+    "total_pull_requests": 46,
+    "total_issues": 125,
+    "lines_added": 838919,
+    "lines_deleted": 412262,
+    "avg_contribution_percent": "93.14%",
     "collaborators_count": 6,
     "contributors_count": 5
   },
@@ -95,7 +95,7 @@
     "longest_streak_range": "Sep 04 - Sep 19, 2025"
   },
   "contributions": {
-    "total": 1439,
+    "total": 1441,
     "recent": [
       60,
       36,
@@ -106,7 +106,7 @@
       56,
       55,
       176,
-      43
+      45
     ]
   },
   "repositories": {
@@ -129,20 +129,6 @@
     ]
   },
   "weekly_commits": [
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-02-16T00:21:02+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-02-16T00:26:05+00:00"
-    },
     {
       "repo": "leonardokr/leo-git-statistics",
       "sha": "3f4a117cf620486f663f131d62fafe786b511bd3",
@@ -1409,6 +1395,20 @@
       "description": "Merge pull request #62 from leonardokr/release-please--branches--main",
       "is_private": false,
       "timestamp": "2026-02-20T19:32:19+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "c86d5f38864d951e1b3cdfd6715c0ab8c915b581",
+      "description": "fix(action): resolve static-api-data-dir relative to workspace",
+      "is_private": false,
+      "timestamp": "2026-02-20T19:38:46+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "0be9ebe69afebd583360d6ea30a2e5ed9a42c5db",
+      "description": "Merge pull request #63 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-20T19:59:27+00:00"
     }
   ]
 }

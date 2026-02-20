@@ -47,7 +47,7 @@
   <g class="animate-fade delay-2">
     <rect x="0" y="0" width="455" height="8" rx="4" ry="4" fill="#30363d" opacity="0.3"/>
     <g clip-path="url(#progress-clip)" class="progress-animate">
-      <rect x="0.00" y="0" width="228.69" height="8" fill="None"/><rect x="228.69" y="0" width="166.28" height="8" fill="#3572A5"/><rect x="394.97" y="0" width="36.05" height="8" fill="#EB8CEB"/><rect x="431.02" y="0" width="8.50" height="8" fill="#f1e05a"/><rect x="439.52" y="0" width="6.49" height="8" fill="#3178c6"/><rect x="446.01" y="0" width="4.74" height="8" fill="#012456"/><rect x="450.75" y="0" width="2.22" height="8" fill="#A97BFF"/><rect x="452.98" y="0" width="1.11" height="8" fill="#e34c26"/><rect x="454.09" y="0" width="0.38" height="8" fill="#f34b7d"/><rect x="454.47" y="0" width="0.23" height="8" fill="#ecdebe"/><rect x="454.69" y="0" width="0.12" height="8" fill="#3D6117"/><rect x="454.81" y="0" width="0.11" height="8" fill="#663399"/><rect x="454.92" y="0" width="0.04" height="8" fill="#89e051"/><rect x="454.96" y="0" width="0.03" height="8" fill="#C1F12E"/><rect x="454.99" y="0" width="0.01" height="8" fill="#384d54"/>
+      <rect x="0.00" y="0" width="399.44" height="8" fill="#3572A5"/><rect x="399.44" y="0" width="22.09" height="8" fill="#f1e05a"/><rect x="421.53" y="0" width="16.85" height="8" fill="#3178c6"/><rect x="438.38" y="0" width="12.33" height="8" fill="#012456"/><rect x="450.71" y="0" width="1.83" height="8" fill="#A97BFF"/><rect x="452.54" y="0" width="0.99" height="8" fill="#f34b7d"/><rect x="453.53" y="0" width="0.77" height="8" fill="#e34c26"/><rect x="454.31" y="0" width="0.31" height="8" fill="#3D6117"/><rect x="454.61" y="0" width="0.29" height="8" fill="#663399"/><rect x="454.90" y="0" width="0.08" height="8" fill="#C1F12E"/><rect x="454.98" y="0" width="0.02" height="8" fill="#384d54"/>
     </g>
   </g>
 </g>
@@ -56,37 +56,37 @@
   <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 12px;">
     <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px 16px;">
       <li style="display: flex; align-items: center;">
-                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: None; margin-right: 6px;"></span>
-                <span style="color: #c9d1d9;">Rich Text Format</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">50.3%</span>
-            </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3572A5; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Python</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">36.5%</span>
-            </li><li style="display: flex; align-items: center;">
-                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #EB8CEB; margin-right: 6px;"></span>
-                <span style="color: #c9d1d9;">XSLT</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">7.9%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">87.8%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #f1e05a; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">JavaScript</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">1.9%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">4.9%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3178c6; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">TypeScript</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">1.4%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">3.7%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #012456; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">PowerShell</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">1.0%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">2.7%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #A97BFF; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Kotlin</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.5%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.4%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #f34b7d; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">C++</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.2%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #e34c26; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">HTML</span>
                 <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.2%</span>
+            </li><li style="display: flex; align-items: center;">
+                <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3D6117; margin-right: 6px;"></span>
+                <span style="color: #c9d1d9;">TeX</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">0.1%</span>
             </li>
     </ul>
   </div>

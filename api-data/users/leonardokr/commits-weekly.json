@@ -2,20 +2,6 @@
   "username": "leonardokr",
   "weekly_commits": [
     {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-02-16T00:21:02+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-02-16T00:26:05+00:00"
-    },
-    {
       "repo": "leonardokr/leo-git-statistics",
       "sha": "3f4a117cf620486f663f131d62fafe786b511bd3",
       "description": "feat: add Flask API dependencies",
@@ -1281,6 +1267,20 @@
       "description": "Merge pull request #62 from leonardokr/release-please--branches--main",
       "is_private": false,
       "timestamp": "2026-02-20T19:32:19+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "c86d5f38864d951e1b3cdfd6715c0ab8c915b581",
+      "description": "fix(action): resolve static-api-data-dir relative to workspace",
+      "is_private": false,
+      "timestamp": "2026-02-20T19:38:46+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "0be9ebe69afebd583360d6ea30a2e5ed9a42c5db",
+      "description": "Merge pull request #63 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-20T19:59:27+00:00"
     }
   ]
 }
