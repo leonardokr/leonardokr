@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate commit calendar
-        uses: leonardokr/leo-git-statistics@v1
+        uses: leonardokr/leo-git-statistics@v2
         with:
           github-token: ${{ secrets.PROFILE_STATS_TOKEN }}
           github-username: leonardokr
