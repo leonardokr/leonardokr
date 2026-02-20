@@ -1,0 +1,1092 @@
+{
+  "username": "leonardokr",
+  "overview": {
+    "name": "Leonardo Klein",
+    "total_contributions": 1388,
+    "repositories_count": 18,
+    "total_stars": 27,
+    "total_forks": 0,
+    "total_followers": 54,
+    "total_following": 114,
+    "total_views": 769,
+    "views_from_date": "2026-01-26",
+    "total_clones": 1777,
+    "clones_from_date": "2026-01-26",
+    "total_pull_requests": 41,
+    "total_issues": 134,
+    "lines_added": 3787590,
+    "lines_deleted": 406223,
+    "avg_contribution_percent": "75.33%",
+    "collaborators_count": 11,
+    "contributors_count": 9
+  },
+  "languages": {
+    "Python": {
+      "size": 16006259,
+      "occurrences": 8,
+      "color": "#3572A5",
+      "prop": 36.57072455997889
+    },
+    "Dockerfile": {
+      "size": 596,
+      "occurrences": 1,
+      "color": "#384d54",
+      "prop": 0.0013617267993568903
+    },
+    "PowerShell": {
+      "size": 456184,
+      "occurrences": 4,
+      "color": "#012456",
+      "prop": 1.042278486976214
+    },
+    "JavaScript": {
+      "size": 817402,
+      "occurrences": 2,
+      "color": "#f1e05a",
+      "prop": 1.867580887999867
+    },
+    "TypeScript": {
+      "size": 623678,
+      "occurrences": 1,
+      "color": "#3178c6",
+      "prop": 1.424964843572662
+    },
+    "Kotlin": {
+      "size": 214308,
+      "occurrences": 3,
+      "color": "#A97BFF",
+      "prop": 0.4896458840882155
+    },
+    "Batchfile": {
+      "size": 3033,
+      "occurrences": 2,
+      "color": "#C1F12E",
+      "prop": 0.006929727151760818
+    },
+    "TeX": {
+      "size": 11334,
+      "occurrences": 1,
+      "color": "#3D6117",
+      "prop": 0.025895656952870796
+    },
+    "C++": {
+      "size": 36819,
+      "occurrences": 1,
+      "color": "#f34b7d",
+      "prop": 0.08412318628443179
+    },
+    "HTML": {
+      "size": 106655,
+      "occurrences": 2,
+      "color": "#e34c26",
+      "prop": 0.24368283856612272
+    },
+    "CSS": {
+      "size": 10749,
+      "occurrences": 1,
+      "color": "#663399",
+      "prop": 0.024559062695112776
+    },
+    "Rich Text Format": {
+      "size": 21989114,
+      "occurrences": 1,
+      "color": null,
+      "prop": 50.24021112066072
+    },
+    "XSLT": {
+      "size": 3466566,
+      "occurrences": 1,
+      "color": "#EB8CEB",
+      "prop": 7.92032856365674
+    },
+    "Roff": {
+      "size": 21637,
+      "occurrences": 1,
+      "color": "#ecdebe",
+      "prop": 0.04943570932497489
+    },
+    "Shell": {
+      "size": 3623,
+      "occurrences": 1,
+      "color": "#89e051",
+      "prop": 0.00827774529206378
+    }
+  },
+  "streak": {
+    "current_streak": 0,
+    "current_streak_range": "No streak",
+    "longest_streak": 16,
+    "longest_streak_range": "Sep 04 - Sep 19, 2025"
+  },
+  "contributions": {
+    "total": 1388,
+    "recent": [
+      60,
+      36,
+      49,
+      8,
+      2,
+      9,
+      56,
+      55,
+      168,
+      0
+    ]
+  },
+  "repositories": {
+    "count": 18,
+    "list": [
+      "Avaxerrr/QSS-Toolkit",
+      "leonardokr/aokode.github.io",
+      "leonardokr/commit-safe",
+      "leonardokr/ebook-image-extractor",
+      "leonardokr/highlight-me-now",
+      "leonardokr/leo-git-statistics",
+      "leonardokr/leonardokr",
+      "leonardokr/leonardokr.github.io",
+      "leonardokr/manganizer",
+      "leonardokr/minecraft-bedrock-simpleconomy",
+      "leonardokr/powershell-scripts",
+      "leonardokr/qt-ui-compiler",
+      "leonardokr/serial-input-monitor",
+      "leonardokr/simpleponto",
+      "leonardokr/sintel-baseline",
+      "tiga-alves/IAP086---AI-Applied-to-Map-Development-Process",
+      "tiga-alves/IAP086---mapping-repository",
+      "tiga-alves/mapping-framework-sintel"
+    ]
+  },
+  "weekly_commits": [
+    {
+      "repo": "leonardokr/minecraft-bedrock-simpleconomy",
+      "sha": "e12922e7d028ec714718dbe1178fc70d43739b9d",
+      "description": "e12922e",
+      "is_private": true,
+      "timestamp": "2026-02-16T00:21:02+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-bedrock-simpleconomy",
+      "sha": "536041ceacdb609832f63e09e6ff843e712e8d6d",
+      "description": "536041c",
+      "is_private": true,
+      "timestamp": "2026-02-16T00:26:05+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "3f4a117cf620486f663f131d62fafe786b511bd3",
+      "description": "feat: add Flask API dependencies",
+      "is_private": false,
+      "timestamp": "2026-02-17T00:38:06+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "79f56f7361b1003676984f4fe4328ed906ea0b95",
+      "description": "feat: add API environment configuration template with PAT generation instructions",
+      "is_private": false,
+      "timestamp": "2026-02-17T00:38:13+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "7f7132573ce914b857ea0d6bcc26d9f61c43af71",
+      "description": "feat: add REST API with Swagger documentation and user statistics endpoints",
+      "is_private": false,
+      "timestamp": "2026-02-17T00:38:20+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "693c997618921808810e8848625ad561a10de87d",
+      "description": "feat: add static JSON generator for GitHub Pages deployment",
+      "is_private": false,
+      "timestamp": "2026-02-17T00:38:26+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "dbbb248a8d94fd1007b15bcbeda70de985f31a7c",
+      "description": "docs: add comprehensive REST API documentation with deployment guides and usage examples",
+      "is_private": false,
+      "timestamp": "2026-02-17T00:38:31+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "08f6ea1205d63288976592ee39681cc56c8ee5c6",
+      "description": "fix: add parent directory to Python path for module imports",
+      "is_private": false,
+      "timestamp": "2026-02-17T02:00:42+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "0a04dec93b2dc5c7ea2f664a41e3cf6132da61f3",
+      "description": "fix: remove /api/v1 prefix from route decorators",
+      "is_private": false,
+      "timestamp": "2026-02-17T02:19:12+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "0d3bd8a0d303a76cc73174d4a37f7131d33c850e",
+      "description": "fix: pass username and access_token as constructor arguments to Environment",
+      "is_private": false,
+      "timestamp": "2026-02-17T02:31:45+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "556c9e7e27b99c467f9dd2e3bff9889f5d68ed30",
+      "description": "Merge pull request #5 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-17T02:37:14+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "5ca958236b7998c4bb18c5b9b16271a2b18549f7",
+      "description": "perf: parallelize repository API calls with asyncio.gather and semaphore",
+      "is_private": false,
+      "timestamp": "2026-02-17T03:44:38+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "77fa5db21df34fc783317f9f26c376cc87932a93",
+      "description": "feat: add in-memory TTL cache for API responses",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:04:45+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "b6370ecef392e46a394e61b862803f3dcdf5c966",
+      "description": "perf: use persistent event loop, shared aiohttp session, and TTL cache in all routes",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:04:54+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "7ecbea271cca915d249495b167eb4994e4e86029",
+      "description": "feat!: migrate API from Flask to FastAPI with modular structure",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:12:50+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "76441445758853c2c71df14ee98d7428c9829899",
+      "description": "refactor: apply lazy_async_property decorator to StatsCollector facade methods",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:13:06+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "50fbae08b3e66009733b29caac2fc2ab8e54bd1f",
+      "description": "feat: isolate server token to exclude private repos by default",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:20:33+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "baedfa20c4161c6cdd6cc1f6aa8ce9c6f4b34f5b",
+      "description": "feat: add API key authentication with configurable enforcement",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:20:40+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "b8d251c79c4e4880cfdfedacff106eb266a4c98e",
+      "description": "feat: support user-supplied GitHub token via X-GitHub-Token header",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:20:50+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "dd564425ef687c088382764b57a39b9861ca61e2",
+      "description": "feat: add rate limiting per IP and API key with slowapi",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:20:58+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "4d415d3d8d5a858bf96e52cb65a23828c6f08805",
+      "description": "feat: add input validation with Pydantic models and username regex",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:21:07+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "7f2a29332838b7838ccad957c1d8e36002ddb51f",
+      "description": "refactor: wire security dependencies into routes and app configuration",
+      "is_private": false,
+      "timestamp": "2026-02-17T04:21:16+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "32a5938a17cd06c8724da58c1e6f8c2f6525d29c",
+      "description": "feat: add retry with backoff, circuit breaker and rate limit monitoring to GitHubClient",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:17:41+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "1474cb9fb186c46767960f2141d6cdb755abfb05",
+      "description": "feat: add partial responses with warnings on collector failure",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:17:51+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "a65d983adb38d97dd5d76f1a89ed8cf96f76ab36",
+      "description": "feat: add structured logging with structlog and request ID propagation",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:27:45+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "ae575089d7f24f31418329c96f582f9ffa3e376f",
+      "description": "feat: add Prometheus metrics with /metrics endpoint and custom gauges",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:27:56+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "73fe9a3c0f4bf6c7a9a0979f0ee369ab928befde",
+      "description": "feat: add robust health check with subsystem probes and degraded status",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:28:04+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "5e6f78e7309a2537b6a3c538dc450cd1863fb9cf",
+      "description": "feat: add SVG card endpoints with theme support via /users/{username}/cards/{type}",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:58:18+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "96a3060bdd1cdd2c26e657523d775e6b330ef1c0",
+      "description": "feat: add pagination to repositories and repositories/detailed endpoints",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:58:47+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "f2e24e5228cc8cc7b0cc20619e6ad9adc89b7b7a",
+      "description": "feat: add user comparison endpoint at /users/{username}/compare/{other}",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:59:05+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "94859e28d9ed98416f0ee7abac142f609fb62685",
+      "description": "feat: add temporal statistics snapshots with SQLite storage and history endpoint",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:59:20+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "e6817e28c564e8327f07fa381ba609f258f69928",
+      "description": "feat: add webhook registration and notification dispatch on snapshot triggers",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:59:37+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "39bfaccb7ffa4714a7af8557ccfb689b04f9e61b",
+      "description": "feat: register cards, compare, history and webhooks routers in main app",
+      "is_private": false,
+      "timestamp": "2026-02-17T12:59:46+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "eb1a6992362f07120b51d5b4fa197d64860066c1",
+      "description": "feat: add Dockerfile, docker-compose.yml and .dockerignore for containerized deployment",
+      "is_private": false,
+      "timestamp": "2026-02-17T15:08:19+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "8b6e466c99dff12cddf765f48615e12fbe2e780b",
+      "description": "feat: add gunicorn production server and configure workers",
+      "is_private": false,
+      "timestamp": "2026-02-17T15:10:07+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "a4cea7a0963cec782c710d85c11b19d1e52fdc6c",
+      "description": "refactor: migrate traffic stats from JSON flat-file to SQLite with WAL mode",
+      "is_private": false,
+      "timestamp": "2026-02-17T15:11:54+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "6efc7ef805f86a36ed6241662fc7cc4652a93131",
+      "description": "feat: add Redis cache backend with in-memory TTLCache fallback",
+      "is_private": false,
+      "timestamp": "2026-02-17T15:13:53+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "78e519b2a60fc893dfb366ac9629e7142d327b46",
+      "description": "test: add API integration tests, async collector tests and Locust load tests",
+      "is_private": false,
+      "timestamp": "2026-02-17T18:16:33+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "11745cc61a496476f3d20cd453c4731b971300ce",
+      "description": "fix: add tzdata to requirements for Windows timezone support",
+      "is_private": false,
+      "timestamp": "2026-02-17T18:17:06+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "dca387354e70d9f2ca9c19c512aa61dbcd955a63",
+      "description": "chore: update README",
+      "is_private": false,
+      "timestamp": "2026-02-17T19:19:48+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "e13819ccbe78def498c3e33fb2204f30d46cbd56",
+      "description": "refactor: centralize data assembly in stats_assembler.py",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:22:14+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "e63bdea0d58b0257205961db54e72f050d20cda3",
+      "description": "feat: add followers and following collection via GraphQL",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:22:25+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "e8ccb88419ed18ec807beb2904048d285debc474",
+      "description": "feat: add line chart theme support with calendar color fallbacks",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:22:39+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "22b2fc84931b6836d815ff9e362f515aea8e7507",
+      "description": "feat: add stats history multi-series line chart generator",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:22:49+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "1bbc706df0fac14dd5bfcf059960eac5d0c488dd",
+      "description": "feat: add daily stats snapshot GitHub Actions workflow",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:24:05+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "22989eb45da96d7a3253e32bf560816ec7fa8a7f",
+      "description": "docs: add entry points table and stats history card to README",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:24:18+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "d19aec971e53927f3b686b2dcaaee32690fbf425",
+      "description": "refactor: simplify theme normalization removing cascade fallback logic",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:45:27+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "7e3a86a3c97b21cb8e22f41120ec9da5711a2394",
+      "description": "refactor: add all theme keys explicitly to YAML files",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:45:37+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "39ebe4abde5711474805fb1e8fdbf63c1a3579b1",
+      "description": "refactor: remove inline .get() theme fallbacks from generators",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:45:54+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "b9ef3f78158de491e1d78e1a6aa289359d9c493d",
+      "description": "refactor: make generate_palette_colors parameters required",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:46:06+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "785cd1111a2e3c90943b0c4d640c3b2122f78e36",
+      "description": "docs: new card samples",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:52:11+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "fc18b05b7042cc3336f3f636ab9dd1f4085bb511",
+      "description": "docs: reorganize entry points section into categorized tables with snapshot explanation",
+      "is_private": false,
+      "timestamp": "2026-02-17T23:56:25+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "2200c95642a273552a686568cdcb027657e20cff",
+      "description": "Merge branch 'main' of https://github.com/leonardokr/leo-git-statistics",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:03:59+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "a89cbf8a24aaa804a23e6b25cf4fa6b104ac8200",
+      "description": "Merge pull request #6 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:07:16+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "442b7aae884ee84b6932da4be0115b0c0d16a840",
+      "description": "fix: pin Python 3.13.2 for pybreaker compatibility",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:33:27+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "c9d7f6dce18ce4993d0ec14aab750c4c7312e5fa",
+      "description": "Merge pull request #8 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:34:09+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "753e62b8e3b64eef0a8e1f1f1dfbff78fcdbd386",
+      "description": "fix: resolve pybreaker NameError for tornado.gen on Python 3.12+",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:51:30+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "fd7401292d1c5664e7ebf0299c31dce131dea2bf",
+      "description": "Merge branch 'main' of https://github.com/leonardokr/leo-git-statistics",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:51:36+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "f1ece52b396fc0852aefb080e8cbb3df5ddf3b07",
+      "description": "Merge pull request #9 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:52:12+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "527f6607ab1f0ec9b768e8614d0bae6fc0d54be1",
+      "description": "fix(workflow): fix indentation and multiline string on snapshot.yml",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:55:12+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "3883c7fc3bc8c835c94ec5e189f9ffae23ec95d5",
+      "description": "Merge branch 'main' of https://github.com/leonardokr/leo-git-statistics",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:55:22+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "e9dcb9974f45f128a30b317021775cf9724196de",
+      "description": "Merge pull request #10 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T00:55:49+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "cb739f2c88aa60ba3c52ebd63352d1253fa814ea",
+      "description": "chore: add tornado to requirements for pybreaker compatibility fix",
+      "is_private": false,
+      "timestamp": "2026-02-18T01:00:48+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "88b5895b595d6bdc779311c94a319e1e5097bf63",
+      "description": "fix: add tornado dependency and inject module for pybreaker compatibility",
+      "is_private": false,
+      "timestamp": "2026-02-18T01:00:53+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "1c1b3e5dc30cbce569531916426b67d772f71ae9",
+      "description": "Merge pull request #11 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T01:04:41+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "e9f1da7f6e83872059d898daefee99332bd697b2",
+      "description": "feat: probe GitHub rate limit on startup to seed health endpoint state",
+      "is_private": false,
+      "timestamp": "2026-02-18T11:38:24+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "3b94a6b9979743b4ae4882f314f27ce5e1233818",
+      "description": "fix: inject tornado.gen into sys.modules for pybreaker compatibility in tests",
+      "is_private": false,
+      "timestamp": "2026-02-18T11:38:37+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "016376b86380361268ffab774300516455efca5f",
+      "description": "Merge branch 'main' of https://github.com/leonardokr/leo-git-statistics",
+      "is_private": false,
+      "timestamp": "2026-02-18T11:39:24+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "418a429acb0e589a3c41a0887e8ede13726e14c1",
+      "description": "Merge pull request #12 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T12:02:49+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "7065dd4e7632fe0e160505b7bf80bf39edbbc796",
+      "description": "feat: add latest floating tag to release workflow and update README",
+      "is_private": false,
+      "timestamp": "2026-02-18T12:12:17+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "129741933d738ca1bbf907a57c60984dc4e21294",
+      "description": "Merge branch 'main' of https://github.com/leonardokr/leo-git-statistics",
+      "is_private": false,
+      "timestamp": "2026-02-18T12:12:44+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "ce58e49ac95d7727c3c4758941ea1fbfd3adee67",
+      "description": "Merge pull request #13 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T12:14:03+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "7afe52a5646830a1edf13f7dc82db1e3201dabe9",
+      "description": "fix: strip internal details from /health endpoint to prevent information leakage",
+      "is_private": false,
+      "timestamp": "2026-02-18T20:31:00+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "71634ce13a28d20273adbfdd803ca3dd48c449c4",
+      "description": "feat: add /v1 prefix to all business API routes",
+      "is_private": false,
+      "timestamp": "2026-02-18T20:54:00+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "806d826eebff333f3a71aa2c66947c60761aa3f9",
+      "description": "Merge pull request #14 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-18T21:09:12+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "b51b7a133477d7e4c0ec0e666cf31cbcf2d38525",
+      "description": "fix: add undeclared LogPath and EnableDebugMode params to New-ShareAndDFS.ps1",
+      "is_private": false,
+      "timestamp": "2026-02-18T21:31:12+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "b14e1a158033f01cd2dd2641d83fdd7951fd4eb6",
+      "description": "fix: add undeclared LogPath and EnableDebugMode params to Deploy-ScheduledTasks.ps1",
+      "is_private": false,
+      "timestamp": "2026-02-18T21:33:49+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "dc46dc211bee80ae8410bac521d1ebb3375150c7",
+      "description": "fix: correct WhatIf check in Disable-LanmanCache.ps1",
+      "is_private": false,
+      "timestamp": "2026-02-18T21:34:16+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "6345a6cbc67957142529cf24bace0ec382d1ce5b",
+      "description": "fix: correct Recheck stage SQL check and remove unused Timeout param",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:18:21+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "4b337b61d87dd395f0f80ee3674f7a2709d52867",
+      "description": "fix: parameterize SMTP config and standardize Send-PasswordExpiryNotification",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:20:09+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "4e1a29545be742e7f0df95ec6d37745fe8a3b516",
+      "description": "Merge pull request #9 from leonardokr/fix/issue-3-whatif-disable-lanmancache",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:24:22+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "376097fbb940a6ec46ccd924c7ea8864326a33e0",
+      "description": "Merge pull request #10 from leonardokr/fix/issue-4-5-windows-update-maintenance",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:24:34+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "5ea07cf1d351e091cc49b396bcc767c297440d30",
+      "description": "Merge pull request #7 from leonardokr/fix/issue-1-undeclared-params-new-shareandfs",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:25:16+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "95c75e4c6dd6515f18ffb10f4feb7e69c80b5a5a",
+      "description": "Merge pull request #8 from leonardokr/fix/issue-2-undeclared-params-deploy-scheduledtasks",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:26:55+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "9f5ffdc9e09086bd8ec42a1a93e4c017847f6813",
+      "description": "Merge pull request #11 from leonardokr/fix/issue-6-password-expiry-notification",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:27:35+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "902b219b3bd296e67ecf1bf1874efeeaedc02eae",
+      "description": "refactor: improve code quality, documentation, and add Pester tests",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:50:46+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "e548fc5de8c13c411bacb9c404976c2311ce1da2",
+      "description": "fix: resolve PSScriptAnalyzer warnings in Invoke-WindowsUpdateMaintenance",
+      "is_private": false,
+      "timestamp": "2026-02-18T22:56:40+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "b7d37528ca8e765c59dd11069e2a6c31ea1d106e",
+      "description": "fix: move PSUseUsingScopeModifierInNewRunspaces suppression to script level",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:03:09+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "6474d88acb3e98a452032743b44674dbe4b27b26",
+      "description": "Merge pull request #12 from leonardokr/feature/windows-update-maintenance",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:05:29+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "f43a22e3df77e8a601fe8099a3188a7c4206dfa6",
+      "description": "Merge branch 'main' into improve/code-quality-and-docs",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:11:31+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "6b34411dfe4a54faf117a6efc5964bb257ad5106",
+      "description": "fix: remove obsolete SuppressMessage for EnableDebugMode in New-ShareAndDFS",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:19:48+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "e419668b7d8b0fd2c3c5a6c82f29aa2fae96dbce",
+      "description": "fix: add SuppressMessage for ShareAccess param in New-ShareAndDFS",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:21:31+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "418f1c6d4315dfaad77f1b8a524339d8bb0b57ed",
+      "description": "fix: correct trailing whitespace test to handle Windows line endings",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:24:58+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "101e316e739e18ec324b4dd8962164ee7c81c0fa",
+      "description": "fix: resolve remaining Pester test failures",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:30:49+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "94625d1b326761541f87b2f4cb496647b5e81f62",
+      "description": "fix: restore SuppressMessage for EnableDebugMode in New-ShareAndDFS",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:32:59+00:00"
+    },
+    {
+      "repo": "leonardokr/powershell-scripts",
+      "sha": "41808180615adda2533f6f4176a0ef96f69a46c8",
+      "description": "Merge pull request #13 from leonardokr/improve/code-quality-and-docs",
+      "is_private": false,
+      "timestamp": "2026-02-18T23:35:00+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "7c00e76695d0f036ad59c935c6fb68e80fe99682",
+      "description": "7c00e76",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:16:19+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "42823b544dadea5b3987bfc098f1878336fe084a",
+      "description": "42823b5",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:16:47+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "2b7d33b996b23e0ac232c2cd6f699c5f65a6b672",
+      "description": "2b7d33b",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:16:56+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "5076606f7f5fa570735cd4cf368cd9b3a2443195",
+      "description": "5076606",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:17:04+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "8f03501bf2c088bd4774aef9a1e8d1f6fb1b36c6",
+      "description": "8f03501",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:17:15+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "5bb05897df294286a5034ff376f016918c7e3f5e",
+      "description": "5bb0589",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:18:09+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "e29b5180d5d5e84226e2390072a67aaf1369c600",
+      "description": "e29b518",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:18:31+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "775cc94acf39037cb34be9fffe05e0870c5e9bf3",
+      "description": "775cc94",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:19:17+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "455a37088c0d2290e23717325d0755ff3627f452",
+      "description": "455a370",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:22:48+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "2b4659315df223be6129ea47c4641de5bcac1c7e",
+      "description": "2b46593",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:23:38+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "5de709fd9cc806699817e9165cb1dc8bc277f9ed",
+      "description": "5de709f",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:25:36+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "4a374d980e8c60f8794172a3bfe8b9bb71ac7afa",
+      "description": "4a374d9",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:25:44+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "a240a6d5df87d54f08fce1398598cce1b298066f",
+      "description": "a240a6d",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:28:51+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "9b284de5fd24e123430d41fef91d68821b071a8d",
+      "description": "9b284de",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:29:04+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "e8cf70cb981e1225bbf6dddd57c4c1dbd2564b70",
+      "description": "e8cf70c",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:30:19+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "525cea66a44069440dba4e02f4f6121f6a8376f1",
+      "description": "525cea6",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:40:02+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "143ceb55665e0ee6f252bab936fe4469c8a311ff",
+      "description": "143ceb5",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:44:26+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "8d213c0e8f65a0ea754878c13f202d0370646bb7",
+      "description": "8d213c0",
+      "is_private": true,
+      "timestamp": "2026-02-19T22:44:48+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "1d55c14177b317c4cc8ea9d1d5ebf51c12f1c2d2",
+      "description": "1d55c14",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:05:15+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "ee06eb2506181c8a238e4b0e60222c75e83061ce",
+      "description": "ee06eb2",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:29:11+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "77549c20d6c5d400dbdcab8029f5b51e37896b7d",
+      "description": "77549c2",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:31:13+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "bb0f82301f30f8c626ae2d483c050450988163ee",
+      "description": "bb0f823",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:32:58+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "7c379a7b8a2e8911764389fed1696b2c8e71f1c3",
+      "description": "7c379a7",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:35:32+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "48d890352c5fd3fd5c39c55350ee9ba587c97c07",
+      "description": "48d8903",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:43:33+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "e32b7367d4a62206552f7c904a0dd90438bb2d4d",
+      "description": "e32b736",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:44:54+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "caec4a302a1a9be12b37d891772995db4397d654",
+      "description": "caec4a3",
+      "is_private": true,
+      "timestamp": "2026-02-19T23:54:16+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "e621af779aa34c672d32f1cfa89e05c1af85d1bf",
+      "description": "chore: update uses leonardokr/leo-git-statistics to v2",
+      "is_private": false,
+      "timestamp": "2026-02-20T00:05:38+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "2ce4ff3315cd2bd5ba6b68fe9049d8722149a908",
+      "description": "2ce4ff3",
+      "is_private": true,
+      "timestamp": "2026-02-20T00:18:11+00:00"
+    },
+    {
+      "repo": "leonardokr/simpleponto",
+      "sha": "ffb59a01000e830deaed8e31643e71e4ee0ed518",
+      "description": "ffb59a0",
+      "is_private": true,
+      "timestamp": "2026-02-20T01:19:12+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "542021815212141bc1de87aa0f63dfaee19637c1",
+      "description": "feat: support static api data dir for svg generation",
+      "is_private": false,
+      "timestamp": "2026-02-20T01:41:08+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "8c8159dd46af6cd504a474f22bffa16d9ad0e0cd",
+      "description": "Merge branch 'main' of https://github.com/leonardokr/leo-git-statistics",
+      "is_private": false,
+      "timestamp": "2026-02-20T01:42:17+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "d1d9361501fb1c17f62bd278ace3171655e36a74",
+      "description": "Merge pull request #54 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-20T01:50:33+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "9f1d34f6b404cd037d6f6b32c0c9eae0e5120962",
+      "description": "Remove unused legacy profile SVGs",
+      "is_private": false,
+      "timestamp": "2026-02-20T01:55:39+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "06e146dd86a6fdfd28ec04ffa665ebbc98543316",
+      "description": "Split static API update into dedicated workflow",
+      "is_private": false,
+      "timestamp": "2026-02-20T01:55:39+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "f2ccd48480cbc8327e49d8a5155f8e704bd56c8d",
+      "description": "Merge branch 'master' of https://github.com/leonardokr/leonardokr",
+      "is_private": false,
+      "timestamp": "2026-02-20T01:55:53+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "358304199f89ecbe316695263927fcf1a13c6b57",
+      "description": "fix: create snapshots db directory before sqlite connect",
+      "is_private": false,
+      "timestamp": "2026-02-20T01:59:43+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "962c16da0a34a523acf9920830cd6a344283372f",
+      "description": "Merge pull request #55 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-20T02:01:28+00:00"
+    }
+  ]
+}
