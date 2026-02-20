@@ -37,6 +37,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           GITHUB_ACTOR: leonardokr
           SNAPSHOTS_DB_PATH: ${{ github.workspace }}/api-data/snapshots.db
+          CONFIG_OVERRIDES: |
+            stats_generation:
+              exclude_contrib_repos: "true"
+              mask_private_repos: "true"
         run: |
           python leo-git-statistics/api/generate_static_api.py
 

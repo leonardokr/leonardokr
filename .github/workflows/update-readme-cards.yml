@@ -36,11 +36,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           GITHUB_ACTOR: leonardokr
-          TIMEZONE: America/Sao_Paulo
-          EXCLUDE_PRIVATE_REPOS: "false"
-          EXCLUDE_CONTRIB_REPOS: "true"
-          MASK_PRIVATE_REPOS: "true"
           SNAPSHOTS_DB_PATH: ${{ github.workspace }}/api-data/snapshots.db
+          CONFIG_OVERRIDES: |
+            timezone: America/Sao_Paulo
+            stats_generation:
+              exclude_private_repos: "false"
+              exclude_contrib_repos: "true"
+              mask_private_repos: "true"
         run: |
           python leo-git-statistics/api/generate_static_api.py
 
@@ -50,12 +52,16 @@ jobs:
           github-token: ${{ secrets.PROFILE_STATS_TOKEN }}
           github-username: leonardokr
           output-dir: profile
-          themes: dark
           static-api-data-dir: api-data
-          timezone: America/Sao_Paulo
-          exclude-private-repos: "false"
-          exclude-contrib-repos: "true"
-          mask-private-repos: "true"
+          config-overrides: |
+            timezone: America/Sao_Paulo
+            themes:
+              enabled:
+                - dark
+            stats_generation:
+              exclude_private_repos: "true"
+              exclude_contrib_repos: "true"
+              mask_private_repos: "true"
 
       - name: Generate trophy card
         uses: ryo-ma/github-profile-trophy@master
