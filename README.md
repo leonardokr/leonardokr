@@ -48,6 +48,11 @@ Systems Administrator | Developer | 15 Years in Tech | Remote Work Since 2023
 <img src="./profile/profile-3d-contrib/profile-night-view.svg" alt="Profile 3D Contrib" />
 <img src="./profile/commit_calendardark.svg" alt="Commit Calendar" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="./profile/stats_historydark.svg" alt="Stats History" width="46%"/>
+  <img src="./profile/streak_batterydark.svg" alt="Streak Battery" width="53%"/>
+</div>
   
 <!--
 <div align="center">
