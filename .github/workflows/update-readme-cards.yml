@@ -1,4 +1,4 @@
-name: Update README cards
+﻿name: Update README cards
 
 on:
   schedule:
@@ -15,13 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate commit calendar
+      - name: Generate profile cards
         uses: leonardokr/leo-git-statistics@v2
         with:
           github-token: ${{ secrets.PROFILE_STATS_TOKEN }}
           github-username: leonardokr
           output-dir: profile
           themes: dark
+          static-api-data-dir: api-data
 
       - name: Generate trophy card
         uses: ryo-ma/github-profile-trophy@master
@@ -50,4 +51,3 @@ jobs:
           git add profile/profile-3d-contrib
           git commit -m "Update README cards" || exit 0
           git push
-
