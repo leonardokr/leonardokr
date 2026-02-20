@@ -1036,6 +1036,251 @@
       "description": "fix(workflow): migrate v2 action inputs to config-overrides in update-readme-cards",
       "is_private": false,
       "timestamp": "2026-02-20T03:24:42+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "aa9575bd4f53926dab600b8b0dd693d5c2149bbf",
+      "description": "fix: enforce owner-only repos when exclude_contrib_repos is enabled",
+      "is_private": false,
+      "timestamp": "2026-02-20T11:29:29+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "f3024cf55dda8f964458302e90dbd5ef8c57d62e",
+      "description": "fix(action): remove heredoc from config override merge step",
+      "is_private": false,
+      "timestamp": "2026-02-20T11:32:34+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "55fafc4f602698b4e9fb3a7202ba01450c2b31db",
+      "description": "test: align environment and private commit expectations with config-driven behavior",
+      "is_private": false,
+      "timestamp": "2026-02-20T11:49:41+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "4d7ccd37ff82215568007791450391a016ad0aa9",
+      "description": "test: fix async mock warnings in repo and users fixtures",
+      "is_private": false,
+      "timestamp": "2026-02-20T11:52:47+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "f3170d0f5ea155a115503e96fadb08760ebfc671",
+      "description": "Merge pull request #60 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-20T11:58:25+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "665513e418a02b29dde8b34821e8dd0ffb03e1ec",
+      "description": "fix: harden environment config parsing for invalid stats_generation types",
+      "is_private": false,
+      "timestamp": "2026-02-20T12:50:39+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "6482c409fba7ef4de0613997dfc21d9229b1aa30",
+      "description": "fix(workflow): exclude_private_repos: \"false\" defined",
+      "is_private": false,
+      "timestamp": "2026-02-20T13:07:22+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "9e3b374d403e0e52a7cc7a38232b918c211533df",
+      "description": "Merge pull request #61 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-20T13:08:11+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "6fd70948543da9bf23e57ab2c6c022f0d18d8c8b",
+      "description": "Merge branches 'master' and 'master' of https://github.com/leonardokr/leonardokr",
+      "is_private": false,
+      "timestamp": "2026-02-20T13:08:46+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "601515201bdc5a11b0865614abe3993f74241ded",
+      "description": "fix(action): correct config-overrides deep-merge to preserve dict types",
+      "is_private": false,
+      "timestamp": "2026-02-20T13:12:20+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "862b06d61f46fd886c61cfb972997962e7e537de",
+      "description": "fix: apply config private masking when rendering from static api data",
+      "is_private": false,
+      "timestamp": "2026-02-20T13:15:19+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "29436a2164e9975badb185bf826121c678a846d8",
+      "description": "refactor: centralize generation settings on config.yml and explicit overrides",
+      "is_private": false,
+      "timestamp": "2026-02-20T13:25:14+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "6cfc468a4f06830c37da0b1088d72e3016129c12",
+      "description": "docs: fully refresh README usage modes, overrides, and static API examples",
+      "is_private": false,
+      "timestamp": "2026-02-20T13:36:28+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "88e6c827a9e39458c81ebe064bdd18be6501487a",
+      "description": "docs: clarify snapshot workflows belong to consumer repositories",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:34:57+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "75182725d85f8a46f2e305dd74328464795e535f",
+      "description": "docs: clarify static-api render mode requires consumer workflow",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:36:36+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "680fba43d92391fb273890c34bda6a14777fb0e8",
+      "description": "docs: clarify config source wording for clone vs workflow usage",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:37:47+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "9dd80759145581fc9e98b0e55a266ae70d214fc1",
+      "description": "docs: state that API mode also uses config.yml generation settings",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:38:37+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "67ba8ef9603c16a89443509e484c119ca3946a15",
+      "description": "docs: clarify static api config source wording with CONFIG_PATH and overrides",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:39:46+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "84af6370191f9fc17a8899b5e719fd4fe3a4d294",
+      "description": "docs: explain why action and static script use different override channels",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:41:24+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "177fd3647dd9172a001f5cf2c1ae8b1cf1d3e4f0",
+      "description": "docs: clarify mixed workflows use both override channels",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:42:23+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "0ce84a89664d69bbd9c8ae973267fc18d6e226d2",
+      "description": "docs: align quick start mode wording with top-level mode guidance",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:43:46+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "633cda11b6c0379a451d8d307651ec9ce9a9b029",
+      "description": "docs: mention static json + render workflow option in quick start mode selection",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:44:42+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "03ee1ae210ec5a264cb1c0d48485d5624658cbaa",
+      "description": "docs: add anchor link for static-api-data-dir reference in quick start",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:45:23+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "8567e1b3a4acee480217825f1c98040386dc4688",
+      "description": "docs: clarify quick start workflow is for live api action mode",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:46:19+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "0a01f75e0d93a46da9240aac78b5339a37ec0009",
+      "description": "docs: clarify optional configuration channels for action and static api flows",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:47:13+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "9255a1bcf3850846287d4ff3af095f43446ecfb1",
+      "description": "docs: fold action workflow/config sections into details and clarify titles",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:50:31+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "97210655cd54465b31a12724bb9b545354feb35c",
+      "description": "docs: rename and fold config sections to clarify reusable action vs clone modes",
+      "is_private": false,
+      "timestamp": "2026-02-20T16:56:10+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "aff4f265bd08129d474f4bf9b089850f44b7e587",
+      "description": "docs: move REST API mode after workflow/clone modes and clarify static-site note",
+      "is_private": false,
+      "timestamp": "2026-02-20T17:04:07+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "7605da0d0c2df7bf1432ff8b245f0f07ce7a44d4",
+      "description": "docs: simplify quick start by removing redundant workflow/config steps",
+      "is_private": false,
+      "timestamp": "2026-02-20T17:05:26+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "3b89d83ca6ccdad66c82b64b26729ae2b218b544",
+      "description": "docs: remove stale action override section reference from quick start",
+      "is_private": false,
+      "timestamp": "2026-02-20T17:08:50+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "fd6c8cfd466a91631b4038cc7a17aa1bdc4501e9",
+      "description": "fix(api): always exclude private repos for server-token requests",
+      "is_private": false,
+      "timestamp": "2026-02-20T17:41:57+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "0498e851f875da83e5f3c1a74aded42597a2fca1",
+      "description": "docs: update README structure and license text",
+      "is_private": false,
+      "timestamp": "2026-02-20T18:17:50+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "b5e7305e53bd991ebd296cac4e3114d132d17dfb",
+      "description": "docs(license): adopt ZionDev Non-Commercial License v1.0",
+      "is_private": false,
+      "timestamp": "2026-02-20T18:37:55+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "d3195fe4ec1c3b8cd27a58c7a30bd14c5c6ed0f1",
+      "description": "Merge branch 'main' of https://github.com/leonardokr/leo-git-statistics",
+      "is_private": false,
+      "timestamp": "2026-02-20T19:30:49+00:00"
+    },
+    {
+      "repo": "leonardokr/leo-git-statistics",
+      "sha": "474b1e2a72ad62ffa75e0915f67dd73e4b85b7e2",
+      "description": "Merge pull request #62 from leonardokr/release-please--branches--main",
+      "is_private": false,
+      "timestamp": "2026-02-20T19:32:19+00:00"
     }
   ]
 }

@@ -2,94 +2,70 @@
   "username": "leonardokr",
   "languages": {
     "Python": {
-      "size": 16019939,
-      "occurrences": 8,
+      "size": 14781393,
+      "occurrences": 5,
       "color": "#3572A5",
-      "prop": 36.7134115886577
+      "prop": 87.78825449210194
     },
     "Dockerfile": {
       "size": 596,
       "occurrences": 1,
       "color": "#384d54",
-      "prop": 0.0013658724485055775
+      "prop": 0.0035397069597765756
     },
     "PowerShell": {
       "size": 456184,
       "occurrences": 4,
       "color": "#012456",
-      "prop": 1.0454516057870273
+      "prop": 2.7093249660045595
     },
     "JavaScript": {
       "size": 817402,
       "occurrences": 2,
       "color": "#f1e05a",
-      "prop": 1.8732665623378455
+      "prop": 4.854636826065927
     },
     "TypeScript": {
       "size": 623678,
       "occurrences": 1,
       "color": "#3178c6",
-      "prop": 1.4293030149984254
+      "prop": 3.704089525603247
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.15534507369454792
+      "prop": 0.40258227561821336
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.006950824054223852
+      "prop": 0.018013307397654957
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.025974493844567476
+      "prop": 0.06731382329212703
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.08437929141195781
+      "prop": 0.21867193045639888
     },
     "HTML": {
-      "size": 106655,
-      "occurrences": 2,
+      "size": 28579,
+      "occurrences": 1,
       "color": "#e34c26",
-      "prop": 0.24442470804591
+      "prop": 0.16973370000579657
     },
     "CSS": {
       "size": 10749,
       "occurrences": 1,
       "color": "#663399",
-      "prop": 0.02463383045131955
-    },
-    "Rich Text Format": {
-      "size": 21989114,
-      "occurrences": 1,
-      "color": null,
-      "prop": 50.39316271753066
-    },
-    "XSLT": {
-      "size": 3466566,
-      "occurrences": 1,
-      "color": "#EB8CEB",
-      "prop": 7.944441258936553
-    },
-    "Roff": {
-      "size": 21637,
-      "occurrences": 1,
-      "color": "#ecdebe",
-      "prop": 0.049586211691803994
-    },
-    "Shell": {
-      "size": 3623,
-      "occurrences": 1,
-      "color": "#89e051",
-      "prop": 0.008302946108952528
+      "prop": 0.06383944649435976
     }
   }
 }
