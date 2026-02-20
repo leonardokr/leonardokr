@@ -15,7 +15,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate profile cards
+      - name: Checkout leo-git-statistics source
+        uses: actions/checkout@v4
+        with:
+          repository: leonardokr/leo-git-statistics
+          ref: v2
+          path: leo-git-statistics
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies for static API generation
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r leo-git-statistics/requirements.txt
+
+      - name: Generate static stats JSON (safe/public)
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GITHUB_ACTOR: leonardokr
+          TIMEZONE: America/Sao_Paulo
+          EXCLUDE_PRIVATE_REPOS: "false"
+          EXCLUDE_CONTRIB_REPOS: "true"
+          MASK_PRIVATE_REPOS: "true"
+          SNAPSHOTS_DB_PATH: ${{ github.workspace }}/api-data/snapshots.db
+        run: |
+          python leo-git-statistics/api/generate_static_api.py
+
+      - name: Generate profile cards from static JSON
         uses: leonardokr/leo-git-statistics@v2
         with:
           github-token: ${{ secrets.PROFILE_STATS_TOKEN }}
@@ -23,6 +52,10 @@ jobs:
           output-dir: profile
           themes: dark
           static-api-data-dir: api-data
+          timezone: America/Sao_Paulo
+          exclude-private-repos: "false"
+          exclude-contrib-repos: "true"
+          mask-private-repos: "true"
 
       - name: Generate trophy card
         uses: ryo-ma/github-profile-trophy@master
@@ -43,11 +76,12 @@ jobs:
           mkdir -p profile
           mv profile-3d-contrib profile/profile-3d-contrib
 
-      - name: Commit cards
+      - name: Commit cards and static API data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git add profile/profile-3d-contrib
-          git commit -m "Update README cards" || exit 0
+          git add api-data
+          git commit -m "Update README cards and static stats" || exit 0
           git push
