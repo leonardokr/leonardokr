@@ -2,6 +2,20 @@
   "username": "leonardokr",
   "weekly_commits": [
     {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-02-16T00:21:02+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-02-16T00:26:05+00:00"
+    },
+    {
       "repo": "leonardokr/leo-git-statistics",
       "sha": "3f4a117cf620486f663f131d62fafe786b511bd3",
       "description": "feat: add Flask API dependencies",
