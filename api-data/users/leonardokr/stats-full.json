@@ -2,17 +2,17 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 1442,
+    "total_contributions": 1443,
     "repositories_count": 14,
     "total_stars": 24,
     "total_forks": 0,
     "total_followers": 61,
     "total_following": 114,
-    "total_views": 772,
-    "views_from_date": "2026-01-26",
-    "total_clones": 1792,
-    "clones_from_date": "2026-01-26",
-    "total_pull_requests": 46,
+    "total_views": 756,
+    "views_from_date": "2026-02-06",
+    "total_clones": 1905,
+    "clones_from_date": "2026-02-06",
+    "total_pull_requests": 47,
     "total_issues": 125,
     "lines_added": 838924,
     "lines_deleted": 412262,
@@ -89,13 +89,13 @@
     }
   },
   "streak": {
-    "current_streak": 13,
-    "current_streak_range": "Feb 08 - Feb 20, 2026",
+    "current_streak": 14,
+    "current_streak_range": "Feb 08 - Feb 21, 2026",
     "longest_streak": 16,
     "longest_streak_range": "Sep 04 - Sep 19, 2025"
   },
   "contributions": {
-    "total": 1442,
+    "total": 1443,
     "recent": [
       36,
       49,
@@ -106,7 +106,7 @@
       55,
       176,
       46,
-      0
+      1
     ]
   },
   "repositories": {
@@ -129,20 +129,6 @@
     ]
   },
   "weekly_commits": [
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-02-16T00:21:02+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-02-16T00:26:05+00:00"
-    },
     {
       "repo": "leonardokr/leo-git-statistics",
       "sha": "3f4a117cf620486f663f131d62fafe786b511bd3",
