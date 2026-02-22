@@ -90,7 +90,7 @@
     </g>
 
     <g class="">
-      <rect x="4" y="16" width="42" height="75" rx="3" ry="3"
+      <rect x="4" y="11" width="42" height="80" rx="3" ry="3"
             fill="url(#battery-gradient)"
             class="animate-fill delay-3"/>
     </g>
@@ -99,7 +99,7 @@
 
 <g transform="translate(40, 170)">
   <g class="animate-fade delay-4">
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="600" font-size="11" fill="#8b949e" text-anchor="middle" x="25">87%</text>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="600" font-size="11" fill="#8b949e" text-anchor="middle" x="25">93%</text>
   </g>
 </g>
 
@@ -121,15 +121,16 @@
   <g class="animate-fill delay-8" style="transform-origin: 133px bottom;"><rect x="126" y="74" width="14" height="26" rx="2" fill="#58a6ff"/></g>
   <text x="133" y="69" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-8">46</text>
   <g class="animate-fill delay-9" style="transform-origin: 151px bottom;"><rect x="144" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <text x="151" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-9">1</text>
+  <text x="151" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-9">8</text>
   <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
+  <text x="169" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-10">3</text>
 </g>
 
 <g transform="translate(380, 55)">
   <g class="animate-count delay-5">
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">14</text>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">15</text>
     <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Current Streak</text>
-    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Feb 08 - Feb 21, 2026</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Feb 08 - Feb 22, 2026</text>
   </g>
 </g>
 
