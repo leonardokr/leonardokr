@@ -64,17 +64,17 @@
 <g transform="translate(20, 50)">
     <g class="animate-fade delay-2">
     <g clip-path="url(#treemap-clip)">
-      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="333.47" height="102.10" rx="4.0" fill="#16ceaf"/>
+      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="333.47" height="102.11" rx="4.0" fill="#16ceaf"/>
 <text class="puzzle-text" x="167.73" y="50.05" text-anchor="middle" dominant-baseline="middle">Python</text>
 <text class="puzzle-percent" x="167.73" y="62.05" text-anchor="middle" dominant-baseline="middle">90.3%</text>
-<rect class="puzzle-rect delay-2" x="336.47" y="1.00" width="73.76" height="102.10" rx="4.0" fill="#5aa7eb"/>
+<rect class="puzzle-rect delay-2" x="336.47" y="1.00" width="73.76" height="102.11" rx="4.0" fill="#5aa7eb"/>
 <text class="puzzle-text" x="373.35" y="50.05" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
 <text class="puzzle-percent" x="373.35" y="62.05" text-anchor="middle" dominant-baseline="middle">4.6%</text>
-<rect class="puzzle-rect delay-3" x="1.00" y="105.10" width="197.05" height="28.90" rx="4.0" fill="#2f1bd8"/>
-<text class="puzzle-text" x="99.52" y="117.55" text-anchor="middle" dominant-baseline="middle">PowerShell</text>
-<text class="puzzle-percent" x="99.52" y="129.55" text-anchor="middle" dominant-baseline="middle">2.8%</text>
-<rect class="puzzle-rect delay-4" x="200.05" y="105.10" width="210.18" height="17.75" rx="4.0" fill="#54dce7"/>
-<rect class="puzzle-rect delay-5" x="200.05" y="124.85" width="210.18" height="9.15" rx="2.8" fill="#2258df"/>
+<rect class="puzzle-rect delay-3" x="1.00" y="105.11" width="197.03" height="28.89" rx="4.0" fill="#2f1bd8"/>
+<text class="puzzle-text" x="99.51" y="117.55" text-anchor="middle" dominant-baseline="middle">PowerShell</text>
+<text class="puzzle-percent" x="99.51" y="129.55" text-anchor="middle" dominant-baseline="middle">2.8%</text>
+<rect class="puzzle-rect delay-4" x="200.03" y="105.11" width="210.20" height="17.75" rx="4.0" fill="#54dce7"/>
+<rect class="puzzle-rect delay-5" x="200.03" y="124.85" width="210.20" height="9.15" rx="2.8" fill="#2258df"/>
 <rect class="puzzle-rect delay-6" x="412.23" y="1.00" width="15.97" height="94.99" rx="4.0" fill="#824de4"/>
 <rect class="puzzle-rect delay-7" x="430.20" y="1.00" width="23.80" height="57.51" rx="4.0" fill="#32a7de"/>
 <rect class="puzzle-rect delay-8" x="430.20" y="60.51" width="23.80" height="35.48" rx="4.0" fill="#474ee0"/>
