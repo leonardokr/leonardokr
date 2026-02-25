@@ -6,7 +6,7 @@
     "repositories_count": 14,
     "total_stars": 24,
     "total_forks": 0,
-    "total_followers": 77,
+    "total_followers": 78,
     "total_following": 121,
     "total_views": 904,
     "views_from_date": "2026-02-11",
@@ -14,11 +14,11 @@
     "clones_from_date": "2026-02-11",
     "total_pull_requests": 48,
     "total_issues": 125,
-    "lines_added": 861680,
-    "lines_deleted": 450266,
-    "avg_contribution_percent": "92.67%",
-    "collaborators_count": 6,
-    "contributors_count": 5
+    "lines_added": 841919,
+    "lines_deleted": 434616,
+    "avg_contribution_percent": "65.30%",
+    "collaborators_count": 5,
+    "contributors_count": 4
   },
   "languages": {
     "PowerShell": {
