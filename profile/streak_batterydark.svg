@@ -122,8 +122,8 @@
   <text x="133" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-8">1</text>
   <g class="animate-fill delay-9" style="transform-origin: 151px bottom;"><rect x="144" y="70" width="14" height="30" rx="2" fill="#58a6ff"/></g>
   <text x="151" y="65" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-9">53</text>
-  <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <text x="169" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-10">2</text>
+  <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="83" width="14" height="17" rx="2" fill="#58a6ff"/></g>
+  <text x="169" y="78" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-10">30</text>
 </g>
 
 <g transform="translate(380, 55)">
