@@ -2,23 +2,23 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 1461,
-    "repositories_count": 14,
+    "total_contributions": 1510,
+    "repositories_count": 17,
     "total_stars": 24,
     "total_forks": 0,
-    "total_followers": 78,
+    "total_followers": 77,
     "total_following": 121,
     "total_views": 904,
     "views_from_date": "2026-02-11",
     "total_clones": 1925,
     "clones_from_date": "2026-02-11",
     "total_pull_requests": 48,
-    "total_issues": 125,
-    "lines_added": 841919,
-    "lines_deleted": 434616,
-    "avg_contribution_percent": "65.30%",
-    "collaborators_count": 5,
-    "contributors_count": 4
+    "total_issues": 167,
+    "lines_added": 861680,
+    "lines_deleted": 450266,
+    "avg_contribution_percent": "92.66%",
+    "collaborators_count": 6,
+    "contributors_count": 5
   },
   "languages": {
     "PowerShell": {
@@ -89,15 +89,14 @@
     }
   },
   "streak": {
-    "current_streak": 0,
-    "current_streak_range": "No streak",
+    "current_streak": 1,
+    "current_streak_range": "Feb 25 - Feb 25, 2026",
     "longest_streak": 16,
     "longest_streak_range": "Sep 04 - Sep 19, 2025"
   },
   "contributions": {
-    "total": 1461,
+    "total": 1510,
     "recent": [
-      9,
       56,
       55,
       176,
@@ -106,11 +105,12 @@
       3,
       8,
       0,
+      49,
       0
     ]
   },
   "repositories": {
-    "count": 14,
+    "count": 17,
     "list": [
       "leonardokr/aokode.github.io",
       "leonardokr/ebook-image-extractor",
@@ -119,6 +119,9 @@
       "leonardokr/leonardokr",
       "leonardokr/leonardokr.github.io",
       "leonardokr/powershell-scripts",
+      "leonardokr/private-repo",
+      "leonardokr/private-repo",
+      "leonardokr/private-repo",
       "leonardokr/private-repo",
       "leonardokr/private-repo",
       "leonardokr/private-repo",
