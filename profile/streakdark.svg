@@ -43,9 +43,9 @@
 
 <g transform="translate(85, 105)">
   <g class="animate-count delay-2">
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">1</text>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">19</text>
     <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Current Streak</text>
-    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">Feb 25 - Feb 25, 2026</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">Feb 08 - Feb 26, 2026</text>
   </g>
 </g>
 
@@ -56,9 +56,9 @@
     <svg class="animate-pulse" x="-12" y="-70" width="24" height="24" viewBox="0 0 16 16" fill="#58a6ff">
       <path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
     </svg>
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">16</text>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">19</text>
     <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Longest Streak</text>
-    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">Sep 04 - Sep 19, 2025</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">Feb 08 - Feb 26, 2026</text>
   </g>
 </g>
 
@@ -66,7 +66,7 @@
 
 <g transform="translate(412, 105)">
   <g class="animate-count delay-4">
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">1,514</text>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff" text-anchor="middle">1,517</text>
     <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="middle">Total Contributions</text>
     <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">All time</text>
   </g>
