@@ -1,71 +1,71 @@
 {
   "username": "leonardokr",
   "languages": {
-    "TypeScript": {
-      "size": 753207,
-      "occurrences": 1,
-      "color": "#3178c6",
-      "prop": 4.602684528077979
-    },
-    "JavaScript": {
-      "size": 212838,
-      "occurrences": 2,
-      "color": "#f1e05a",
-      "prop": 1.300606831305419
-    },
     "PowerShell": {
-      "size": 458182,
+      "size": 507631,
       "occurrences": 4,
       "color": "#012456",
-      "prop": 2.7998507746792374
+      "prop": 3.0930611508251102
     },
     "HTML": {
       "size": 28579,
       "occurrences": 1,
       "color": "#e34c26",
-      "prop": 0.17464006724305609
+      "prop": 0.1741355327579104
     },
     "CSS": {
       "size": 10749,
       "occurrences": 1,
       "color": "#663399",
-      "prop": 0.06568480642414394
+      "prop": 0.0654950432700507
     },
     "Python": {
-      "size": 14781393,
+      "size": 14779358,
       "occurrences": 5,
       "color": "#3572A5",
-      "prop": 90.32588500178588
+      "prop": 90.0525343486436
+    },
+    "TypeScript": {
+      "size": 753207,
+      "occurrences": 1,
+      "color": "#3178c6",
+      "prop": 4.58938739011118
+    },
+    "JavaScript": {
+      "size": 212838,
+      "occurrences": 2,
+      "color": "#f1e05a",
+      "prop": 1.2968493831529493
     },
     "Dockerfile": {
       "size": 596,
       "occurrences": 1,
       "color": "#384d54",
-      "prop": 0.0036420266656237597
+      "prop": 0.003631504864540908
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.4142194253847425
+      "prop": 0.4130227470518548
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.01853400482690749
+      "prop": 0.018480460157974117
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.06925961447681156
+      "prop": 0.06905952371595075
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.22499291913020336
+      "prop": 0.22434291544887866
     }
   }
 }

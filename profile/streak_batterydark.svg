@@ -89,9 +89,9 @@
       <rect x="7" y="8" width="36" height="80" rx="2"/>
     </g>
 
-    <g class="">
-      <rect x="4" y="87" width="42" height="4" rx="3" ry="3"
-            fill="url(#battery-gradient)"
+    <g class="animate-glow">
+      <rect x="4" y="4" width="42" height="87" rx="3" ry="3"
+            fill="url(#glow-gradient)"
             class="animate-fill delay-3"/>
     </g>
   </g>
@@ -99,7 +99,7 @@
 
 <g transform="translate(40, 170)">
   <g class="animate-fade delay-4">
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="600" font-size="11" fill="#8b949e" text-anchor="middle" x="25">5%</text>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="600" font-size="11" fill="#8b949e" text-anchor="middle" x="25">100%</text>
   </g>
 </g>
 
@@ -118,29 +118,30 @@
   <text x="97" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-6">1</text>
   <g class="animate-fill delay-7" style="transform-origin: 115px bottom;"><rect x="108" y="70" width="14" height="30" rx="2" fill="#58a6ff"/></g>
   <text x="115" y="65" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-7">53</text>
-  <g class="animate-fill delay-8" style="transform-origin: 133px bottom;"><rect x="126" y="83" width="14" height="17" rx="2" fill="#58a6ff"/></g>
-  <text x="133" y="78" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-8">30</text>
-  <g class="animate-fill delay-9" style="transform-origin: 151px bottom;"><rect x="144" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <text x="169" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-10">1</text>
+  <g class="animate-fill delay-8" style="transform-origin: 133px bottom;"><rect x="126" y="78" width="14" height="22" rx="2" fill="#58a6ff"/></g>
+  <text x="133" y="73" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-8">40</text>
+  <g class="animate-fill delay-9" style="transform-origin: 151px bottom;"><rect x="144" y="90" width="14" height="10" rx="2" fill="#58a6ff"/></g>
+  <text x="151" y="85" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-9">19</text>
+  <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="95" width="14" height="5" rx="2" fill="#58a6ff"/></g>
+  <text x="169" y="90" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-10">9</text>
 </g>
 
 <g transform="translate(380, 55)">
   <g class="animate-count delay-5">
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">1</text>
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">21</text>
     <text y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Current Streak</text>
-    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Feb 28 - Feb 28, 2026</text>
+    <text y="42" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Feb 08 - Feb 28, 2026</text>
   </g>
 </g>
 
 <g transform="translate(380, 140)">
   <g class="animate-count delay-6">
-    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">19</text>
-    <svg class="" x="60" y="-20" width="18" height="18" viewBox="0 0 16 16" fill="#58a6ff">
+    <text font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="42" fill="#58a6ff">21</text>
+    <svg class="animate-pulse" x="60" y="-20" width="18" height="18" viewBox="0 0 16 16" fill="#58a6ff">
       <path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
     </svg>
     <text y="18" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Longest Streak</text>
-    <text y="32" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Feb 08 - Feb 26, 2026</text>
+    <text y="32" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e">Feb 08 - Feb 28, 2026</text>
   </g>
 </g>
 
