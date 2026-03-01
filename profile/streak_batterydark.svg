@@ -104,26 +104,25 @@
 </g>
 
 <g transform="translate(160, 70)">
-  <g class="animate-fill delay-1" style="transform-origin: 7px bottom;"><rect x="0" y="0" width="14" height="100" rx="2" fill="#58a6ff"/></g>
-  <text x="7" y="-5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-1">176</text>
-  <g class="animate-fill delay-2" style="transform-origin: 25px bottom;"><rect x="18" y="74" width="14" height="26" rx="2" fill="#58a6ff"/></g>
-  <text x="25" y="69" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-2">46</text>
-  <g class="animate-fill delay-3" style="transform-origin: 43px bottom;"><rect x="36" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <text x="43" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-3">8</text>
-  <g class="animate-fill delay-4" style="transform-origin: 61px bottom;"><rect x="54" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <text x="61" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-4">3</text>
+  <g class="animate-fill delay-1" style="transform-origin: 7px bottom;"><rect x="0" y="14" width="14" height="86" rx="2" fill="#58a6ff"/></g>
+  <text x="7" y="9" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-1">46</text>
+  <g class="animate-fill delay-2" style="transform-origin: 25px bottom;"><rect x="18" y="85" width="14" height="15" rx="2" fill="#58a6ff"/></g>
+  <text x="25" y="80" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-2">8</text>
+  <g class="animate-fill delay-3" style="transform-origin: 43px bottom;"><rect x="36" y="95" width="14" height="5" rx="2" fill="#58a6ff"/></g>
+  <text x="43" y="90" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-3">3</text>
+  <g class="animate-fill delay-4" style="transform-origin: 61px bottom;"><rect x="54" y="85" width="14" height="15" rx="2" fill="#58a6ff"/></g>
+  <text x="61" y="80" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-4">8</text>
   <g class="animate-fill delay-5" style="transform-origin: 79px bottom;"><rect x="72" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <text x="79" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-5">8</text>
-  <g class="animate-fill delay-6" style="transform-origin: 97px bottom;"><rect x="90" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <text x="97" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-6">1</text>
-  <g class="animate-fill delay-7" style="transform-origin: 115px bottom;"><rect x="108" y="70" width="14" height="30" rx="2" fill="#58a6ff"/></g>
-  <text x="115" y="65" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-7">53</text>
-  <g class="animate-fill delay-8" style="transform-origin: 133px bottom;"><rect x="126" y="78" width="14" height="22" rx="2" fill="#58a6ff"/></g>
-  <text x="133" y="73" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-8">40</text>
-  <g class="animate-fill delay-9" style="transform-origin: 151px bottom;"><rect x="144" y="90" width="14" height="10" rx="2" fill="#58a6ff"/></g>
-  <text x="151" y="85" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-9">19</text>
-  <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="95" width="14" height="5" rx="2" fill="#58a6ff"/></g>
-  <text x="169" y="90" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-10">9</text>
+  <text x="79" y="91" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-5">1</text>
+  <g class="animate-fill delay-6" style="transform-origin: 97px bottom;"><rect x="90" y="0" width="14" height="100" rx="2" fill="#58a6ff"/></g>
+  <text x="97" y="-5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-6">53</text>
+  <g class="animate-fill delay-7" style="transform-origin: 115px bottom;"><rect x="108" y="25" width="14" height="75" rx="2" fill="#58a6ff"/></g>
+  <text x="115" y="20" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-7">40</text>
+  <g class="animate-fill delay-8" style="transform-origin: 133px bottom;"><rect x="126" y="65" width="14" height="35" rx="2" fill="#58a6ff"/></g>
+  <text x="133" y="60" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-8">19</text>
+  <g class="animate-fill delay-9" style="transform-origin: 151px bottom;"><rect x="144" y="57" width="14" height="43" rx="2" fill="#58a6ff"/></g>
+  <text x="151" y="52" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-9">23</text>
+  <g class="animate-fill delay-10" style="transform-origin: 169px bottom;"><rect x="162" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
 </g>
 
 <g transform="translate(380, 55)">
