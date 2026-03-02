@@ -2,70 +2,70 @@
   "username": "leonardokr",
   "languages": {
     "PowerShell": {
-      "size": 553506,
+      "size": 575089,
       "occurrences": 4,
       "color": "#012456",
-      "prop": 3.3631825971435796
+      "prop": 3.489747525196174
     },
     "HTML": {
       "size": 28579,
       "occurrences": 1,
       "color": "#e34c26",
-      "prop": 0.1736501419022854
+      "prop": 0.17342271287154068
     },
     "CSS": {
       "size": 10749,
       "occurrences": 1,
       "color": "#663399",
-      "prop": 0.06531248032848125
+      "prop": 0.06522694078365901
     },
     "Python": {
       "size": 14779358,
       "occurrences": 5,
       "color": "#3572A5",
-      "prop": 89.80151908480622
+      "prop": 89.68390632491366
     },
     "TypeScript": {
       "size": 753207,
       "occurrences": 1,
       "color": "#3178c6",
-      "prop": 4.576594787494128
+      "prop": 4.570600836062652
     },
     "JavaScript": {
       "size": 212838,
       "occurrences": 2,
       "color": "#f1e05a",
-      "prop": 1.2932345044332767
+      "prop": 1.29154075937412
     },
     "Dockerfile": {
       "size": 596,
       "occurrences": 1,
       "color": "#384d54",
-      "prop": 0.0036213822937738232
+      "prop": 0.0036166393810643568
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.4118714744688902
+      "prop": 0.41133204772726073
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.018428947142644304
+      "prop": 0.018404810810013744
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.06886702502958475
+      "prop": 0.06877683010903259
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.22371757495714498
+      "prop": 0.22342457277081967
     }
   }
 }
