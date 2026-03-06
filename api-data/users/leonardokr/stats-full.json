@@ -14,11 +14,11 @@
     "clones_from_date": "2026-02-19",
     "total_pull_requests": 63,
     "total_issues": 189,
-    "lines_added": 905961,
-    "lines_deleted": 489134,
-    "avg_contribution_percent": "92.17%",
-    "collaborators_count": 6,
-    "contributors_count": 5
+    "lines_added": 856447,
+    "lines_deleted": 484533,
+    "avg_contribution_percent": "69.16%",
+    "collaborators_count": 5,
+    "contributors_count": 4
   },
   "languages": {
     "PowerShell": {
