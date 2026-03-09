@@ -1,4 +1,12 @@
 {
   "username": "leonardokr",
-  "weekly_commits": []
+  "weekly_commits": [
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-03-09T11:37:28+00:00"
+    }
+  ]
 }
