@@ -2,11 +2,11 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 1675,
+    "total_contributions": 1685,
     "repositories_count": 17,
     "total_stars": 24,
     "total_forks": 0,
-    "total_followers": 91,
+    "total_followers": 98,
     "total_following": 178,
     "total_views": 247,
     "views_from_date": "2026-02-22",
@@ -89,15 +89,14 @@
     }
   },
   "streak": {
-    "current_streak": 28,
-    "current_streak_range": "Feb 08 - Mar 07, 2026",
-    "longest_streak": 28,
-    "longest_streak_range": "Feb 08 - Mar 07, 2026"
+    "current_streak": 29,
+    "current_streak_range": "Feb 08 - Mar 08, 2026",
+    "longest_streak": 29,
+    "longest_streak_range": "Feb 08 - Mar 08, 2026"
   },
   "contributions": {
-    "total": 1675,
+    "total": 1685,
     "recent": [
-      19,
       23,
       8,
       13,
@@ -106,6 +105,7 @@
       22,
       1,
       7,
+      10,
       0
     ]
   },
