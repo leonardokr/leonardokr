@@ -89,15 +89,14 @@
     }
   },
   "streak": {
-    "current_streak": 34,
-    "current_streak_range": "Feb 08 - Mar 13, 2026",
+    "current_streak": 0,
+    "current_streak_range": "No streak",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
     "total": 1748,
     "recent": [
-      22,
       1,
       7,
       10,
@@ -106,6 +105,7 @@
       1,
       49,
       11,
+      0,
       0
     ]
   },
