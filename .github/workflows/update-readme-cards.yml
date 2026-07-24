@@ -1,4 +1,4 @@
-﻿name: Update README cards
+name: Update README cards
 
 on:
   schedule:
@@ -33,6 +33,7 @@ jobs:
           pip install -r leo-git-statistics/requirements.txt
 
       - name: Generate static stats JSON (safe/public)
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           GITHUB_ACTOR: leonardokr
@@ -47,6 +48,7 @@ jobs:
           python leo-git-statistics/api/generate_static_api.py
 
       - name: Generate profile cards from static JSON
+        continue-on-error: true
         uses: leonardokr/leo-git-statistics@v2
         with:
           github-token: ${{ secrets.PROFILE_STATS_TOKEN }}
@@ -64,6 +66,7 @@ jobs:
               mask_private_repos: "true"
 
       - name: Generate trophy card
+        continue-on-error: true
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: leonardokr
@@ -71,6 +74,7 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate 3D contribution card
+        continue-on-error: true
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
@@ -80,7 +84,9 @@ jobs:
         run: |
           rm -rf profile/profile-3d-contrib
           mkdir -p profile
-          mv profile-3d-contrib profile/profile-3d-contrib
+          if [ -d profile-3d-contrib ]; then
+            mv profile-3d-contrib profile/profile-3d-contrib
+          fi
 
       - name: Commit cards and static API data
         run: |
