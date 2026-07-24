@@ -1,4 +1,313 @@
 {
   "username": "leonardokr",
-  "weekly_commits": []
+  "weekly_commits": [
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "9e18b9fa1b0ff9a42fc1776c66f3d197659818e1",
+      "description": "fix: consume item cost when taking result using anvil",
+      "is_private": false,
+      "timestamp": "2026-07-20T22:33:46+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "cc7fa99c8b1c892c7ae280b64061187d23402c39",
+      "description": "fix: fix grass slab side texture and overlay UV mapping",
+      "is_private": false,
+      "timestamp": "2026-07-21T00:31:59+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "2efbb1cc8509cc938a17016bd18095969d5980c7",
+      "description": "fix: fix sugar cane tinting and stacked offset propagation",
+      "is_private": false,
+      "timestamp": "2026-07-21T01:14:09+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "320112c14c5e115981b287ec1695921df8f65e7a",
+      "description": "feat: add configurable water hydration radius and water below option",
+      "is_private": false,
+      "timestamp": "2026-07-21T01:27:53+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "67d4fe95a9b62bdfcf805bf518fccff5b547f873",
+      "description": "feat: add milk bucket hunger restoration with configurable nutrition",
+      "is_private": false,
+      "timestamp": "2026-07-21T01:32:42+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "da969e6ee16d486ec899a9a314eb1a87dc5a5f96",
+      "description": "refactor: separate server and client configs and replace dontKeepExperience list with client keepExperience setting",
+      "is_private": false,
+      "timestamp": "2026-07-21T10:52:07+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "10d6483d54def90aab03027f1aa685c54a8b2c19",
+      "description": "feat: add in-game config screen with client and server tabs",
+      "is_private": false,
+      "timestamp": "2026-07-21T11:05:33+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "1e78bea7c6533fbf53c4aa48b490ad5f365a1f19",
+      "description": "refactor: move daily experience amount and growth settings to server config",
+      "is_private": false,
+      "timestamp": "2026-07-21T11:09:09+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "5939d3ca7549821220b1fadd6acdadcf06477e46",
+      "description": "feat: add Switch Rail block with pulse redstone toggling and junction logic",
+      "is_private": false,
+      "timestamp": "2026-07-21T13:45:54+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "9f4661e54c21b24120d4d7f83de703b6096f886e",
+      "description": "Merge pull request #11 from leonardokr/release-please--branches--main--components--experiencetweaks",
+      "is_private": false,
+      "timestamp": "2026-07-21T13:49:50+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "844ac8de6e1871386e446cd72ec890b49c5d3d02",
+      "description": "fix: fix multiplayer auto fishing detection and config GUI recast toggle",
+      "is_private": false,
+      "timestamp": "2026-07-21T14:57:35+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "c8a65e1beea5dc974cf86295818f142191b57286",
+      "description": "fix: fix anvil item cost consumption and separate server sync handler",
+      "is_private": false,
+      "timestamp": "2026-07-21T15:08:14+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "3396a656fd1c6e0f533e0eb7a22f7a30a78d81c3",
+      "description": "fix: support modded milk items in MilkBucketNutritionHandler",
+      "is_private": false,
+      "timestamp": "2026-07-21T15:12:01+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "b3d11acb5ada12a681d34c3bb2c04cc73ac78bb1",
+      "description": "Merge pull request #12 from leonardokr/release-please--branches--main--components--experiencetweaks",
+      "is_private": false,
+      "timestamp": "2026-07-21T15:16:52+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "96e205a237478dc433aab37b529226f0f8caabc5",
+      "description": "fix: fix dirt path slab side UV mapping",
+      "is_private": false,
+      "timestamp": "2026-07-21T15:37:21+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "0376f8d4acdbe2794e3907b23d84a74543810d0e",
+      "description": "fix: restore food points on milk consumption universally via LivingEntityMixin",
+      "is_private": false,
+      "timestamp": "2026-07-21T17:13:03+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "f939919213978b8cc0b639e6d17b974ea158ec01",
+      "description": "feat: add unlimited trade options for wandering traders and villagers",
+      "is_private": false,
+      "timestamp": "2026-07-21T18:50:47+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "b4a89e7df405c355693a7fc32db7d4d4033fd596",
+      "description": "fix: sync client config settings to the logical server",
+      "is_private": false,
+      "timestamp": "2026-07-21T18:53:03+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "e68025256ca1015b5f17ac9fd58ad81f561dfbd6",
+      "description": "feat: add option to affect all arrow types with Infinity enchantment",
+      "is_private": false,
+      "timestamp": "2026-07-21T21:59:33+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "bff5e7a065aba37385e87eb9956260543f3393f0",
+      "description": "feat: add option to allow multiple damage enchantments on weapons",
+      "is_private": false,
+      "timestamp": "2026-07-21T22:25:30+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "0abf9ab703fd2a32687f31bb585990f16923ff57",
+      "description": "feat: add option to allow multiple protection enchantments on armor",
+      "is_private": false,
+      "timestamp": "2026-07-22T11:33:05+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "11d2f3fdccb8043d9bd48c85860d0bca98a7af1a",
+      "description": "feat: add option to allow Piercing and Multishot together on crossbows",
+      "is_private": false,
+      "timestamp": "2026-07-22T11:40:16+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "28634f86f49cb06189e38eea4226d5a79b446b5e",
+      "description": "feat: add option to allow multiple trident enchantments",
+      "is_private": false,
+      "timestamp": "2026-07-22T11:48:10+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "de3d5a6d3a14d1de9748d9302bcb8aab57b20167",
+      "description": "feat: add client-side option to use Riptide anywhere",
+      "is_private": false,
+      "timestamp": "2026-07-22T12:01:33+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "9704408965cecfbe9fdc6d7b007915eea21756e1",
+      "description": "Merge pull request #13 from leonardokr/release-please--branches--main--components--experiencetweaks",
+      "is_private": false,
+      "timestamp": "2026-07-22T12:48:18+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "927496572f9a1ae932c08d45d23bdd006ede42a7",
+      "description": "feat: add server option to unlock all recipes for all players",
+      "is_private": false,
+      "timestamp": "2026-07-22T19:19:42+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "80ac2825398e802132bcfaca2e37d4746aab2e20",
+      "description": "feat: add configurable anvil durability multiplier option",
+      "is_private": false,
+      "timestamp": "2026-07-22T19:25:10+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "0ddb69373201867b860fa8b8bdbc0632c576075f",
+      "description": "docs: update and simplify README description and features",
+      "is_private": false,
+      "timestamp": "2026-07-22T19:28:33+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "57b1ce8010011bb25ea4970a3ca5a278c814fb41",
+      "description": "fix: adjust dirt path slab models UV to fix transparent gap",
+      "is_private": false,
+      "timestamp": "2026-07-22T20:43:43+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "3bd6df40fc35f7b85dc238dce790887f0f1f9739",
+      "description": "feat: improve config screen layout, add tooltips and break lines",
+      "is_private": false,
+      "timestamp": "2026-07-22T23:21:42+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "ae29b88e070ef8232b553115a8ea39ea9bff2cff",
+      "description": "feat: add debug mode option with config logs",
+      "is_private": false,
+      "timestamp": "2026-07-22T23:24:36+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "0fac1df25b3dc40964e42ff61705cb4aea901b5f",
+      "description": "fix: fix critical injection failure in AnvilMenuMixin",
+      "is_private": false,
+      "timestamp": "2026-07-22T23:24:49+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "dd6f0fa5749c76b7624d325d34db56f15568dfbb",
+      "description": "Merge pull request #15 from leonardokr/release-please--branches--main--components--experiencetweaks",
+      "is_private": false,
+      "timestamp": "2026-07-22T23:27:39+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-23T02:12:32+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-23T02:13:20+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-23T12:02:54+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "bf45a117db197104b871b797c748966f15d45f00",
+      "description": "feat: add collectible mob arrows configuration",
+      "is_private": false,
+      "timestamp": "2026-07-23T18:39:31+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "1097b4a2afe5b05ee99cdd88c77cefb5140ad5b4",
+      "description": "feat: implement shared mod config registry and unified selection screen",
+      "is_private": false,
+      "timestamp": "2026-07-23T18:49:15+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-23T19:05:48+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "de453bad37afa44ab6e73e0e492b53bc293d2959",
+      "description": "docs: simplify project description in README.md",
+      "is_private": false,
+      "timestamp": "2026-07-23T19:08:43+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "a46e26af3c2b95328e6eeb0fda3caed6fabdf597",
+      "description": "Merge pull request #16 from leonardokr/release-please--branches--main--components--experiencetweaks",
+      "is_private": false,
+      "timestamp": "2026-07-23T19:53:06+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-23T19:53:20+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "cf6aadb97c69ef8d77b6e69385e7d29d6259a4ed",
+      "description": "ci: allow workflow to continue when card generation fails",
+      "is_private": false,
+      "timestamp": "2026-07-24T18:09:28+00:00"
+    },
+    {
+      "repo": "leonardokr/leonardokr",
+      "sha": "6c5f23ae3b8a91ead11058a6d0e0939f241a2de4",
+      "description": "Merge branch 'master' of https://github.com/leonardokr/leonardokr",
+      "is_private": false,
+      "timestamp": "2026-07-24T18:09:42+00:00"
+    }
+  ]
 }
