@@ -47,7 +47,7 @@
   <g class="animate-fade delay-2">
     <rect x="0" y="0" width="455" height="8" rx="4" ry="4" fill="#30363d" opacity="0.3"/>
     <g clip-path="url(#progress-clip)" class="progress-animate">
-      <rect x="0.00" y="0" width="382.29" height="8" fill="#3572A5"/><rect x="382.29" y="0" width="33.09" height="8" fill="#3178c6"/><rect x="415.38" y="0" width="16.09" height="8" fill="#012456"/><rect x="431.47" y="0" width="13.62" height="8" fill="#b07219"/><rect x="445.09" y="0" width="5.68" height="8" fill="#f1e05a"/><rect x="450.77" y="0" width="1.74" height="8" fill="#A97BFF"/><rect x="452.51" y="0" width="0.95" height="8" fill="#f34b7d"/><rect x="453.46" y="0" width="0.74" height="8" fill="#e34c26"/><rect x="454.20" y="0" width="0.40" height="8" fill="#663399"/><rect x="454.60" y="0" width="0.29" height="8" fill="#3D6117"/><rect x="454.89" y="0" width="0.08" height="8" fill="#C1F12E"/><rect x="454.97" y="0" width="0.03" height="8" fill="#384d54"/>
+      <rect x="0.00" y="0" width="381.95" height="8" fill="#3572A5"/><rect x="381.95" y="0" width="33.06" height="8" fill="#3178c6"/><rect x="415.01" y="0" width="16.08" height="8" fill="#012456"/><rect x="431.09" y="0" width="14.01" height="8" fill="#b07219"/><rect x="445.10" y="0" width="5.67" height="8" fill="#f1e05a"/><rect x="450.77" y="0" width="1.74" height="8" fill="#A97BFF"/><rect x="452.51" y="0" width="0.95" height="8" fill="#f34b7d"/><rect x="453.46" y="0" width="0.74" height="8" fill="#e34c26"/><rect x="454.20" y="0" width="0.40" height="8" fill="#663399"/><rect x="454.60" y="0" width="0.29" height="8" fill="#3D6117"/><rect x="454.89" y="0" width="0.08" height="8" fill="#C1F12E"/><rect x="454.97" y="0" width="0.03" height="8" fill="#384d54"/>
     </g>
   </g>
 </g>
@@ -58,7 +58,7 @@
       <li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3572A5; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Python</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">84.0%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">83.9%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3178c6; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">TypeScript</span>
@@ -70,7 +70,7 @@
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #b07219; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Java</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">3.0%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">3.1%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #f1e05a; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">JavaScript</span>

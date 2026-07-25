@@ -308,6 +308,20 @@
       "description": "Merge branch 'master' of https://github.com/leonardokr/leonardokr",
       "is_private": false,
       "timestamp": "2026-07-24T18:09:42+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "351585b6c8a346c425254ed7ca9ca33c9920eae8",
+      "description": "feat: add option to prevent duplicate treasure maps",
+      "is_private": false,
+      "timestamp": "2026-07-24T20:32:23+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "017ad055c1f5e9d0833024c71762d64fd510e798",
+      "description": "Merge pull request #17 from leonardokr/release-please--branches--main--components--experiencetweaks",
+      "is_private": false,
+      "timestamp": "2026-07-24T21:25:00+00:00"
     }
   ]
 }
