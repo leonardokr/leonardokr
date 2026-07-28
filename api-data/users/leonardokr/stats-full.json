@@ -4,13 +4,13 @@
     "name": "Leonardo Klein",
     "total_contributions": 2142,
     "repositories_count": 19,
-    "total_stars": 28,
+    "total_stars": 25,
     "total_forks": 1,
-    "total_followers": 156,
-    "total_following": 222,
-    "total_views": 406,
+    "total_followers": 154,
+    "total_following": 221,
+    "total_views": 407,
     "views_from_date": "2026-07-10",
-    "total_clones": 1028,
+    "total_clones": 1040,
     "clones_from_date": "2026-07-10",
     "total_pull_requests": 111,
     "total_issues": 237,
@@ -21,23 +21,29 @@
     "contributors_count": 6
   },
   "languages": {
-    "Java": {
-      "size": 545024,
-      "occurrences": 2,
-      "color": "#b07219",
-      "prop": 3.0795717832110836
-    },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
       "color": "#3572A5",
       "prop": 83.94496115248887
     },
+    "Dockerfile": {
+      "size": 1144,
+      "occurrences": 2,
+      "color": "#384d54",
+      "prop": 0.0064639907967235935
+    },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
       "prop": 0.38300840573068945
+    },
+    "Java": {
+      "size": 545024,
+      "occurrences": 2,
+      "color": "#b07219",
+      "prop": 3.0795717832110836
     },
     "Batchfile": {
       "size": 3033,
@@ -62,12 +68,6 @@
       "occurrences": 2,
       "color": "#663399",
       "prop": 0.08761419693531122
-    },
-    "Dockerfile": {
-      "size": 1144,
-      "occurrences": 2,
-      "color": "#384d54",
-      "prop": 0.0064639907967235935
     },
     "HTML": {
       "size": 28878,
