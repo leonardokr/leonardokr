@@ -2,116 +2,116 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2142,
+    "total_contributions": 2156,
     "repositories_count": 19,
     "total_stars": 24,
     "total_forks": 1,
-    "total_followers": 150,
+    "total_followers": 152,
     "total_following": 221,
     "total_views": 360,
     "views_from_date": "2026-07-10",
     "total_clones": 919,
     "clones_from_date": "2026-07-10",
-    "total_pull_requests": 111,
+    "total_pull_requests": 113,
     "total_issues": 237,
-    "lines_added": 967348,
-    "lines_deleted": 500721,
-    "avg_contribution_percent": "92.79%",
+    "lines_added": 967776,
+    "lines_deleted": 501018,
+    "avg_contribution_percent": "92.78%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "Java": {
+      "size": 552754,
+      "occurrences": 2,
+      "color": "#b07219",
+      "prop": 3.121885373557497
+    },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
       "color": "#3572A5",
-      "prop": 83.94496115248887
+      "prop": 83.90831240089744
     },
     "Dockerfile": {
       "size": 1144,
       "occurrences": 2,
       "color": "#384d54",
-      "prop": 0.0064639907967235935
+      "prop": 0.0064611687429666316
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.38300840573068945
-    },
-    "Java": {
-      "size": 545024,
-      "occurrences": 2,
-      "color": "#b07219",
-      "prop": 3.0795717832110836
+      "prop": 0.38284119164509883
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.017137486089565262
+      "prop": 0.01713000419354702
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 7.265587809274979
+      "prop": 7.262415793717021
     },
     "JavaScript": {
       "size": 220622,
       "occurrences": 3,
       "color": "#f1e05a",
-      "prop": 1.2465896656947137
+      "prop": 1.2460454286807552
     },
     "CSS": {
       "size": 15506,
       "occurrences": 2,
       "color": "#663399",
-      "prop": 0.08761419693531122
+      "prop": 0.08757594626611939
     },
     "HTML": {
       "size": 28878,
       "occurrences": 2,
       "color": "#e34c26",
-      "prop": 0.1631705648844265
+      "prop": 0.16309932776170488
     },
     "PowerShell": {
       "size": 625416,
       "occurrences": 4,
       "color": "#012456",
-      "prop": 3.5338140455626594
+      "prop": 3.5322712504818345
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.06404097175705
+      "prop": 0.06401301270348234
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.20803992757392128
+      "prop": 0.20794910135252478
     }
   },
   "streak": {
-    "current_streak": 0,
-    "current_streak_range": "No streak",
+    "current_streak": 1,
+    "current_streak_range": "Jul 29 - Jul 29, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2142,
+    "total": 2156,
     "recent": [
-      5,
       16,
       19,
       8,
-      4,
+      5,
+      2,
       0,
       0,
       0,
-      0,
+      11,
       0
     ]
   },
@@ -139,5 +139,69 @@
       "leonardokr/serial-input-monitor"
     ]
   },
-  "weekly_commits": []
+  "weekly_commits": [
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-29T16:14:47+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "4b75b75ddd18e54507c4e32cbc06f7fddc07943d",
+      "description": "refactor: move neverRepeatTreasureMaps to server config",
+      "is_private": false,
+      "timestamp": "2026-07-29T18:18:52+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-29T18:19:57+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "49291f4e9ac482d6851bd232ad73dd22a7d0b961",
+      "description": "feat: add custom creative mode tab with switch rail icon",
+      "is_private": false,
+      "timestamp": "2026-07-29T18:37:45+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "1f294bcd48ae10c6d71869f24971d2ae08a85c3a",
+      "description": "fix: add 'minecraft:block/block' parent to grass slab block models to inherit standard 3D isometric transforms in the in",
+      "is_private": false,
+      "timestamp": "2026-07-29T19:57:39+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "d93b45cbe6189e0eba6b104822b95b0da000987e",
+      "description": "fix: add 'minecraft:grass' item tint configuration to grass_slab item model to fix the gray icon color in the inventory",
+      "is_private": false,
+      "timestamp": "2026-07-29T19:57:52+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-29T21:42:37+00:00"
+    },
+    {
+      "repo": "leonardokr/minecraft-java-experience-tweaks",
+      "sha": "314bf4f42631a8604c2c752a0c8c200b25671973",
+      "description": "Merge pull request #18 from leonardokr/release-please--branches--main--components--experiencetweaks",
+      "is_private": false,
+      "timestamp": "2026-07-29T21:43:27+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-07-29T21:45:30+00:00"
+    }
+  ]
 }
