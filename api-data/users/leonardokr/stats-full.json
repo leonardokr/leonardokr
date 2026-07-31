@@ -4,9 +4,9 @@
     "name": "Leonardo Klein",
     "total_contributions": 2157,
     "repositories_count": 19,
-    "total_stars": 24,
-    "total_forks": 1,
-    "total_followers": 153,
+    "total_stars": 28,
+    "total_forks": 5,
+    "total_followers": 155,
     "total_following": 227,
     "total_views": 370,
     "views_from_date": "2026-07-10",
@@ -21,12 +21,6 @@
     "contributors_count": 6
   },
   "languages": {
-    "Java": {
-      "size": 552754,
-      "occurrences": 2,
-      "color": "#b07219",
-      "prop": 3.121885373557497
-    },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
@@ -50,6 +44,12 @@
       "occurrences": 2,
       "color": "#C1F12E",
       "prop": 0.01713000419354702
+    },
+    "Java": {
+      "size": 552754,
+      "occurrences": 2,
+      "color": "#b07219",
+      "prop": 3.121885373557497
     },
     "TypeScript": {
       "size": 1285867,
@@ -95,15 +95,14 @@
     }
   },
   "streak": {
-    "current_streak": 1,
-    "current_streak_range": "Jul 29 - Jul 29, 2026",
+    "current_streak": 0,
+    "current_streak_range": "No streak",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
     "total": 2157,
     "recent": [
-      16,
       19,
       8,
       5,
@@ -112,6 +111,7 @@
       0,
       0,
       12,
+      0,
       0
     ]
   },
