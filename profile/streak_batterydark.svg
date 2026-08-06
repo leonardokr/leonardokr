@@ -105,9 +105,9 @@
 
 <g transform="translate(160, 70)">
   <g class="animate-fill delay-1" style="transform-origin: 7px bottom;"><rect x="0" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <g class="animate-fill delay-2" style="transform-origin: 25px bottom;"><rect x="18" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
-  <g class="animate-fill delay-3" style="transform-origin: 43px bottom;"><rect x="36" y="0" width="14" height="100" rx="2" fill="#58a6ff"/></g>
-  <text x="43" y="-5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-3">12</text>
+  <g class="animate-fill delay-2" style="transform-origin: 25px bottom;"><rect x="18" y="0" width="14" height="100" rx="2" fill="#58a6ff"/></g>
+  <text x="25" y="-5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="9" fill="#c9d1d9" text-anchor="middle" class="animate-fade delay-2">12</text>
+  <g class="animate-fill delay-3" style="transform-origin: 43px bottom;"><rect x="36" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
   <g class="animate-fill delay-4" style="transform-origin: 61px bottom;"><rect x="54" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
   <g class="animate-fill delay-5" style="transform-origin: 79px bottom;"><rect x="72" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
   <g class="animate-fill delay-6" style="transform-origin: 97px bottom;"><rect x="90" y="96" width="14" height="4" rx="2" fill="#58a6ff"/></g>
