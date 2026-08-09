@@ -6,7 +6,7 @@
     "repositories_count": 20,
     "total_stars": 28,
     "total_forks": 5,
-    "total_followers": 162,
+    "total_followers": 161,
     "total_following": 227,
     "total_views": 94,
     "views_from_date": "2026-07-16",
@@ -101,8 +101,8 @@
     }
   },
   "streak": {
-    "current_streak": 1,
-    "current_streak_range": "Aug 07 - Aug 07, 2026",
+    "current_streak": 0,
+    "current_streak_range": "No streak",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
@@ -116,8 +116,8 @@
       0,
       0,
       0,
-      0,
       6,
+      0,
       0
     ]
   },
