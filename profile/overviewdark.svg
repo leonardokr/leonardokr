@@ -78,7 +78,7 @@
         <path fill-rule="evenodd" d="M8.75 1.75a.75.75 0 00-1.5 0V5H4a.75.75 0 000 1.5h3.25v3.25a.75.75 0 001.5 0V6.5H12A.75.75 0 0012 5H8.75V1.75zM4 13a.75.75 0 000 1.5h8a.75.75 0 100-1.5H4z"/>
       </svg>
       <text x="22" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">Lines of Code:</text>
-      <text x="116" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">1,469,485</text>
+      <text x="116" y="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="700" fill="#58a6ff">1,469,815</text>
     </g>
   </g>
 

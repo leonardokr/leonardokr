@@ -6,7 +6,7 @@
     "repositories_count": 20,
     "total_stars": 28,
     "total_forks": 5,
-    "total_followers": 166,
+    "total_followers": 167,
     "total_following": 227,
     "total_views": 76,
     "views_from_date": "2026-07-16",
@@ -14,7 +14,7 @@
     "clones_from_date": "2026-07-16",
     "total_pull_requests": 113,
     "total_issues": 237,
-    "lines_added": 968467,
+    "lines_added": 968797,
     "lines_deleted": 501018,
     "avg_contribution_percent": "93.10%",
     "collaborators_count": 7,
@@ -25,79 +25,79 @@
       "size": 17357,
       "occurrences": 1,
       "color": "#89e051",
-      "prop": 0.09793415746155928
+      "prop": 0.09786829578632922
+    },
+    "PowerShell": {
+      "size": 637343,
+      "occurrences": 5,
+      "color": "#012456",
+      "prop": 3.5936897644377725
     },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
       "color": "#3572A5",
-      "prop": 83.82613750210741
+      "prop": 83.76976360777824
     },
     "Dockerfile": {
       "size": 1144,
       "occurrences": 2,
       "color": "#384d54",
-      "prop": 0.006454841051796037
+      "prop": 0.0064505001082883345
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.3824662593496454
+      "prop": 0.3822090470632209
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.017113228068266942
+      "prop": 0.017101719255628076
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 3.1188279814199884
+      "prop": 3.1167305392104985
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 7.25530340799809
+      "prop": 7.2504241457555905
     },
     "JavaScript": {
       "size": 220622,
       "occurrences": 3,
       "color": "#f1e05a",
-      "prop": 1.2448251245885884
+      "prop": 1.2439879675618783
     },
     "CSS": {
       "size": 15506,
       "occurrences": 2,
       "color": "#663399",
-      "prop": 0.08749017950100467
+      "prop": 0.08743134150272633
     },
     "HTML": {
       "size": 28878,
       "occurrences": 2,
       "color": "#e34c26",
-      "prop": 0.16293959780923598
-    },
-    "PowerShell": {
-      "size": 625416,
-      "occurrences": 4,
-      "color": "#012456",
-      "prop": 3.528811950393418
+      "prop": 0.1628300193419148
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.06395032209882542
+      "prop": 0.06390731488403845
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.20774544815216636
+      "prop": 0.2076057373138708
     }
   },
   "streak": {
@@ -146,5 +146,20 @@
       "leonardokr/serial-input-monitor"
     ]
   },
-  "weekly_commits": []
+  "weekly_commits": [
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-08-12T16:32:45+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-08-12T16:35:53+00:00"
+    }
+  ]
 }
