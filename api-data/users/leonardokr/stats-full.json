@@ -2,112 +2,112 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2165,
+    "total_contributions": 2167,
     "repositories_count": 20,
     "total_stars": 28,
     "total_forks": 5,
-    "total_followers": 168,
+    "total_followers": 169,
     "total_following": 226,
-    "total_views": 76,
+    "total_views": 48,
     "views_from_date": "2026-07-16",
-    "total_clones": 442,
+    "total_clones": 389,
     "clones_from_date": "2026-07-16",
     "total_pull_requests": 113,
     "total_issues": 237,
-    "lines_added": 968797,
-    "lines_deleted": 501018,
+    "lines_added": 969142,
+    "lines_deleted": 501020,
     "avg_contribution_percent": "93.09%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "PowerShell": {
+      "size": 651209,
+      "occurrences": 5,
+      "color": "#012456",
+      "prop": 3.6690053059551495
+    },
     "Shell": {
       "size": 17357,
       "occurrences": 1,
       "color": "#89e051",
-      "prop": 0.09786829578632922
-    },
-    "PowerShell": {
-      "size": 637343,
-      "occurrences": 5,
-      "color": "#012456",
-      "prop": 3.5936897644377725
+      "prop": 0.09779183809723688
     },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
       "color": "#3572A5",
-      "prop": 83.76976360777824
+      "prop": 83.70432012079605
     },
     "Dockerfile": {
       "size": 1144,
       "occurrences": 2,
       "color": "#384d54",
-      "prop": 0.0064505001082883345
+      "prop": 0.006445460781427608
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.3822090470632209
+      "prop": 0.38191045373170485
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.017101719255628076
+      "prop": 0.01708835887243875
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 3.1167305392104985
+      "prop": 3.114295654525556
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 7.2504241457555905
+      "prop": 7.244759893909068
     },
     "JavaScript": {
       "size": 220622,
       "occurrences": 3,
       "color": "#f1e05a",
-      "prop": 1.2439879675618783
+      "prop": 1.2430161263287778
     },
     "CSS": {
       "size": 15506,
       "occurrences": 2,
       "color": "#663399",
-      "prop": 0.08743134150272633
+      "prop": 0.08736303747973469
     },
     "HTML": {
       "size": 28878,
       "occurrences": 2,
       "color": "#e34c26",
-      "prop": 0.1628300193419148
+      "prop": 0.16270281157872943
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.06390731488403845
+      "prop": 0.06385738854606687
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.2076057373138708
+      "prop": 0.20744354939806214
     }
   },
   "streak": {
-    "current_streak": 1,
-    "current_streak_range": "Aug 12 - Aug 12, 2026",
+    "current_streak": 2,
+    "current_streak_range": "Aug 12 - Aug 13, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2165,
+    "total": 2167,
     "recent": [
       0,
       0,
@@ -118,7 +118,7 @@
       0,
       0,
       2,
-      0
+      2
     ]
   },
   "repositories": {
@@ -160,6 +160,20 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-08-12T16:35:53+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-08-13T12:11:34+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-08-13T12:17:19+00:00"
     }
   ]
 }
