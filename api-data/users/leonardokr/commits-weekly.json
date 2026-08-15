@@ -77,6 +77,13 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-08-14T13:00:26+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-08-14T19:04:42+00:00"
     }
   ]
 }

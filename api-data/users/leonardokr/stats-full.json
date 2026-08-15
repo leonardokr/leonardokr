@@ -2,11 +2,11 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2176,
+    "total_contributions": 2177,
     "repositories_count": 20,
     "total_stars": 28,
     "total_forks": 5,
-    "total_followers": 171,
+    "total_followers": 172,
     "total_following": 226,
     "total_views": 40,
     "views_from_date": "2026-07-31",
@@ -14,90 +14,90 @@
     "clones_from_date": "2026-07-31",
     "total_pull_requests": 113,
     "total_issues": 237,
-    "lines_added": 970565,
-    "lines_deleted": 501970,
+    "lines_added": 970642,
+    "lines_deleted": 501976,
     "avg_contribution_percent": "93.06%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
     "PowerShell": {
-      "size": 666316,
+      "size": 669581,
       "occurrences": 5,
       "color": "#012456",
-      "prop": 3.7511578881471324
+      "prop": 3.7688461020408015
     },
     "Shell": {
       "size": 16267,
       "occurrences": 1,
       "color": "#89e051",
-      "prop": 0.0915782982346055
+      "prop": 0.09156146835393733
     },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
       "color": "#3572A5",
-      "prop": 83.63826780496159
+      "prop": 83.6228971102273
     },
     "Dockerfile": {
       "size": 1144,
       "occurrences": 2,
       "color": "#384d54",
-      "prop": 0.006440374573085923
+      "prop": 0.006439190987699288
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.3816090825495011
+      "prop": 0.38153895201153515
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.01707487419595245
+      "prop": 0.01707173624623421
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 3.1118381178072867
+      "prop": 3.111266237075815
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 7.239042946827164
+      "prop": 7.237712585471959
     },
     "JavaScript": {
       "size": 220622,
       "occurrences": 3,
       "color": "#f1e05a",
-      "prop": 1.2420352439365057
+      "prop": 1.241806987839329
     },
     "CSS": {
       "size": 15506,
       "occurrences": 2,
       "color": "#663399",
-      "prop": 0.08729409801597056
+      "prop": 0.08727805546788912
     },
     "HTML": {
       "size": 28878,
       "occurrences": 2,
       "color": "#e34c26",
-      "prop": 0.16257442038599237
+      "prop": 0.16254454313180072
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.06380699773719917
+      "prop": 0.06379527155120955
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.20727985262801624
+      "prop": 0.20724175959449306
     }
   },
   "streak": {
@@ -107,9 +107,8 @@
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2176,
+    "total": 2177,
     "recent": [
-      0,
       0,
       6,
       0,
@@ -118,7 +117,8 @@
       0,
       2,
       10,
-      1
+      2,
+      0
     ]
   },
   "repositories": {
@@ -223,6 +223,13 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-08-14T13:00:26+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-08-14T19:04:42+00:00"
     }
   ]
 }
