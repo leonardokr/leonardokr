@@ -6,7 +6,7 @@
     "repositories_count": 20,
     "total_stars": 28,
     "total_forks": 5,
-    "total_followers": 172,
+    "total_followers": 176,
     "total_following": 226,
     "total_views": 40,
     "views_from_date": "2026-08-01",
@@ -101,15 +101,14 @@
     }
   },
   "streak": {
-    "current_streak": 3,
-    "current_streak_range": "Aug 12 - Aug 14, 2026",
+    "current_streak": 0,
+    "current_streak_range": "No streak",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
     "total": 2177,
     "recent": [
-      0,
       6,
       0,
       0,
@@ -118,6 +117,7 @@
       2,
       10,
       2,
+      0,
       0
     ]
   },
