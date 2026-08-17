@@ -14,9 +14,9 @@
     "clones_from_date": "2026-08-02",
     "total_pull_requests": 113,
     "total_issues": 237,
-    "lines_added": 970642,
-    "lines_deleted": 501976,
-    "avg_contribution_percent": "93.03%",
+    "lines_added": 953130,
+    "lines_deleted": 478171,
+    "avg_contribution_percent": "90.28%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
@@ -146,90 +146,5 @@
       "leonardokr/serial-input-monitor"
     ]
   },
-  "weekly_commits": [
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-12T16:32:45+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-12T16:35:53+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T12:11:34+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T12:17:19+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T12:56:44+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T13:46:25+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T14:53:46+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T15:14:58+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T15:29:20+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-13T16:31:24+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-14T13:00:26+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-08-14T19:04:42+00:00"
-    }
-  ]
+  "weekly_commits": []
 }
