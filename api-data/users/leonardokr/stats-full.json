@@ -4,10 +4,10 @@
     "name": "Leonardo Klein",
     "total_contributions": 2177,
     "repositories_count": 20,
-    "total_stars": 30,
+    "total_stars": 33,
     "total_forks": 5,
-    "total_followers": 175,
-    "total_following": 225,
+    "total_followers": 172,
+    "total_following": 224,
     "total_views": 31,
     "views_from_date": "2026-08-07",
     "total_clones": 376,
@@ -21,18 +21,6 @@
     "contributors_count": 6
   },
   "languages": {
-    "PowerShell": {
-      "size": 669581,
-      "occurrences": 5,
-      "color": "#012456",
-      "prop": 3.7688461020408015
-    },
-    "Shell": {
-      "size": 16267,
-      "occurrences": 1,
-      "color": "#89e051",
-      "prop": 0.09156146835393733
-    },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
@@ -50,6 +38,18 @@
       "occurrences": 2,
       "color": "#A97BFF",
       "prop": 0.38153895201153515
+    },
+    "PowerShell": {
+      "size": 669581,
+      "occurrences": 5,
+      "color": "#012456",
+      "prop": 3.7688461020408015
+    },
+    "Shell": {
+      "size": 16267,
+      "occurrences": 1,
+      "color": "#89e051",
+      "prop": 0.09156146835393733
     },
     "Batchfile": {
       "size": 3033,

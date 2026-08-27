@@ -1,18 +1,6 @@
 {
   "username": "leonardokr",
   "languages": {
-    "PowerShell": {
-      "size": 669581,
-      "occurrences": 5,
-      "color": "#012456",
-      "prop": 3.7688461020408015
-    },
-    "Shell": {
-      "size": 16267,
-      "occurrences": 1,
-      "color": "#89e051",
-      "prop": 0.09156146835393733
-    },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
@@ -30,6 +18,18 @@
       "occurrences": 2,
       "color": "#A97BFF",
       "prop": 0.38153895201153515
+    },
+    "PowerShell": {
+      "size": 669581,
+      "occurrences": 5,
+      "color": "#012456",
+      "prop": 3.7688461020408015
+    },
+    "Shell": {
+      "size": 16267,
+      "occurrences": 1,
+      "color": "#89e051",
+      "prop": 0.09156146835393733
     },
     "Batchfile": {
       "size": 3033,
