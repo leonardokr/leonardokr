@@ -2,112 +2,112 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2177,
+    "total_contributions": 2192,
     "repositories_count": 20,
     "total_stars": 33,
     "total_forks": 5,
     "total_followers": 178,
     "total_following": 224,
     "total_views": 17,
-    "views_from_date": "2026-08-07",
-    "total_clones": 351,
-    "clones_from_date": "2026-08-07",
+    "views_from_date": "2026-08-11",
+    "total_clones": 349,
+    "clones_from_date": "2026-08-11",
     "total_pull_requests": 113,
     "total_issues": 237,
-    "lines_added": 970642,
-    "lines_deleted": 501976,
+    "lines_added": 971280,
+    "lines_deleted": 502188,
     "avg_contribution_percent": "92.94%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "PowerShell": {
+      "size": 686065,
+      "occurrences": 5,
+      "color": "#012456",
+      "prop": 3.857982125739069
+    },
+    "Shell": {
+      "size": 16577,
+      "occurrences": 1,
+      "color": "#89e051",
+      "prop": 0.09321823689938498
+    },
     "Python": {
       "size": 14856617,
       "occurrences": 6,
       "color": "#3572A5",
-      "prop": 83.6228971102273
+      "prop": 83.54392489771551
     },
     "Dockerfile": {
       "size": 1144,
       "occurrences": 2,
       "color": "#384d54",
-      "prop": 0.006439190987699288
+      "prop": 0.006433109912100888
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.38153895201153515
-    },
-    "PowerShell": {
-      "size": 669581,
-      "occurrences": 5,
-      "color": "#012456",
-      "prop": 3.7688461020408015
-    },
-    "Shell": {
-      "size": 16267,
-      "occurrences": 1,
-      "color": "#89e051",
-      "prop": 0.09156146835393733
+      "prop": 0.3811786323354534
     },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
       "color": "#C1F12E",
-      "prop": 0.01707173624623421
+      "prop": 0.01705561395402272
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 3.111266237075815
+      "prop": 3.1083280038054317
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 7.237712585471959
+      "prop": 7.230877398027475
     },
     "JavaScript": {
       "size": 220622,
       "occurrences": 3,
       "color": "#f1e05a",
-      "prop": 1.241806987839329
+      "prop": 1.2406342439051765
     },
     "CSS": {
       "size": 15506,
       "occurrences": 2,
       "color": "#663399",
-      "prop": 0.08727805546788912
+      "prop": 0.08719563137852829
     },
     "HTML": {
       "size": 28878,
       "occurrences": 2,
       "color": "#e34c26",
-      "prop": 0.16254454313180072
+      "prop": 0.1623910384979453
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.06379527155120955
+      "prop": 0.06373502425153099
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.20724175959449306
+      "prop": 0.2070460435783589
     }
   },
   "streak": {
-    "current_streak": 0,
-    "current_streak_range": "No streak",
+    "current_streak": 2,
+    "current_streak_range": "Sep 03 - Sep 04, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2177,
+    "total": 2192,
     "recent": [
       0,
       0,
@@ -117,8 +117,8 @@
       0,
       0,
       0,
-      0,
-      0
+      5,
+      7
     ]
   },
   "repositories": {
@@ -146,5 +146,90 @@
       "leonardokr/serial-input-monitor"
     ]
   },
-  "weekly_commits": []
+  "weekly_commits": [
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-03T15:30:06+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-03T21:11:39+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-03T21:15:02+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-03T21:17:03+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-03T21:20:59+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-04T13:26:16+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-04T13:27:21+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-04T13:32:21+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-04T15:41:23+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-04T15:46:57+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-04T16:00:51+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-09-04T16:09:47+00:00"
+    }
+  ]
 }
