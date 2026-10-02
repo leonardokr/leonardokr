@@ -2,7 +2,7 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2192,
+    "total_contributions": 2200,
     "repositories_count": 20,
     "total_stars": 28,
     "total_forks": 5,
@@ -101,13 +101,13 @@
     }
   },
   "streak": {
-    "current_streak": 0,
-    "current_streak_range": "No streak",
+    "current_streak": 1,
+    "current_streak_range": "Oct 01 - Oct 01, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2192,
+    "total": 2200,
     "recent": [
       0,
       0,
@@ -117,7 +117,7 @@
       0,
       0,
       0,
-      0,
+      8,
       0
     ]
   },
