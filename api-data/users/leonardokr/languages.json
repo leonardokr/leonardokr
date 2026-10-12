@@ -7,6 +7,12 @@
       "color": "#3572A5",
       "prop": 83.54392489771551
     },
+    "Dockerfile": {
+      "size": 1144,
+      "occurrences": 2,
+      "color": "#384d54",
+      "prop": 0.006433109912100888
+    },
     "Batchfile": {
       "size": 3033,
       "occurrences": 2,
@@ -30,12 +36,6 @@
       "occurrences": 1,
       "color": "#89e051",
       "prop": 0.09321823689938498
-    },
-    "Dockerfile": {
-      "size": 1144,
-      "occurrences": 2,
-      "color": "#384d54",
-      "prop": 0.006433109912100888
     },
     "Java": {
       "size": 552754,
