@@ -2,7 +2,7 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2263,
+    "total_contributions": 2265,
     "repositories_count": 22,
     "total_stars": 29,
     "total_forks": 5,
@@ -16,11 +16,17 @@
     "total_issues": 237,
     "lines_added": 1001781,
     "lines_deleted": 506007,
-    "avg_contribution_percent": "93.51%",
+    "avg_contribution_percent": "93.47%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "JavaScript": {
+      "size": 395395,
+      "occurrences": 5,
+      "color": "#f1e05a",
+      "prop": 2.10509273306304
+    },
     "Python": {
       "size": 15339376,
       "occurrences": 8,
@@ -33,29 +39,23 @@
       "color": "#e34c26",
       "prop": 1.536667915505386
     },
-    "JavaScript": {
-      "size": 395395,
-      "occurrences": 5,
-      "color": "#f1e05a",
-      "prop": 2.10509273306304
-    },
     "CSS": {
       "size": 97491,
       "occurrences": 4,
       "color": "#663399",
       "prop": 0.51904448877464
     },
-    "Dockerfile": {
-      "size": 1539,
-      "occurrences": 3,
-      "color": "#384d54",
-      "prop": 0.00819367396194696
-    },
     "Batchfile": {
       "size": 3152,
       "occurrences": 3,
       "color": "#C1F12E",
       "prop": 0.016781325749224703
+    },
+    "Dockerfile": {
+      "size": 1539,
+      "occurrences": 3,
+      "color": "#384d54",
+      "prop": 0.00819367396194696
     },
     "Kotlin": {
       "size": 67785,
@@ -107,7 +107,7 @@
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2263,
+    "total": 2265,
     "recent": [
       0,
       0,
@@ -117,8 +117,8 @@
       0,
       0,
       0,
-      0,
-      63
+      65,
+      0
     ]
   },
   "repositories": {
@@ -575,6 +575,20 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-10-13T21:53:41+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-14T00:11:24+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-14T00:11:33+00:00"
     }
   ]
 }

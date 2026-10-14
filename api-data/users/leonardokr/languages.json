@@ -1,6 +1,12 @@
 {
   "username": "leonardokr",
   "languages": {
+    "JavaScript": {
+      "size": 395395,
+      "occurrences": 5,
+      "color": "#f1e05a",
+      "prop": 2.10509273306304
+    },
     "Python": {
       "size": 15339376,
       "occurrences": 8,
@@ -13,29 +19,23 @@
       "color": "#e34c26",
       "prop": 1.536667915505386
     },
-    "JavaScript": {
-      "size": 395395,
-      "occurrences": 5,
-      "color": "#f1e05a",
-      "prop": 2.10509273306304
-    },
     "CSS": {
       "size": 97491,
       "occurrences": 4,
       "color": "#663399",
       "prop": 0.51904448877464
     },
-    "Dockerfile": {
-      "size": 1539,
-      "occurrences": 3,
-      "color": "#384d54",
-      "prop": 0.00819367396194696
-    },
     "Batchfile": {
       "size": 3152,
       "occurrences": 3,
       "color": "#C1F12E",
       "prop": 0.016781325749224703
+    },
+    "Dockerfile": {
+      "size": 1539,
+      "occurrences": 3,
+      "color": "#384d54",
+      "prop": 0.00819367396194696
     },
     "Kotlin": {
       "size": 67785,
