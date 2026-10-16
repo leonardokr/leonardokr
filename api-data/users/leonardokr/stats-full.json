@@ -2,7 +2,7 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2311,
+    "total_contributions": 2314,
     "repositories_count": 23,
     "total_stars": 29,
     "total_forks": 5,
@@ -14,100 +14,100 @@
     "clones_from_date": "2026-10-02",
     "total_pull_requests": 119,
     "total_issues": 237,
-    "lines_added": 1014768,
-    "lines_deleted": 510371,
+    "lines_added": 1014813,
+    "lines_deleted": 510374,
     "avg_contribution_percent": "93.75%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "Shell": {
+      "size": 33049,
+      "occurrences": 2,
+      "color": "#89e051",
+      "prop": 0.17369555813119789
+    },
     "Python": {
       "size": 15425863,
       "occurrences": 8,
       "color": "#3572A5",
-      "prop": 81.07777422766638
+      "prop": 81.07367495053994
     },
     "HTML": {
       "size": 354495,
       "occurrences": 4,
       "color": "#e34c26",
-      "prop": 1.8632128118106968
+      "prop": 1.8631186081188233
     },
     "JavaScript": {
       "size": 449166,
       "occurrences": 5,
       "color": "#f1e05a",
-      "prop": 2.36080014056549
+      "prop": 2.3606807789511826
     },
     "CSS": {
       "size": 118920,
       "occurrences": 4,
       "color": "#663399",
-      "prop": 0.6250391897784964
+      "prop": 0.625007587913766
     },
     "Dockerfile": {
       "size": 1700,
       "occurrences": 3,
       "color": "#384d54",
-      "prop": 0.008935138098078067
-    },
-    "Shell": {
-      "size": 32087,
-      "occurrences": 2,
-      "color": "#89e051",
-      "prop": 0.16864810361942997
+      "prop": 0.008934686339164163
     },
     "Batchfile": {
       "size": 3152,
       "occurrences": 3,
       "color": "#C1F12E",
-      "prop": 0.01656679722655416
+      "prop": 0.01656595961237967
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.3562754917518952
+      "prop": 0.3562574785295545
     },
     "PowerShell": {
       "size": 686065,
       "occurrences": 5,
       "color": "#012456",
-      "prop": 3.605932658387017
+      "prop": 3.605750343105095
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 2.9052548966264964
+      "prop": 2.9051080074813806
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 6.758470129859617
+      "prop": 6.758128422871767
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.05957109129624519
+      "prop": 0.05956807939299213
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.19351932331360963
+      "prop": 0.19350953901275605
     }
   },
   "streak": {
-    "current_streak": 3,
-    "current_streak_range": "Oct 13 - Oct 15, 2026",
+    "current_streak": 4,
+    "current_streak_range": "Oct 13 - Oct 16, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2311,
+    "total": 2314,
     "recent": [
       0,
       0,
@@ -118,7 +118,7 @@
       86,
       21,
       4,
-      0
+      3
     ]
   },
   "repositories": {
@@ -905,6 +905,27 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-10-16T01:32:46+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-16T12:23:55+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-16T15:25:22+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-16T15:27:14+00:00"
     }
   ]
 }
