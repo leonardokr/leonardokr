@@ -6,7 +6,7 @@
     "repositories_count": 23,
     "total_stars": 29,
     "total_forks": 5,
-    "total_followers": 181,
+    "total_followers": 179,
     "total_following": 223,
     "total_views": 74,
     "views_from_date": "2026-10-05",
@@ -150,34 +150,6 @@
     ]
   },
   "weekly_commits": [
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T00:19:50+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T01:58:35+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T01:59:04+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T02:15:45+00:00"
-    },
     {
       "repo": "leonardokr/private-repo",
       "sha": "private",
