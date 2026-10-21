@@ -7,7 +7,7 @@
     "total_stars": 29,
     "total_forks": 5,
     "total_followers": 178,
-    "total_following": 223,
+    "total_following": 224,
     "total_views": 81,
     "views_from_date": "2026-10-06",
     "total_clones": 680,
@@ -101,15 +101,14 @@
     }
   },
   "streak": {
-    "current_streak": 7,
-    "current_streak_range": "Oct 13 - Oct 19, 2026",
+    "current_streak": 0,
+    "current_streak_range": "No streak",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
     "total": 2453,
     "recent": [
-      0,
       0,
       86,
       21,
@@ -118,6 +117,7 @@
       38,
       23,
       12,
+      0,
       0
     ]
   },
