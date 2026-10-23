@@ -6,7 +6,7 @@
     "repositories_count": 23,
     "total_stars": 29,
     "total_forks": 5,
-    "total_followers": 178,
+    "total_followers": 177,
     "total_following": 224,
     "total_views": 81,
     "views_from_date": "2026-10-07",
@@ -109,7 +109,6 @@
   "contributions": {
     "total": 2490,
     "recent": [
-      86,
       21,
       4,
       69,
@@ -118,7 +117,8 @@
       12,
       0,
       23,
-      14
+      14,
+      0
     ]
   },
   "repositories": {
