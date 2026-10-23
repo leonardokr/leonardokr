@@ -4,13 +4,13 @@
     "name": "Leonardo Klein",
     "total_contributions": 2490,
     "repositories_count": 23,
-    "total_stars": 29,
+    "total_stars": 30,
     "total_forks": 5,
     "total_followers": 177,
     "total_following": 224,
-    "total_views": 81,
+    "total_views": 86,
     "views_from_date": "2026-10-07",
-    "total_clones": 682,
+    "total_clones": 687,
     "clones_from_date": "2026-10-07",
     "total_pull_requests": 126,
     "total_issues": 237,
@@ -150,34 +150,6 @@
     ]
   },
   "weekly_commits": [
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T00:19:50+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T01:58:35+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T01:59:04+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-10-19T02:15:45+00:00"
-    },
     {
       "repo": "leonardokr/private-repo",
       "sha": "private",
