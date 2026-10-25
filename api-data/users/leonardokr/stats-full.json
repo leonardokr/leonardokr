@@ -2,112 +2,112 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 2655,
+    "total_contributions": 2689,
     "repositories_count": 24,
     "total_stars": 30,
     "total_forks": 5,
-    "total_followers": 178,
+    "total_followers": 179,
     "total_following": 224,
     "total_views": 98,
     "views_from_date": "2026-10-07",
     "total_clones": 720,
     "clones_from_date": "2026-10-07",
-    "total_pull_requests": 127,
+    "total_pull_requests": 128,
     "total_issues": 237,
-    "lines_added": 1067150,
-    "lines_deleted": 527684,
+    "lines_added": 1071136,
+    "lines_deleted": 528672,
     "avg_contribution_percent": "93.84%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
     "Python": {
-      "size": 16174346,
+      "size": 16256990,
       "occurrences": 8,
       "color": "#3572A5",
-      "prop": 79.73424131342271
+      "prop": 79.80407368703393
     },
     "HTML": {
-      "size": 515656,
+      "size": 516557,
       "occurrences": 4,
       "color": "#e34c26",
-      "prop": 2.5420156053737384
+      "prop": 2.535730961977167
     },
     "JavaScript": {
-      "size": 727628,
+      "size": 729151,
       "occurrences": 5,
       "color": "#f1e05a",
-      "prop": 3.586968310088281
+      "prop": 3.579335420208444
     },
     "CSS": {
-      "size": 151625,
+      "size": 152365,
       "occurrences": 4,
       "color": "#663399",
-      "prop": 0.7474617112276266
+      "prop": 0.7479458182188046
     },
     "Dockerfile": {
       "size": 1700,
       "occurrences": 3,
       "color": "#384d54",
-      "prop": 0.008380444577655171
+      "prop": 0.008345144166783499
     },
     "PowerShell": {
       "size": 713304,
       "occurrences": 6,
       "color": "#012456",
-      "prop": 3.5163556700116145
+      "prop": 3.5015439498490215
     },
     "Shell": {
       "size": 43350,
       "occurrences": 3,
       "color": "#89e051",
-      "prop": 0.21370133673020686
+      "prop": 0.21280117625297923
     },
     "Batchfile": {
       "size": 3152,
       "occurrences": 3,
       "color": "#C1F12E",
-      "prop": 0.015538330181628883
+      "prop": 0.015472879066883287
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.33415790335079754
+      "prop": 0.3327503513796585
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 2.724896624751298
+      "prop": 2.7134187169213213
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 6.338904192785718
+      "prop": 6.312203231946705
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.05587291696655512
+      "prop": 0.05563756705077893
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.18150564053216808
+      "prop": 0.18074109592753038
     }
   },
   "streak": {
-    "current_streak": 4,
-    "current_streak_range": "Oct 21 - Oct 24, 2026",
+    "current_streak": 5,
+    "current_streak_range": "Oct 21 - Oct 25, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 2655,
+    "total": 2689,
     "recent": [
       69,
       38,
@@ -117,8 +117,8 @@
       23,
       27,
       88,
-      64,
-      0
+      66,
+      32
     ]
   },
   "repositories": {
@@ -1655,6 +1655,244 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-10-24T23:56:17+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T02:48:41+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T02:50:34+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T06:49:10+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T06:51:07+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T06:58:16+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:05:10+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:06:27+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:09:00+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:10:51+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:11:40+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:16:36+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:18:11+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:20:46+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:25:01+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:28:09+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:29:41+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T07:30:45+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T13:08:28+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T13:16:15+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T13:17:35+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:18:37+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:20:42+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:21:50+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:26:08+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:27:05+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:28:17+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:32:21+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:32:28+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:34:03+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:35:22+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:35:37+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:43:00+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T14:48:50+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-10-25T17:13:27+00:00"
     }
   ]
 }
