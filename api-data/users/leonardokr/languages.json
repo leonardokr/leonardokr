@@ -2,82 +2,82 @@
   "username": "leonardokr",
   "languages": {
     "Python": {
-      "size": 16581462,
+      "size": 16598220,
       "occurrences": 8,
       "color": "#3572A5",
-      "prop": 79.67895001437266
+      "prop": 79.31647479976775
     },
     "JavaScript": {
-      "size": 761893,
+      "size": 816135,
       "occurrences": 5,
       "color": "#f1e05a",
-      "prop": 3.661126760915318
+      "prop": 3.899993563207889
     },
     "CSS": {
-      "size": 199991,
+      "size": 229292,
       "occurrences": 4,
       "color": "#663399",
-      "prop": 0.961017363385955
+      "prop": 1.095697800112804
     },
     "HTML": {
-      "size": 550931,
+      "size": 566861,
       "occurrences": 4,
       "color": "#e34c26",
-      "prop": 2.6473904177067347
+      "prop": 2.7088095121929423
     },
     "Batchfile": {
       "size": 3152,
       "occurrences": 3,
       "color": "#C1F12E",
-      "prop": 0.015146315231148053
+      "prop": 0.01506218911237879
     },
     "Dockerfile": {
       "size": 1700,
       "occurrences": 3,
       "color": "#384d54",
-      "prop": 0.008169015194464368
+      "prop": 0.008123642605026633
     },
     "PowerShell": {
       "size": 713304,
       "occurrences": 6,
       "color": "#012456",
-      "prop": 3.42764189074836
+      "prop": 3.408603979256422
     },
     "Shell": {
       "size": 43350,
       "occurrences": 3,
       "color": "#89e051",
-      "prop": 0.20830988745884135
+      "prop": 0.20715288642817914
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.32572746762162774
+      "prop": 0.32391830234219426
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 2.6561504851770334
+      "prop": 2.6413976144111126
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 6.178980624153126
+      "prop": 6.144661144469283
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.0544633048317995
+      "prop": 0.054160803109042276
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.17692645320293152
+      "prop": 0.17594376298498565
     }
   }
 }
