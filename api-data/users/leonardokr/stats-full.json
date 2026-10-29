@@ -16,7 +16,7 @@
     "total_issues": 237,
     "lines_added": 1092712,
     "lines_deleted": 534353,
-    "avg_contribution_percent": "93.70%",
+    "avg_contribution_percent": "93.69%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
@@ -109,7 +109,6 @@
   "contributions": {
     "total": 2975,
     "recent": [
-      12,
       0,
       23,
       27,
@@ -118,7 +117,8 @@
       114,
       129,
       44,
-      31
+      31,
+      0
     ]
   },
   "repositories": {
