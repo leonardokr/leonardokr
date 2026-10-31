@@ -64,28 +64,29 @@
 <g transform="translate(20, 50)">
     <g class="animate-fade delay-2">
     <g clip-path="url(#treemap-clip)">
-      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="259.73" height="95.61" rx="4.0" fill="#16ceaf"/>
-<text class="puzzle-text" x="130.86" y="46.81" text-anchor="middle" dominant-baseline="middle">Python</text>
-<text class="puzzle-percent" x="130.86" y="58.81" text-anchor="middle" dominant-baseline="middle">79.3%</text>
-<rect class="puzzle-rect delay-2" x="262.73" y="1.00" width="128.88" height="52.33" rx="4.0" fill="#5ba7eb"/>
-<text class="puzzle-text" x="327.17" y="25.16" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
-<text class="puzzle-percent" x="327.17" y="37.16" text-anchor="middle" dominant-baseline="middle">6.1%</text>
-<rect class="puzzle-rect delay-3" x="262.73" y="55.33" width="128.88" height="41.28" rx="4.0" fill="#2e1ad6"/>
-<text class="puzzle-text" x="327.17" y="73.97" text-anchor="middle" dominant-baseline="middle">JavaScript</text>
-<text class="puzzle-percent" x="327.17" y="85.97" text-anchor="middle" dominant-baseline="middle">3.9%</text>
-<rect class="puzzle-rect delay-4" x="1.00" y="98.61" width="139.65" height="35.39" rx="4.0" fill="#55dde8"/>
-<text class="puzzle-text" x="70.82" y="114.31" text-anchor="middle" dominant-baseline="middle">PowerShell</text>
-<text class="puzzle-percent" x="70.82" y="126.31" text-anchor="middle" dominant-baseline="middle">3.4%</text>
-<rect class="puzzle-rect delay-5" x="142.65" y="98.61" width="248.96" height="16.81" rx="4.0" fill="#1e55de"/>
-<rect class="puzzle-rect delay-6" x="142.65" y="117.42" width="248.96" height="16.58" rx="4.0" fill="#8450e5"/>
-<rect class="puzzle-rect delay-7" x="393.61" y="1.00" width="29.53" height="93.23" rx="4.0" fill="#2aa5de"/>
-<rect class="puzzle-rect delay-8" x="425.14" y="1.00" width="28.86" height="50.91" rx="4.0" fill="#4b51e2"/>
-<rect class="puzzle-rect delay-8" x="425.14" y="53.91" width="28.86" height="40.31" rx="4.0" fill="#37ded1"/>
-<rect class="puzzle-rect delay-8" x="393.61" y="96.23" width="45.04" height="23.58" rx="4.0" fill="#4689df"/>
-<text class="puzzle-percent" x="416.13" y="108.02" text-anchor="middle" dominant-baseline="middle">0.2%</text>
-<rect class="puzzle-rect delay-8" x="393.61" y="121.81" width="45.04" height="12.19" rx="3.5" fill="#6243dd"/>
-<rect class="puzzle-rect delay-8" x="440.65" y="96.23" width="13.35" height="20.93" rx="3.8" fill="#41c1db"/>
-<rect class="puzzle-rect delay-8" x="440.65" y="119.16" width="13.35" height="14.84" rx="3.8" fill="#4f6bdd"/>
+      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="258.24" height="96.33" rx="4.0" fill="#16ceaf"/>
+<text class="puzzle-text" x="130.12" y="47.16" text-anchor="middle" dominant-baseline="middle">Python</text>
+<text class="puzzle-percent" x="130.12" y="59.16" text-anchor="middle" dominant-baseline="middle">79.4%</text>
+<rect class="puzzle-rect delay-2" x="261.24" y="1.00" width="129.15" height="51.82" rx="4.0" fill="#5ba7eb"/>
+<text class="puzzle-text" x="325.82" y="24.91" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
+<text class="puzzle-percent" x="325.82" y="36.91" text-anchor="middle" dominant-baseline="middle">6.0%</text>
+<rect class="puzzle-rect delay-3" x="261.24" y="54.82" width="129.15" height="42.51" rx="4.0" fill="#2e1ad6"/>
+<text class="puzzle-text" x="325.82" y="74.08" text-anchor="middle" dominant-baseline="middle">JavaScript</text>
+<text class="puzzle-percent" x="325.82" y="86.08" text-anchor="middle" dominant-baseline="middle">4.1%</text>
+<rect class="puzzle-rect delay-4" x="1.00" y="99.33" width="141.37" height="34.67" rx="4.0" fill="#55dde8"/>
+<text class="puzzle-text" x="71.69" y="114.66" text-anchor="middle" dominant-baseline="middle">PowerShell</text>
+<text class="puzzle-percent" x="71.69" y="126.66" text-anchor="middle" dominant-baseline="middle">3.4%</text>
+<rect class="puzzle-rect delay-5" x="144.37" y="99.33" width="246.02" height="16.66" rx="4.0" fill="#1e55de"/>
+<rect class="puzzle-rect delay-6" x="144.37" y="117.99" width="246.02" height="16.01" rx="4.0" fill="#8450e5"/>
+<rect class="puzzle-rect delay-7" x="392.39" y="1.00" width="31.19" height="94.26" rx="4.0" fill="#2aa5de"/>
+<text class="puzzle-percent" x="407.99" y="48.13" text-anchor="middle" dominant-baseline="middle">1.2%</text>
+<rect class="puzzle-rect delay-8" x="425.59" y="1.00" width="28.41" height="51.29" rx="4.0" fill="#4b51e2"/>
+<rect class="puzzle-rect delay-8" x="425.59" y="54.29" width="28.41" height="40.97" rx="4.0" fill="#37ded1"/>
+<rect class="puzzle-rect delay-8" x="392.39" y="97.26" width="45.94" height="22.92" rx="4.0" fill="#4689df"/>
+<text class="puzzle-percent" x="415.37" y="108.72" text-anchor="middle" dominant-baseline="middle">0.2%</text>
+<rect class="puzzle-rect delay-8" x="392.39" y="122.18" width="45.94" height="11.82" rx="3.5" fill="#6243dd"/>
+<rect class="puzzle-rect delay-8" x="440.34" y="97.26" width="13.66" height="20.31" rx="3.9" fill="#41c1db"/>
+<rect class="puzzle-rect delay-8" x="440.34" y="119.57" width="13.66" height="14.43" rx="3.9" fill="#4f6bdd"/>
 
     </g>
   </g>
