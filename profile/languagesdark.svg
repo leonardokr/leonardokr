@@ -47,7 +47,7 @@
   <g class="animate-fade delay-2">
     <rect x="0" y="0" width="455" height="8" rx="4" ry="4" fill="#30363d" opacity="0.3"/>
     <g clip-path="url(#progress-clip)" class="progress-animate">
-      <rect x="0.00" y="0" width="361.43" height="8" fill="#3572A5"/><rect x="361.43" y="0" width="27.50" height="8" fill="#3178c6"/><rect x="388.94" y="0" width="18.81" height="8" fill="#f1e05a"/><rect x="407.74" y="0" width="15.26" height="8" fill="#012456"/><rect x="423.00" y="0" width="11.82" height="8" fill="#b07219"/><rect x="434.83" y="0" width="11.01" height="8" fill="#e34c26"/><rect x="445.84" y="0" width="5.63" height="8" fill="#663399"/><rect x="451.47" y="0" width="1.45" height="8" fill="#A97BFF"/><rect x="452.92" y="0" width="0.94" height="8" fill="#89e051"/><rect x="453.87" y="0" width="0.79" height="8" fill="#f34b7d"/><rect x="454.65" y="0" width="0.24" height="8" fill="#3D6117"/><rect x="454.90" y="0" width="0.07" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
+      <rect x="0.00" y="0" width="362.02" height="8" fill="#3572A5"/><rect x="362.02" y="0" width="27.47" height="8" fill="#3178c6"/><rect x="389.49" y="0" width="18.44" height="8" fill="#f1e05a"/><rect x="407.93" y="0" width="15.24" height="8" fill="#012456"/><rect x="423.17" y="0" width="11.81" height="8" fill="#b07219"/><rect x="434.97" y="0" width="10.66" height="8" fill="#e34c26"/><rect x="445.63" y="0" width="5.63" height="8" fill="#663399"/><rect x="451.26" y="0" width="1.45" height="8" fill="#A97BFF"/><rect x="452.71" y="0" width="0.94" height="8" fill="#89e051"/><rect x="453.65" y="0" width="0.79" height="8" fill="#f34b7d"/><rect x="454.44" y="0" width="0.24" height="8" fill="#3D6117"/><rect x="454.68" y="0" width="0.20" height="8" fill="#555555"/><rect x="454.88" y="0" width="0.08" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
     </g>
   </g>
 </g>
@@ -58,7 +58,7 @@
       <li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3572A5; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Python</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">79.4%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">79.6%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3178c6; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">TypeScript</span>
@@ -70,7 +70,7 @@
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #012456; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">PowerShell</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">3.4%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">3.3%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #b07219; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Java</span>
@@ -78,7 +78,7 @@
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #e34c26; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">HTML</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">2.4%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">2.3%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #663399; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">CSS</span>
