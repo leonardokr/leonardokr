@@ -2,19 +2,19 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 3170,
+    "total_contributions": 3171,
     "repositories_count": 27,
     "total_stars": 29,
     "total_forks": 5,
     "total_followers": 178,
     "total_following": 224,
-    "total_views": 181,
+    "total_views": 191,
     "views_from_date": "2026-10-07",
-    "total_clones": 672,
+    "total_clones": 676,
     "clones_from_date": "2026-10-07",
     "total_pull_requests": 136,
     "total_issues": 237,
-    "lines_added": 1230281,
+    "lines_added": 1230283,
     "lines_deleted": 542193,
     "avg_contribution_percent": "94.36%",
     "collaborators_count": 7,
@@ -113,7 +113,7 @@
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 3170,
+    "total": 3171,
     "recent": [
       66,
       114,
@@ -123,7 +123,7 @@
       54,
       9,
       0,
-      35,
+      36,
       0
     ]
   },
@@ -159,20 +159,5 @@
       "leonardokr/serial-input-monitor"
     ]
   },
-  "weekly_commits": [
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-11-02T00:08:56+00:00"
-    },
-    {
-      "repo": "leonardokr/sacred-gold-pt-translation",
-      "sha": "1302ca488b4fec75dc5776404470937e75568a7d",
-      "description": "Initial commit: Sacred Gold PT-BR translation and accented fonts",
-      "is_private": false,
-      "timestamp": "2026-11-02T00:47:53+00:00"
-    }
-  ]
+  "weekly_commits": []
 }
