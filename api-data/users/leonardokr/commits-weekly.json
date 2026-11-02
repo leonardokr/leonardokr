@@ -1,4 +1,19 @@
 {
   "username": "leonardokr",
-  "weekly_commits": []
+  "weekly_commits": [
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-02T00:08:56+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-pt-translation",
+      "sha": "1302ca488b4fec75dc5776404470937e75568a7d",
+      "description": "Initial commit: Sacred Gold PT-BR translation and accented fonts",
+      "is_private": false,
+      "timestamp": "2026-11-02T00:47:53+00:00"
+    }
+  ]
 }
