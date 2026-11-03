@@ -64,28 +64,28 @@
 <g transform="translate(20, 50)">
     <g class="animate-fade delay-2">
     <g clip-path="url(#treemap-clip)">
-      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="271.74" height="90.79" rx="4.0" fill="#16ceaf"/>
-<text class="puzzle-text" x="136.87" y="44.39" text-anchor="middle" dominant-baseline="middle">Python</text>
-<text class="puzzle-percent" x="136.87" y="56.39" text-anchor="middle" dominant-baseline="middle">79.6%</text>
-<rect class="puzzle-rect delay-2" x="274.74" y="1.00" width="135.08" height="48.88" rx="4.0" fill="#5ba8eb"/>
-<text class="puzzle-text" x="342.28" y="23.44" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
-<text class="puzzle-percent" x="342.28" y="35.44" text-anchor="middle" dominant-baseline="middle">6.0%</text>
-<rect class="puzzle-rect delay-3" x="274.74" y="51.88" width="135.08" height="39.91" rx="4.0" fill="#2e1ad6"/>
-<text class="puzzle-text" x="342.28" y="69.83" text-anchor="middle" dominant-baseline="middle">JavaScript</text>
-<text class="puzzle-percent" x="342.28" y="81.83" text-anchor="middle" dominant-baseline="middle">4.1%</text>
-<rect class="puzzle-rect delay-4" x="1.00" y="93.79" width="229.37" height="20.45" rx="4.0" fill="#56dee9"/>
-<text class="puzzle-percent" x="115.68" y="104.01" text-anchor="middle" dominant-baseline="middle">3.3%</text>
-<rect class="puzzle-rect delay-5" x="1.00" y="116.24" width="229.37" height="17.76" rx="4.0" fill="#1d54dd"/>
-<rect class="puzzle-rect delay-6" x="232.37" y="93.79" width="177.46" height="22.40" rx="4.0" fill="#8551e6"/>
-<text class="puzzle-percent" x="321.10" y="104.99" text-anchor="middle" dominant-baseline="middle">2.4%</text>
-<rect class="puzzle-rect delay-7" x="232.37" y="118.19" width="177.46" height="15.81" rx="4.0" fill="#27a4df"/>
-<rect class="puzzle-rect delay-8" x="411.82" y="1.00" width="15.37" height="90.19" rx="4.0" fill="#4c53e3"/>
-<rect class="puzzle-rect delay-8" x="429.19" y="1.00" width="24.81" height="46.16" rx="4.0" fill="#33ded1"/>
-<rect class="puzzle-rect delay-8" x="429.19" y="49.16" width="24.81" height="42.03" rx="4.0" fill="#478ae0"/>
-<rect class="puzzle-rect delay-8" x="411.82" y="93.19" width="27.21" height="20.42" rx="4.0" fill="#5e3edd"/>
-<rect class="puzzle-rect delay-8" x="411.82" y="115.60" width="27.21" height="18.40" rx="4.0" fill="#43c3dd"/>
-<rect class="puzzle-rect delay-8" x="441.03" y="93.19" width="12.97" height="23.73" rx="3.7" fill="#4a66dd"/>
-<rect class="puzzle-rect delay-8" x="441.03" y="118.91" width="12.97" height="15.09" rx="3.7" fill="#833ed9"/>
+      <rect class="puzzle-rect delay-1" x="1.00" y="1.00" width="270.35" height="90.79" rx="4.0" fill="#16ceaf"/>
+<text class="puzzle-text" x="136.17" y="44.39" text-anchor="middle" dominant-baseline="middle">Python</text>
+<text class="puzzle-percent" x="136.17" y="56.39" text-anchor="middle" dominant-baseline="middle">79.5%</text>
+<rect class="puzzle-rect delay-2" x="273.35" y="1.00" width="134.39" height="48.88" rx="4.0" fill="#5ba8eb"/>
+<text class="puzzle-text" x="340.54" y="23.44" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
+<text class="puzzle-percent" x="340.54" y="35.44" text-anchor="middle" dominant-baseline="middle">6.0%</text>
+<rect class="puzzle-rect delay-3" x="273.35" y="51.88" width="134.39" height="39.91" rx="4.0" fill="#2e1ad6"/>
+<text class="puzzle-text" x="340.54" y="69.83" text-anchor="middle" dominant-baseline="middle">JavaScript</text>
+<text class="puzzle-percent" x="340.54" y="81.83" text-anchor="middle" dominant-baseline="middle">4.1%</text>
+<rect class="puzzle-rect delay-4" x="1.00" y="93.79" width="228.19" height="20.45" rx="4.0" fill="#56dee9"/>
+<text class="puzzle-percent" x="115.10" y="104.01" text-anchor="middle" dominant-baseline="middle">3.3%</text>
+<rect class="puzzle-rect delay-5" x="1.00" y="116.24" width="228.19" height="17.76" rx="4.0" fill="#1d54dd"/>
+<rect class="puzzle-rect delay-6" x="231.19" y="93.79" width="176.54" height="22.40" rx="4.0" fill="#8551e6"/>
+<text class="puzzle-percent" x="319.46" y="104.99" text-anchor="middle" dominant-baseline="middle">2.4%</text>
+<rect class="puzzle-rect delay-7" x="231.19" y="118.19" width="176.54" height="15.81" rx="4.0" fill="#27a4df"/>
+<rect class="puzzle-rect delay-8" x="409.73" y="1.00" width="16.19" height="85.57" rx="4.0" fill="#4c53e3"/>
+<rect class="puzzle-rect delay-8" x="427.93" y="1.00" width="26.07" height="43.75" rx="4.0" fill="#33ded1"/>
+<rect class="puzzle-rect delay-8" x="427.93" y="46.75" width="26.07" height="39.82" rx="4.0" fill="#478ae0"/>
+<rect class="puzzle-rect delay-8" x="409.73" y="88.57" width="29.87" height="24.98" rx="4.0" fill="#5e3edd"/>
+<rect class="puzzle-rect delay-8" x="409.73" y="115.56" width="29.87" height="18.44" rx="4.0" fill="#43c3dd"/>
+<rect class="puzzle-rect delay-8" x="441.60" y="88.57" width="12.40" height="27.76" rx="3.6" fill="#4a66dd"/>
+<rect class="puzzle-rect delay-8" x="441.60" y="118.33" width="12.40" height="15.67" rx="3.6" fill="#833ed9"/>
 
     </g>
   </g>

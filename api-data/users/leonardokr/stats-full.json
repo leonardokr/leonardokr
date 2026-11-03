@@ -2,8 +2,8 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 3184,
-    "repositories_count": 27,
+    "total_contributions": 3189,
+    "repositories_count": 28,
     "total_stars": 29,
     "total_forks": 5,
     "total_followers": 176,
@@ -14,106 +14,106 @@
     "clones_from_date": "2026-10-07",
     "total_pull_requests": 137,
     "total_issues": 237,
-    "lines_added": 1235397,
-    "lines_deleted": 543547,
-    "avg_contribution_percent": "94.35%",
+    "lines_added": 1236384,
+    "lines_deleted": 544103,
+    "avg_contribution_percent": "94.58%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "C": {
+      "size": 19747,
+      "occurrences": 2,
+      "color": "#555555",
+      "prop": 0.09209285358616717
+    },
+    "Batchfile": {
+      "size": 4904,
+      "occurrences": 5,
+      "color": "#C1F12E",
+      "prop": 0.022870479261992392
+    },
     "Python": {
       "size": 17054521,
       "occurrences": 10,
       "color": "#3572A5",
-      "prop": 79.57822960319561
+      "prop": 79.53610702563493
     },
     "JavaScript": {
       "size": 872572,
       "occurrences": 5,
       "color": "#f1e05a",
-      "prop": 4.071514817761202
+      "prop": 4.06935967181795
     },
     "HTML": {
       "size": 507048,
       "occurrences": 4,
       "color": "#e34c26",
-      "prop": 2.3659405130077316
+      "prop": 2.3646881665649917
     },
     "CSS": {
       "size": 270042,
       "occurrences": 4,
       "color": "#663399",
-      "prop": 1.2600450214055352
+      "prop": 1.2593780507477468
     },
     "Shell": {
       "size": 44063,
       "occurrences": 4,
       "color": "#89e051",
-      "prop": 0.2056026980180568
+      "prop": 0.2054938678061115
     },
     "Dockerfile": {
       "size": 1729,
       "occurrences": 3,
       "color": "#384d54",
-      "prop": 0.008067699994853282
-    },
-    "C": {
-      "size": 9382,
-      "occurrences": 1,
-      "color": "#555555",
-      "prop": 0.04377742125605177
-    },
-    "Batchfile": {
-      "size": 3919,
-      "occurrences": 4,
-      "color": "#C1F12E",
-      "prop": 0.01828647558116253
+      "prop": 0.008063429576669013
     },
     "PowerShell": {
       "size": 713304,
       "occurrences": 6,
       "color": "#012456",
-      "prop": 3.3283531967199695
+      "prop": 3.326591423225168
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.31629210188035267
+      "prop": 0.3161246812345339
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 2.5792096257693067
+      "prop": 2.5778443911059017
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 5.999993747415852
+      "prop": 5.996817813454399
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.0528856632398306
+      "prop": 0.052857669648332335
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.17180141475448413
+      "prop": 0.17171047633509337
     }
   },
   "streak": {
-    "current_streak": 2,
-    "current_streak_range": "Nov 01 - Nov 02, 2026",
+    "current_streak": 3,
+    "current_streak_range": "Nov 01 - Nov 03, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 3184,
+    "total": 3189,
     "recent": [
       114,
       135,
@@ -124,11 +124,11 @@
       0,
       41,
       8,
-      0
+      5
     ]
   },
   "repositories": {
-    "count": 27,
+    "count": 28,
     "list": [
       "leonardokr/aokode.github.io",
       "leonardokr/ebook-image-extractor",
@@ -156,6 +156,7 @@
       "leonardokr/qt-ui-compiler",
       "leonardokr/sacred-gold-language-loader",
       "leonardokr/sacred-gold-pt-translation",
+      "leonardokr/sacred-gold-region-counter",
       "leonardokr/serial-input-monitor"
     ]
   },
@@ -215,6 +216,34 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-11-02T18:23:41+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-region-counter",
+      "sha": "8b5c6d84763cef16663f44b15c50a225e6f9e8ed",
+      "description": "feat: initial commit for standalone persistent region counter mod (version.dll proxy)",
+      "is_private": false,
+      "timestamp": "2026-11-03T17:37:58+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-region-counter",
+      "sha": "96f4b7575a7ad2bf32e8df0f4f36aa1b100c1a89",
+      "description": "refactor: migrate to sacred-gold-mod-loader plugin (sacred-region-counter.dll)",
+      "is_private": false,
+      "timestamp": "2026-11-03T18:20:14+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-language-loader",
+      "sha": "4fb8337c107e0e6f95ae9f56b79b2015c75fe36c",
+      "description": "refactor: migrate to sacred-gold-mod-loader plugin (sacred-language-loader.dll)",
+      "is_private": false,
+      "timestamp": "2026-11-03T18:22:16+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-region-counter",
+      "sha": "70dfe78b730a36c878f37c0d87d27b67a3526130",
+      "description": "feat: implement runtime memory scanner, auto-save and reset guard for region counters",
+      "is_private": false,
+      "timestamp": "2026-11-03T20:58:04+00:00"
     }
   ]
 }

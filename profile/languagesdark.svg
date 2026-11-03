@@ -47,7 +47,7 @@
   <g class="animate-fade delay-2">
     <rect x="0" y="0" width="455" height="8" rx="4" ry="4" fill="#30363d" opacity="0.3"/>
     <g clip-path="url(#progress-clip)" class="progress-animate">
-      <rect x="0.00" y="0" width="362.08" height="8" fill="#3572A5"/><rect x="362.08" y="0" width="27.30" height="8" fill="#3178c6"/><rect x="389.38" y="0" width="18.53" height="8" fill="#f1e05a"/><rect x="407.91" y="0" width="15.14" height="8" fill="#012456"/><rect x="423.05" y="0" width="11.74" height="8" fill="#b07219"/><rect x="434.79" y="0" width="10.77" height="8" fill="#e34c26"/><rect x="445.55" y="0" width="5.73" height="8" fill="#663399"/><rect x="451.28" y="0" width="1.44" height="8" fill="#A97BFF"/><rect x="452.72" y="0" width="0.94" height="8" fill="#89e051"/><rect x="453.66" y="0" width="0.78" height="8" fill="#f34b7d"/><rect x="454.44" y="0" width="0.24" height="8" fill="#3D6117"/><rect x="454.68" y="0" width="0.20" height="8" fill="#555555"/><rect x="454.88" y="0" width="0.08" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
+      <rect x="0.00" y="0" width="361.89" height="8" fill="#3572A5"/><rect x="361.89" y="0" width="27.29" height="8" fill="#3178c6"/><rect x="389.17" y="0" width="18.52" height="8" fill="#f1e05a"/><rect x="407.69" y="0" width="15.14" height="8" fill="#012456"/><rect x="422.83" y="0" width="11.73" height="8" fill="#b07219"/><rect x="434.56" y="0" width="10.76" height="8" fill="#e34c26"/><rect x="445.31" y="0" width="5.73" height="8" fill="#663399"/><rect x="451.05" y="0" width="1.44" height="8" fill="#A97BFF"/><rect x="452.48" y="0" width="0.93" height="8" fill="#89e051"/><rect x="453.42" y="0" width="0.78" height="8" fill="#f34b7d"/><rect x="454.20" y="0" width="0.42" height="8" fill="#555555"/><rect x="454.62" y="0" width="0.24" height="8" fill="#3D6117"/><rect x="454.86" y="0" width="0.10" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
     </g>
   </g>
 </g>
@@ -58,7 +58,7 @@
       <li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3572A5; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Python</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">79.6%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">79.5%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3178c6; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">TypeScript</span>

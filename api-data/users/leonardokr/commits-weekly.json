@@ -56,6 +56,34 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-11-02T18:23:41+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-region-counter",
+      "sha": "8b5c6d84763cef16663f44b15c50a225e6f9e8ed",
+      "description": "feat: initial commit for standalone persistent region counter mod (version.dll proxy)",
+      "is_private": false,
+      "timestamp": "2026-11-03T17:37:58+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-region-counter",
+      "sha": "96f4b7575a7ad2bf32e8df0f4f36aa1b100c1a89",
+      "description": "refactor: migrate to sacred-gold-mod-loader plugin (sacred-region-counter.dll)",
+      "is_private": false,
+      "timestamp": "2026-11-03T18:20:14+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-language-loader",
+      "sha": "4fb8337c107e0e6f95ae9f56b79b2015c75fe36c",
+      "description": "refactor: migrate to sacred-gold-mod-loader plugin (sacred-language-loader.dll)",
+      "is_private": false,
+      "timestamp": "2026-11-03T18:22:16+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-region-counter",
+      "sha": "70dfe78b730a36c878f37c0d87d27b67a3526130",
+      "description": "feat: implement runtime memory scanner, auto-save and reset guard for region counters",
+      "is_private": false,
+      "timestamp": "2026-11-03T20:58:04+00:00"
     }
   ]
 }
