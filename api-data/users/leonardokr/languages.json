@@ -1,6 +1,12 @@
 {
   "username": "leonardokr",
   "languages": {
+    "Python": {
+      "size": 17054521,
+      "occurrences": 10,
+      "color": "#3572A5",
+      "prop": 79.48966805711075
+    },
     "C": {
       "size": 31447,
       "occurrences": 3,
@@ -12,12 +18,6 @@
       "occurrences": 6,
       "color": "#C1F12E",
       "prop": 0.026711702289105726
-    },
-    "Python": {
-      "size": 17054521,
-      "occurrences": 10,
-      "color": "#3572A5",
-      "prop": 79.48966805711075
     },
     "JavaScript": {
       "size": 872572,
