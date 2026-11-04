@@ -1,8 +1,8 @@
 {
   "username": "leonardokr",
   "name": "Leonardo Klein",
-  "total_contributions": 3189,
-  "repositories_count": 28,
+  "total_contributions": 3194,
+  "repositories_count": 29,
   "total_stars": 29,
   "total_forks": 5,
   "total_followers": 176,
@@ -13,9 +13,9 @@
   "clones_from_date": "2026-10-07",
   "total_pull_requests": 137,
   "total_issues": 237,
-  "lines_added": 1236384,
-  "lines_deleted": 544103,
-  "avg_contribution_percent": "94.58%",
+  "lines_added": 1236177,
+  "lines_deleted": 543523,
+  "avg_contribution_percent": "94.78%",
   "collaborators_count": 7,
   "contributors_count": 6
 }
