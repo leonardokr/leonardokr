@@ -1,6 +1,6 @@
 {
   "username": "leonardokr",
-  "repositories_count": 30,
+  "repositories_count": 29,
   "repositories": [
     "leonardokr/aokode.github.io",
     "leonardokr/ebook-image-extractor",
@@ -28,7 +28,6 @@
     "leonardokr/qt-ui-compiler",
     "leonardokr/sacred-gold-language-loader",
     "leonardokr/sacred-gold-mod-loader",
-    "leonardokr/sacred-gold-pt-dubbing",
     "leonardokr/sacred-gold-pt-translation",
     "leonardokr/sacred-gold-region-counter",
     "leonardokr/serial-input-monitor"
