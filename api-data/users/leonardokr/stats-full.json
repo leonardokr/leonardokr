@@ -2,108 +2,108 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 5275,
+    "total_contributions": 5290,
     "repositories_count": 29,
     "total_stars": 29,
     "total_forks": 5,
     "total_followers": 177,
     "total_following": 225,
-    "total_views": 293,
+    "total_views": 301,
     "views_from_date": "2026-10-18",
-    "total_clones": 6077,
+    "total_clones": 6102,
     "clones_from_date": "2026-10-18",
     "total_pull_requests": 142,
     "total_issues": 250,
-    "lines_added": 1125194,
-    "lines_deleted": 545809,
+    "lines_added": 1127921,
+    "lines_deleted": 547857,
     "avg_contribution_percent": "90.11%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "PowerShell": {
+      "size": 699437,
+      "occurrences": 6,
+      "color": "#012456",
+      "prop": 3.2227031805946216
+    },
+    "Shell": {
+      "size": 55924,
+      "occurrences": 4,
+      "color": "#89e051",
+      "prop": 0.2576736041581638
+    },
     "Python": {
       "size": 17221437,
       "occurrences": 10,
       "color": "#3572A5",
-      "prop": 79.34159983546975
+      "prop": 79.3489332052921
     },
     "JavaScript": {
       "size": 930710,
       "occurrences": 5,
       "color": "#f1e05a",
-      "prop": 4.2879128137140965
+      "prop": 4.288309136078332
     },
     "HTML": {
       "size": 520622,
       "occurrences": 4,
       "color": "#e34c26",
-      "prop": 2.3985793049408093
+      "prop": 2.3988010003581923
     },
     "CSS": {
       "size": 281830,
       "occurrences": 4,
       "color": "#663399",
-      "prop": 1.2984307338365806
-    },
-    "Shell": {
-      "size": 44063,
-      "occurrences": 4,
-      "color": "#89e051",
-      "prop": 0.20300448293312012
+      "prop": 1.2985507449376887
     },
     "Dockerfile": {
       "size": 1729,
       "occurrences": 3,
       "color": "#384d54",
-      "prop": 0.007965747928905538
+      "prop": 0.007966484185492189
     },
     "C": {
       "size": 31447,
       "occurrences": 3,
       "color": "#555555",
-      "prop": 0.14488078375956764
+      "prop": 0.1448941747722226
     },
     "Batchfile": {
       "size": 5731,
       "occurrences": 6,
       "color": "#C1F12E",
-      "prop": 0.026403528849368214
-    },
-    "PowerShell": {
-      "size": 713304,
-      "occurrences": 6,
-      "color": "#012456",
-      "prop": 3.2862925741353592
+      "prop": 0.02640596926955219
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.31229509737470323
+      "prop": 0.31232396212468944
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 2.5466159807369877
+      "prop": 2.546851358859196
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 5.924171424001144
+      "prop": 5.924718982155167
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.052217343566347815
+      "prop": 0.05222216990073364
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.1696303487532522
+      "prop": 0.16964602731384437
     }
   },
   "streak": {
@@ -113,11 +113,11 @@
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 5275,
+    "total": 5290,
     "recent": [
       41,
       8,
-      10,
+      25,
       2000,
       14,
       18,

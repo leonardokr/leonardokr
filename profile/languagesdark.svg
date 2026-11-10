@@ -47,7 +47,7 @@
   <g class="animate-fade delay-2">
     <rect x="0" y="0" width="455" height="8" rx="4" ry="4" fill="#30363d" opacity="0.3"/>
     <g clip-path="url(#progress-clip)" class="progress-animate">
-      <rect x="0.00" y="0" width="361.00" height="8" fill="#3572A5"/><rect x="361.00" y="0" width="26.95" height="8" fill="#3178c6"/><rect x="387.96" y="0" width="19.51" height="8" fill="#f1e05a"/><rect x="407.47" y="0" width="14.95" height="8" fill="#012456"/><rect x="422.42" y="0" width="11.59" height="8" fill="#b07219"/><rect x="434.01" y="0" width="10.91" height="8" fill="#e34c26"/><rect x="444.92" y="0" width="5.91" height="8" fill="#663399"/><rect x="450.83" y="0" width="1.42" height="8" fill="#A97BFF"/><rect x="452.25" y="0" width="0.92" height="8" fill="#89e051"/><rect x="453.18" y="0" width="0.77" height="8" fill="#f34b7d"/><rect x="453.95" y="0" width="0.66" height="8" fill="#555555"/><rect x="454.61" y="0" width="0.24" height="8" fill="#3D6117"/><rect x="454.84" y="0" width="0.12" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
+      <rect x="0.00" y="0" width="361.04" height="8" fill="#3572A5"/><rect x="361.04" y="0" width="26.96" height="8" fill="#3178c6"/><rect x="388.00" y="0" width="19.51" height="8" fill="#f1e05a"/><rect x="407.51" y="0" width="14.66" height="8" fill="#012456"/><rect x="422.17" y="0" width="11.59" height="8" fill="#b07219"/><rect x="433.76" y="0" width="10.91" height="8" fill="#e34c26"/><rect x="444.67" y="0" width="5.91" height="8" fill="#663399"/><rect x="450.58" y="0" width="1.42" height="8" fill="#A97BFF"/><rect x="452.00" y="0" width="1.17" height="8" fill="#89e051"/><rect x="453.17" y="0" width="0.77" height="8" fill="#f34b7d"/><rect x="453.95" y="0" width="0.66" height="8" fill="#555555"/><rect x="454.61" y="0" width="0.24" height="8" fill="#3D6117"/><rect x="454.84" y="0" width="0.12" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
     </g>
   </g>
 </g>
@@ -70,7 +70,7 @@
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #012456; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">PowerShell</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">3.3%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">3.2%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #b07219; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Java</span>
