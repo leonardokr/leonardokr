@@ -115,10 +115,10 @@
   "contributions": {
     "total": 5290,
     "recent": [
-      18,
       15,
       29,
       6,
+      0,
       0,
       0,
       0,
@@ -161,48 +161,5 @@
       "leonardokr/serial-input-monitor"
     ]
   },
-  "weekly_commits": [
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-11-09T18:38:03+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-11-09T18:40:13+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-11-09T18:46:43+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-11-09T19:00:41+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-11-09T19:06:06+00:00"
-    },
-    {
-      "repo": "leonardokr/private-repo",
-      "sha": "private",
-      "description": "Private commit",
-      "is_private": true,
-      "timestamp": "2026-11-09T19:20:17+00:00"
-    }
-  ]
+  "weekly_commits": []
 }
