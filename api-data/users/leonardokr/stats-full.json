@@ -2,133 +2,133 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 5349,
-    "repositories_count": 29,
+    "total_contributions": 5360,
+    "repositories_count": 30,
     "total_stars": 29,
     "total_forks": 5,
     "total_followers": 172,
     "total_following": 224,
-    "total_views": 203,
+    "total_views": 174,
     "views_from_date": "2026-10-23",
     "total_clones": 6025,
     "clones_from_date": "2026-10-23",
-    "total_pull_requests": 145,
+    "total_pull_requests": 146,
     "total_issues": 250,
-    "lines_added": 1135329,
-    "lines_deleted": 548971,
-    "avg_contribution_percent": "90.10%",
+    "lines_added": 1136234,
+    "lines_deleted": 549036,
+    "avg_contribution_percent": "90.47%",
     "collaborators_count": 7,
     "contributors_count": 6
   },
   "languages": {
+    "C": {
+      "size": 43686,
+      "occurrences": 4,
+      "color": "#555555",
+      "prop": 0.19867706885698064
+    },
+    "Batchfile": {
+      "size": 7004,
+      "occurrences": 7,
+      "color": "#C1F12E",
+      "prop": 0.03185309230129314
+    },
     "PowerShell": {
       "size": 716870,
       "occurrences": 6,
       "color": "#012456",
-      "prop": 3.264813258438203
+      "prop": 3.2602122041730466
     },
     "Shell": {
       "size": 55924,
       "occurrences": 4,
       "color": "#89e051",
-      "prop": 0.25469250584471115
+      "prop": 0.25433357136743545
     },
     "Python": {
-      "size": 17415457,
+      "size": 17424084,
       "occurrences": 10,
       "color": "#3572A5",
-      "prop": 79.31454087262743
+      "prop": 79.24199827491219
     },
     "JavaScript": {
-      "size": 951439,
+      "size": 959631,
       "occurrences": 5,
       "color": "#f1e05a",
-      "prop": 4.333101764329915
+      "prop": 4.364251116245323
     },
     "HTML": {
-      "size": 539536,
+      "size": 540030,
       "occurrences": 4,
       "color": "#e34c26",
-      "prop": 2.4571878948829142
+      "prop": 2.4559716498382835
     },
     "CSS": {
-      "size": 284766,
+      "size": 284929,
       "occurrences": 4,
       "color": "#663399",
-      "prop": 1.2968987575884239
+      "prop": 1.2958123552705818
     },
     "Dockerfile": {
       "size": 1729,
       "occurrences": 3,
       "color": "#384d54",
-      "prop": 0.007874317691965983
-    },
-    "C": {
-      "size": 31447,
-      "occurrences": 3,
-      "color": "#555555",
-      "prop": 0.14321785335989257
-    },
-    "Batchfile": {
-      "size": 5731,
-      "occurrences": 6,
-      "color": "#C1F12E",
-      "prop": 0.026100471192976895
+      "prop": 0.00786322052954538
     },
     "Kotlin": {
       "size": 67785,
       "occurrences": 2,
       "color": "#A97BFF",
-      "prop": 0.3087105984672725
+      "prop": 0.3082755370706961
     },
     "Java": {
       "size": 552754,
       "occurrences": 2,
       "color": "#b07219",
-      "prop": 2.517386120014439
+      "prop": 2.513838404041832
     },
     "TypeScript": {
       "size": 1285867,
       "occurrences": 2,
       "color": "#3178c6",
-      "prop": 5.856174243849174
+      "prop": 5.8479212218999015
     },
     "TeX": {
       "size": 11334,
       "occurrences": 1,
       "color": "#3D6117",
-      "prop": 0.051617996946641084
+      "prop": 0.05154525244758088
     },
     "C++": {
       "size": 36819,
       "occurrences": 1,
       "color": "#f34b7d",
-      "prop": 0.16768334476604713
+      "prop": 0.16744703104530442
     }
   },
   "streak": {
-    "current_streak": 0,
-    "current_streak_range": "No streak",
+    "current_streak": 2,
+    "current_streak_range": "Nov 19 - Nov 20, 2026",
     "longest_streak": 34,
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 5349,
+    "total": 5360,
     "recent": [
-      0,
       0,
       0,
       0,
       0,
       9,
       33,
-      16,
+      17,
       0,
-      0
+      5,
+      5
     ]
   },
   "repositories": {
-    "count": 29,
+    "count": 30,
     "list": [
       "leonardokr/aokode.github.io",
       "leonardokr/ebook-image-extractor",
@@ -154,6 +154,7 @@
       "leonardokr/private-repo",
       "leonardokr/private-repo",
       "leonardokr/qt-ui-compiler",
+      "leonardokr/sacred-gold-gamefix",
       "leonardokr/sacred-gold-language-loader",
       "leonardokr/sacred-gold-mod-loader",
       "leonardokr/sacred-gold-pt-translation",
@@ -504,6 +505,76 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-11-17T21:01:35+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-17T21:40:33+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T00:23:37+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T00:39:01+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T00:48:06+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T01:11:28+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T01:12:38+00:00"
+    },
+    {
+      "repo": "leonardokr/sacred-gold-gamefix",
+      "sha": "f50e0b1512fa869a51dd0490f71b376c447724e6",
+      "description": "feat: initial commit for sacred-gold-gamefix",
+      "is_private": false,
+      "timestamp": "2026-11-20T03:26:00+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T03:28:50+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T03:37:10+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-20T03:43:13+00:00"
     }
   ]
 }
