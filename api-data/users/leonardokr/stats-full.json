@@ -8,9 +8,9 @@
     "total_forks": 5,
     "total_followers": 172,
     "total_following": 224,
-    "total_views": 151,
+    "total_views": 152,
     "views_from_date": "2026-10-23",
-    "total_clones": 759,
+    "total_clones": 755,
     "clones_from_date": "2026-10-23",
     "total_pull_requests": 146,
     "total_issues": 250,
@@ -118,13 +118,13 @@
       0,
       0,
       0,
-      0,
       9,
       33,
       17,
       0,
       5,
-      5
+      5,
+      0
     ]
   },
   "repositories": {
