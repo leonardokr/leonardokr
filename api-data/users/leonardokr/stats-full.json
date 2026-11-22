@@ -2,7 +2,7 @@
   "username": "leonardokr",
   "overview": {
     "name": "Leonardo Klein",
-    "total_contributions": 5363,
+    "total_contributions": 5364,
     "repositories_count": 30,
     "total_stars": 29,
     "total_forks": 5,
@@ -113,7 +113,7 @@
     "longest_streak_range": "Feb 08 - Mar 13, 2026"
   },
   "contributions": {
-    "total": 5363,
+    "total": 5364,
     "recent": [
       0,
       0,
@@ -124,7 +124,7 @@
       5,
       5,
       0,
-      3
+      4
     ]
   },
   "repositories": {
@@ -596,6 +596,13 @@
       "description": "Private commit",
       "is_private": true,
       "timestamp": "2026-11-22T05:16:11+00:00"
+    },
+    {
+      "repo": "leonardokr/private-repo",
+      "sha": "private",
+      "description": "Private commit",
+      "is_private": true,
+      "timestamp": "2026-11-22T15:17:38+00:00"
     }
   ]
 }
