@@ -6,11 +6,11 @@
     "repositories_count": 30,
     "total_stars": 29,
     "total_forks": 5,
-    "total_followers": 174,
+    "total_followers": 167,
     "total_following": 222,
-    "total_views": 152,
+    "total_views": 163,
     "views_from_date": "2026-11-12",
-    "total_clones": 783,
+    "total_clones": 784,
     "clones_from_date": "2026-11-12",
     "total_pull_requests": 148,
     "total_issues": 250,
@@ -115,7 +115,6 @@
   "contributions": {
     "total": 5449,
     "recent": [
-      17,
       0,
       5,
       5,
@@ -124,7 +123,8 @@
       17,
       33,
       28,
-      7
+      7,
+      0
     ]
   },
   "repositories": {
