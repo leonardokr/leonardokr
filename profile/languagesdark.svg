@@ -47,7 +47,7 @@
   <g class="animate-fade delay-2">
     <rect x="0" y="0" width="455" height="8" rx="4" ry="4" fill="#30363d" opacity="0.3"/>
     <g clip-path="url(#progress-clip)" class="progress-animate">
-      <rect x="0.00" y="0" width="359.66" height="8" fill="#3572A5"/><rect x="359.66" y="0" width="26.46" height="8" fill="#3178c6"/><rect x="386.12" y="0" width="20.46" height="8" fill="#f1e05a"/><rect x="406.58" y="0" width="14.75" height="8" fill="#012456"/><rect x="421.33" y="0" width="11.37" height="8" fill="#e34c26"/><rect x="432.71" y="0" width="11.37" height="8" fill="#b07219"/><rect x="444.08" y="0" width="6.14" height="8" fill="#663399"/><rect x="450.22" y="0" width="1.39" height="8" fill="#A97BFF"/><rect x="451.62" y="0" width="1.31" height="8" fill="#89e051"/><rect x="452.93" y="0" width="0.90" height="8" fill="#555555"/><rect x="453.83" y="0" width="0.76" height="8" fill="#f34b7d"/><rect x="454.59" y="0" width="0.23" height="8" fill="#3D6117"/><rect x="454.82" y="0" width="0.14" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
+      <rect x="0.00" y="0" width="358.58" height="8" fill="#3572A5"/><rect x="358.58" y="0" width="26.34" height="8" fill="#3178c6"/><rect x="384.92" y="0" width="20.96" height="8" fill="#f1e05a"/><rect x="405.88" y="0" width="14.68" height="8" fill="#012456"/><rect x="420.56" y="0" width="11.50" height="8" fill="#e34c26"/><rect x="432.07" y="0" width="11.32" height="8" fill="#b07219"/><rect x="443.39" y="0" width="6.79" height="8" fill="#663399"/><rect x="450.18" y="0" width="1.39" height="8" fill="#A97BFF"/><rect x="451.56" y="0" width="1.38" height="8" fill="#89e051"/><rect x="452.94" y="0" width="0.89" height="8" fill="#555555"/><rect x="453.83" y="0" width="0.75" height="8" fill="#f34b7d"/><rect x="454.59" y="0" width="0.23" height="8" fill="#3D6117"/><rect x="454.82" y="0" width="0.14" height="8" fill="#C1F12E"/><rect x="454.96" y="0" width="0.04" height="8" fill="#384d54"/>
     </g>
   </g>
 </g>
@@ -58,7 +58,7 @@
       <li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3572A5; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Python</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">79.0%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">78.8%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #3178c6; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">TypeScript</span>
@@ -66,7 +66,7 @@
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #f1e05a; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">JavaScript</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">4.5%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">4.6%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #012456; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">PowerShell</span>
@@ -82,7 +82,7 @@
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #663399; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">CSS</span>
-                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">1.3%</span>
+                <span style="color: #8b949e; margin-left: 4px; font-size: 11px;">1.5%</span>
             </li><li style="display: flex; align-items: center;">
                 <span style="width: 10px; height: 10px; border-radius: 50%; background-color: #A97BFF; margin-right: 6px;"></span>
                 <span style="color: #c9d1d9;">Kotlin</span>
